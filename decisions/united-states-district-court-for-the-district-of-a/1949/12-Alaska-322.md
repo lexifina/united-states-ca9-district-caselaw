@@ -1,0 +1,49 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "A-5425"
+decided: "1949-04-22"
+citations: ["12 Alaska 322"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GRAFF et al. v. ELECTRICAL ENTERPRISES, Inc. et al."]
+source_url: "https://static.case.law/alaska/12/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1270882
+cites_cases: ["10 Alaska 70"]
+---
+
+# Graff v. Electrical Enterprises, Inc.
+
+## Majority (PRATT, District Judge.)
+
+PRATT, District Judge.
+The above-entitled case was filed in the Third Division, at Anchorage, Alaska. An application for the appointment of a receiver was there made and shortly thereafter an affidavit was filed alleging that the Honorable Anthony J. Dimond, Judge of said court, was disqualified on the ground of bias.
+Under the stipulation of counsel for all parties the cause was transferred to the Judge of the Fourth Division of Alaska “(1) to consider and determine the motion for appointment of a receiver of the property now in the possession of the Defendants and described in the Plaintiffs’ Complaint herein; and (2) after that decision is made to further decide and determine the motion, with supporting affidavit, made to disqualify the * * * District Judge of the Third Division * *
+In plaintiffs’- Complaint and the supporting Affidavit to the Motion for the Appointment of a Receiver they set up that the plaintiffs were the owners of the Seward Light and Power plant at Seward, Alaska, and that they made a conditional sale of all of the real and personal property of said light plant upon the 16th day of March, 1947, to the Defendants for the sum of $80,000. An initial payment of $10,000 was to be paid on or about the 1st day of April, 1947, the balance to bear interest payable monthly from April 1, 1947 at 5 percent, and a payment on the principal of $500 per month made on the 1st of April, 1948, and monthly thereafter. The. purchaser was to take possession and run the business on and after April 1, 1947, but the title was to remain in the sellers until one-half of the purchase price had been paid. The contract provided that it was a conditional sales contract subject to the provisions of Article II, Chapter 56, Sec. 3021 et seq., C.L.A. ’33, Section 29-2-1 et seq., A.C.L.A.
+It was further stipulated in said contract that the buyers should pay all taxes before they became a lien upon said property.
+In said Complaint it is further alleged that the $10,000 payment was made on or before April 1, 1947; that only $3,600 had been paid on the interest; that no payments had been made on the principal and that taxes were owing and unpaid and had become a lien against plaintiffs’ said property in the sum of $2,311.38, together with interest and penalties.
+It was further alleged that the defendants had failed to comply with their promise in said contract to keep the chattels included therein protected by insurance in the amount of at least $30,000, as required by said contract.
+The plaintiffs’ Motion for the Appointment of a Receiver, and an affidavit supporting the same, set forth that defendants had not paid one-half of the purchase price and that plaintiffs elected to declare the contract breached by the defendants; that a demand had been made for the payment of arrears upon the contract, or for the return of the property to the plaintiffs; that no payment had been made by the defendants, but they had refused the demand and that plaintiffs wished to have the contract canceled and to be restored to their property, and that any monies paid on said contract be declared rental of said property.
+The defendants opposed the motion for the Appointment of a Receiver by an affidavit of Orrin T. Welch, President of the defendant Electrical Enterprises, Inc. After denying generally all of the allegations of the affidavit supporting the Motion for the Appointment of a Receiver, Mr. Welch sets forth “that during the latter part of July, 1948, Mrs. Elizabeth G.' Knight, attorney in fact for the owners and grantors of the Seward Light & Power Co., wrote the affiant herein a letter stating that if the defendants would pay the sum of One Thousand Dollars ($1,000.00) back interest, the defendants would be permitted to operate during 1948 and 1949 as long as the interest was paid and would not be considered in violation of said contract.”, and then states that he had mislaid the letter, but the same was seen by a stockholder and an employee of the corporation. They filed corroborating affidavits.
+Mr. Welch then sets forth a statement of the conditions of the property when he took it over, and of the improvements he has made thereon. He further sets up the procedure which is necessary to procure the approval of the Federal Power Commission for the sale of a utility, and alleges that the plaintiffs have not made any application for a transfer or assignment to the defendants of the license to operate said public utilities in Seward.
+Although the law relative to conditional sales specifically limits its operation to chattels, or to chattels which are about to become fixtures to the land, it is believed that the contract of the parties to the effect that the contract is a conditional sale, and that the provisions of law regarding conditional sales shall govern the contract, is sufficient to constitute a conditional sale of real property as between the parties, and to make the provisions of the conditional sales law applicable to said contract.
+The statement of Mr. Welch as to receiving a letter from one of the plaintiffs to the effect that if defendants paid $1,000 on back interest, (it then being July, 1948), they could operate the business for 1948 and 1949 without the payment of principal, providing they paid all interest, is far from stating any defense. There is no allegation that the defendants paid the $1,000, nor is there any allegation that they had paid all of the other interest due. It therefore becomes wholly unnecessary to decide whether or not there was any consideration passing from defendants to plaintiffs to support the promise in said letter.
+Said contract states that defendants received the property involved, in good condition and that defendants are to keep it in such condition. It further states that the whole contract between the parties is contained in the said contract. At best, it is but a controversial point.
+The fact that the allegations of the plaintiffs are controverted does not mitigate against the right of plaintiffs to have a receiver appointed.
+The contract between the parties shows that the title to the Federal Power Commission license is to remain in the “Seward Light and Power” until one-half of the principal sum of the contract has been paid. Then the plaintiffs would be under obligation to transfer all of their rights over to the defendants, but there is no provision that the plaintiffs are to procure the transfer or the re-issue of the license by the Federal Power Commission.
+It appears to the undersigned that the plaintiffs have stated a cause of action and a cause for the appointment of a receiver, and one should be appointed upon qualifying therefor and giving a proper bond.
+The affidavit to disqualify the Judge of the Third Division is as follows:
+“Orrin T. Welch being first duly sworn under oath deposes and says:
+“That he is one of the defendants in the above entitled proceedings; that the Honorable Anthony J. Dimond, Judge before whom these proceedings will be heard, was for many years prior to his assuming said Judgeship counsel for E. H. Graff and J. H. Graff, two of the plaintiffs in this action; and by virtue of this fact it is the belief of affiant that the said Anthony J. Dimond has a personal bias or prejudice in favor of the plaintiffs in the above entitled action; that this affidavit is made in good faith and not for the purpose of delay.
+/s/“Orrin T. Welch
+“Affiant — Defendant.
+“Subscribed and sworn to before me this 13th day of April, 1949. .
+/s/ “Aimer J. Peterson
+“Notary Public for Alaska
+“My Commission Expires: 9/15/52”
+It will be seen that the affidavit constitutes nothing but a conclusion on the part of the affiant that Anthony J. Dimond has a personal bias or prejudice in favor of the plaintiffs. There are no facts whatsoever set forth in the affidavit which would tend to show to' a sane and reasonable person that Judge Dimond has any personal bais or prejudice in favor of the plaintiffs.
+The Act of Congress approved January 25, 1940, 54 Stat.- 16, which authorized an affidavit of bias to be filed against a Judge provides: “Every such affidavit shall state the facts and reasons for the belief that such bias or prejudice exists, ‡ *
+In United States v. Pioneer Packing Company et al., 10 Alaska 70, there are set forth a few of the large number of cases constituting the unbroken line of decisions to the effect that an affidavit of prejudice must state facts from which a sane and reasonable mind may infer bias or prejudice; and that a Judge against whom an insufficient showing for recusation has been made owes it to his Oath of Office and to the litigant who has invoked the jurisdiction of the Court over which he regularly presides not to withdraw from the case, where an insufficient affidavit of prejudice has been filed, however much his personal feelings may incline him to do so.
+It is the opinion of this Court that the affidavit filed in this cause does not state any facts at all which would show any personal bias or prejudice on the part of the Honorable Anthony J. Dimond, and that it is his duty therefore to continue with the further proceedings in this case.
+An order pursuant to the above-mentioned opinion should be entered.
