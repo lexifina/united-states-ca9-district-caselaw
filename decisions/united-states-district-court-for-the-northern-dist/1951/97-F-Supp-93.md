@@ -1,0 +1,31 @@
+---
+court: "United States District Court for the Northern District of California"
+docket: "29210"
+decided: "1951-05-01"
+citations: ["97 F. Supp. 93"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES v. CRISPIN et al."]
+source_url: "https://static.case.law/f-supp/97/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1405545
+cites_cases: ["16 T.C. 16", "2 T.Ct. 924", "26 U.S.C.A. §§ 3740"]
+---
+
+# United States v. Crispin
+
+## Majority (HARRIS, District Judge.)
+
+HARRIS, District Judge.
+Defendants, United States citizens residing in California, have contested the right of the United States to recover an alleged erroneous refund of taxes from them. The dispute concerns certain funds which defendants received pursuant to an annuity policy which defendant Charles A. Crispin obtained by reason of his employment with the Standard-Vacuum Oil Company.
+Prior to January 1, 1941, defendants were residents of China, where Charles A. Crispin was employed by Standard-Vacuum Oil Company in China until his retirement. He participated in a group annuity plan of his employer under which an annuity contract was purchased for him. The employer and employee both made annual contributions. Crispin contributed $2,156 toward the cost; his employer contributed $30,631.68. The entire co¡st was paid when defendant Charles Crispin became eligible to retire on September 17, 1940, on which date his rights became fixed and non-forfeitable. Until retirement, Crispin had no vested right to the employer’s contributions.
+Under the retirement plan October 1, 1940, was the certificate anniversary. Receipt of the annuity payments was to begin as soon after that date as defendant Crispin retired. This he did on January 1, 1941.
+For the years 1943 and 1944 defendants received annuities of $2,869.32 per year. They computed their income taxes upon the taxable portion of their annual receipts as if the cost of the annuity contracts were $2,156, such sum representing the actual contribution of Charles A. Crispin. Thereafter they filed refund claims on the theory that the cost of the contracts included the employer’s contributions, as well as those of Crispin. Plaintiff allowed refunds, but commenced timely action to recover the refunds. This action was brought under the provisions of Sections 3740 and 3746(b) of the Internal Revenue Code, 26 U.S.C.A. §§ 3740, 3746(b), for recovery of an erroneous refund.
+Plaintiff contends that under Internal Revenue Code Sections 22(a) and 22(b) (2) (B) defendants are not entitled to exclude the sums paid by the employer for the annuity policy. 26 U.S.CA. § 22(a), (b) (2) (B). The United States asserts that the: $30,631.68 paid by the employer is not a part of the cost of the annuity to the employee and cannot be used by him to compute the employee’s cost of the annuity.
+In the action brought by Charles L. Jones, 2 T.Ct. 924, analysis of this problem was made in an opinion which ruled in favor of the Government. The only distinction between the instant case and that of Charles L. Jones is the place of residence of the taxpayer. Defendants, as residents of China ■during the years of their employer’s contribution to the annuity, were tax exempt. It is their view that this circumstance is •sufficient to warrant the Court in making a •different ruling from that of the Tax Court in the Jones case.
+In view of the fact that defendant Charles A. Crispin’s right to the annuity did not become non-forfeitable until October 1940, the Court deems the distinction immaterial. The fact that the defendant resided in China prior to 1941, and was thereby exempt from income tax has no bearing on the issue. In fact, if he were, during those years, a resident of the United States, the payments made by the employer would not be income and were not includible in gross income. While the factual differences between the Jones and the instant case establish the equitable standing of present defendants as opposed to Jones — a United States resident who had never paid taxes on the controverted sum — , they do not constitute the basis for a different ruling.
+The recent decision of Ella B. Higgs, 16 T.C. 16, decided January 8, 1951, is consistent with and follows the ruling made in the case of Charles L. Jones, supra.
+In the light of the above cited interpretations of the relevant sections of the Internal Revenue Code,’ this Court holds that the cost of the annuity to the defendant Charles Crispin was limited to his own contribution of $2,156. The contributions made by Standard-Vacuum Oil Company in the amount of $30,631.68 were and are taxable when received and cannot be considered a part of the cost of the annuity.
+Accordingly, judgment shall be entered in favor of the plaintiff in the amount prayed, upon preparation of findings of fact and conclusions of law consistent with this decision.
+. “(B) Employees’ annuities. If an annuity contract is purchased by an employer for an employee under' a plan with respect to which the employer’s contribution is deductible under section 23 (p) (1) (B), or if an annuity contract is purchased for an employee by an employer exempt under section 101 (6), the employee shall include in his income the amounts received under such contract for the year received except that if the employee paid any of the consideration for the annuity, the annuity shall be included in his income as provided in subparagraph (A) of this paragraph, the consideration for such, annuity being considered the amount contributed by the employee. In all other cases, if the employee’s rights under the contract are nonforfeitable except for failure to pay future premiums, the amount contributed by the employer for such annuity contract on or after such rights become nonforfeitable shall be included in the income of the employee in the ■ year iu which the amount is contributed, which amount together with any amounts contributed by the employee shall constitute the consideration paid for the annuity contract in determining the amount of the annuity required to be included in the income of the employee under sub-paragraph (A) of this paragraph.”
