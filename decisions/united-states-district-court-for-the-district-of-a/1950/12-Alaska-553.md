@@ -1,0 +1,30 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "A-5766"
+decided: "1950-01-12"
+citations: ["12 Alaska 553", "87 F. Supp. 705"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BURNS v. MAIN et al."]
+source_url: "https://static.case.law/alaska/12/cases/0553-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1270887
+cites_cases: ["100 A.L.R. 1021", "117 Conn. 539", "123 F.2d 403", "127 Tex. 462", "132 A.L.R. 981", "142 Or. 611", "149 A. 600", "169 A. 272", "174 N.E. 371", "200 Wash. 243", "258 Ky. 698", "342 Ill. 266", "69 App.D.C. 60", "81 S.W.2d 5", "84 N.H. 288", "88 A.L.R. 578", "88 A.L.R. 601", "93 P.2d 376", "94 S.W.2d 407", "98 F.2d 341"]
+---
+
+# Burns v. Main
+
+## Majority (DIMOND, District Judge.)
+
+DIMOND, District Judge.
+This is an action in tort for recovery of damages from the defendants for injuries claimed to have been sustained by plaintiff on or about August 21, 1949, through being struck by a motor car, the property of the defendant, L. T. Main, then driven by the defendant, Tom Main, the son of L. T. Main. Tom Main is of the age of 18 years. The complaint embraces averments charging the defendant, Tom Main, with negligence, and that such negligence was the proximate cause of the injuries to plaintiff. The complaint further alleges that the automobile was defective in certain respects, that the defendant, Tom Main, was a reckless driver and that the father, the defendant, L.- T. Main, had full knowledge not only of the defects in the motor car but also of the heedless and thoughtless habits of driving of his son, the defendant, Tom Main.
+As respects-the alleged liability of the defendant, L. T. Main, the amended complaint appears to be largely based upon what is known as the family purpose doctrine concerning motor cars. • That doctrine is one of comparatively recent origin and rapid growth. It holds that the owner of an automobile which was purchased and maintained for the use and pleasure of his family, is liable for injuries inflicted by the vehicle while it is being used by members of his family for their own pleasure, recreation or purpose. The theory on which this doctrine is based is that the car while so used by some member of the family is being used for the purpose or business for which it was kept, and that the person operating it other than the owner was, therefore, acting as the owner’s agent or servant in so using it. The doctrine undoubtedly involves a somewhat novel application of the rule of respondeat superior. However, it is supported by definite and logical considerations: principally, the financial responsibility of the owner is thus always associated with a motor car while it is being used by another member of the family — who is likely to be financially irresponsible — in the pursuit and furtherance of the purpose for which the car is kept; also, this doctrine relieves the injured person of the difficult, and, at times, impossible task of meeting the owner’s claim that upon the occasion in question the vehicle was not being used for his pleasure or business. 5 Am.Jur. 704; Smith v. Doyle, 1938, 69 App.D.C. 60, 98 F.2d 341, 343.
+The family purpose doctrine has been adopted in many jurisdictions although in others it has been completely rejected. It is most clearly applied in cases where the injured person seeks to hold the owner of the car kept for the family use liable for an injury caused by it while one of the children of the family was using it for that child’s purposes. An examination of the adjudicated case indicates that courts have divided almost equally on the subject, though perhaps to a slight extent in number favoring the non-liability view.
+A summary of cases bearing on the family purpose doctrine may be found in the annotations in 132 A.L.R. 981; 100 A.L.R. 1021; 88 A.L.R. 601. Among the cases upholding the doctrine are: McDowell v. Hurner, 1933, 142 Or. 611, 20 P.2d 395, 88 A.L.R. 578; Cook v. Rafferty, 1939, 200 Wash. 243, 93 P.2d 376; Wells v. Lockhart, 1935, 258 Ky. 698, 81 S.W.2d 5; Baker v. Paradiso, 1933, 117 Conn. 539, 169 A. 272.
+The Court of Appeals for the Ninth Circuit, in the case of Jones v. Weaver, 1941, 123 F.2d 403 affirmed a judgment of the United States District Court for Arizona, wherein, applying Arizona law, recovery was had under the doctrine, therein referred to as the “family car doctrine”, the Appellate Court saying:
+“ * * * We are of the opinion and hold * * * that under the ‘family car doctrine’ of Arizona, the husband individually would be liable for the negligent conduct of his wife in driving the family automobile.” 123 F.2d at page 406.
+In other jurisdictions, equally widely scattered geographically, the courts have rejected the doctrine, as illustrated in the following: White v. Seitz, 1930, 342 Ill. 266, 174 N.E. 371; Lafond v. Richardson, 1930, 84 N.H. 288, 149 A. 600; Bluth v. Neeson, 1936, 127 Tex. 462, 94 S.W.2d 407.
+A number of courts have held that the family purpose doctrine has no application where the car is taken surreptitiously or in violation of orders, 132 A.L.R. 981, 988, 100 A.L.R. 1021, 1026 ; 88 A.L.R. 601, 612.
+In no Division of the District Court of Alaska has any reported pronouncement been made on the subject, and therefore, it seems now appropriate, for the sound reasons advanced in the cases in its favor, to support the doctrine in this jurisdiction.
+Accordingly, I am of the opinion that the amended complaint in this action, on the family purpose doctrine aloné, and' without making any decision on its aspects otherwise,- states a cause of action. The motion to dismiss has been, therefore, denied.
