@@ -1,0 +1,58 @@
+---
+court: "United States District Court for the District of the Northern Mariana Islands"
+docket: "CIVIL ACTION NO. 80-0009"
+decided: "1980-05-01"
+citations: ["1 N. Mar. I. Commw. 38"]
+reporter: "n-mar-i-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["~IA~V. ALFRED URETA Judge o the above entitled Court"]
+parties: ["ROBERT D. BRADSHAW, individually and in his official capacity as Public Auditor of the Commonwealth of the Northern Mariana Islands, and EDWARD A. CABRERA, JOSE Q. DELEON GUERRERO, CHRISTINA S. TORRES, AUGUSTIN TAGABUEL, DOLORES G. CASTRO and ANTONIO BENAVENTE, Plaintiffs, v. CARLOS S. CAMACHO, individually and in his official capacity as Governor of the Commonwealth of the Northern Mariana Islands; SAUL A. NEWMAN, in his official capacity as Director of Finance for the Commonwealth of the Northern Mariana Islands and THE GOVERNMENT OF THE NORTHERN MARIANA ISLANDS, Defendants."]
+source_url: "https://static.case.law/n-mar-i-commw/1/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7340700
+cites_cases: ["82 S.Ct. 691"]
+---
+
+# Bradshaw v. Camacho
+
+## Majority
+
+DECISION AND ORDER
+Defendants' Motion to Dismiss the Complaint and Plaintiffs' Application for Preliminary Injunction came on for hearing on April 24, 1980 and the Court having heard argument of counsel and having read memoranda in support of their respective positions, and being otherwise fully advised, now enters herewith its Decision and Order:
+DECISION AND ORDER
+House Bill 2-88, "An Act making Appropriations for the Operation of the Government of the Commonwealth..." contained appropriations for the fiscal year 1980 for the Executive, Judicial and Legislative branches of the Commonwealth government. Defendant Governor Camacho approved H.B. 2-88 but vetoed several sections in the Act including all appropriations for the Office of the Public Auditor. The governor's authority to veto items or sections in appropriation bills is clearly set out in the Constitution of the Northern Mariana Islands.
+Article II (Legislative Branch) Section 7(a) provides:
+"Every bill enacted shall be signed by the presiding officer of the house in which the bill originated and transmitted to the governor. If the governor signs the bill it shall become law. If the governor vetoes the bill, it shall be returned to the presiding officer of each house of the Legislature with a statement of the reasons of the veto. The governor may veto an item or section in an appropriation bill and sign the remainder of the bill."
+Section 7(c) provides that "A bill or item of a bill vetoed by the governor may be reconsidered by the legislature. If two-thirds of the members in each house vote upon reconsideration to pass the bill or item, it shall become law."
+Equally clear in the Constitution of the Northern Mariana Islands is the creation of the position of public auditor. Section 12 of Article III (Executive Branch) states: "The governor shall appoint a public auditor with the advice and consent of each house of the legislature... (who) shall audit the receipt, possession and disbursement of public funds by the executive, legislative and judicial branches of the government.... The public auditor may be removed only for cause and by the affirmative vote of two-thirds of the members of each house of the legislature..."
+In vetoing the funds for the public auditor, .the governor sets forth séveral reasons which, summed up, amounts to a lack of confidence in the professional integrity and competence of the public auditor.
+When the governor signed H.B. 2-88 on April 9, 1980, the Bill became Public Law 2-1 effective that date. On that date, the governor addressed a memo to the Acting Director of Finance advising him of his actions in vetoing the funds for the Office of the Public Auditor and directed him "...not to accept or incur any commitment and/or obligations against (the Office of the Public Auditor) or (its) accounts after close of business April 9, 1980." A copy of this memo was sent to the public auditor.
+On April 15, 1980, plaintiffs' Bradshaw, (the appointed Public Auditor) and the staff members of the Office of the Public Auditor, (all of whom are civil service employees) filed their complaint asking:
+1. for relief declaring the governor's action in directing that no salary payments be made to Bradshaw and the civil service employees on the staff of the public auditor be without force or effect;
+2. for an injunction mandating the Director of Finance to disburse funds for the payment of salaries to the plaintiffs;
+3. for damages of $100,000 each for mental anguish;
+4. for damages greater than $5000 for breach of contract for each plaintiff;
+5. for costs and attorneys fees.
+A Temporary Restraining Order was issued by this Court restraining the defendants from any action interfering with the employment of plaintiffs or in any manner attempting to withhold or interfere with the payment of plaintiffs' salaries. Within ten days thereafter, this Court held a hearing on plaintiffs' Application for Preliminary Injunction.
+With the defendant governor's veto of all funds appropriated for the constitutionally created office of the Public Auditor, a basic issue is raised as to whether or not the veto power granted to the governor by the Constitution is absolute and is to be applied literally or are there circumstances, conditions, exceptions or limitations to the exercise of this power. We do not now attempt to answer this question inasmuch as the present hearing is confined to the limited question of whether or not the Complaint should be dismissed and whether or not a preliminary injunction issue at this time. Involved in this limited question are such issues as jurisdiction of this Court and justiciability for intervention by the Court.
+MOTION TO DISMISS
+Defendants filed their motion to Dismiss the Complaint. This motion, while addressed to the subject of dismissal of the Complaint, asks also that the Preliminary Injunction sought at this hearing be denied. Defendants' memorandum also argues both for dismissal of the .Complaint and denial of the Preliminary Injunction.
+Various reasons are advanced in support of the motion, one of which is that this Court lacks jurisdiction over the subject matter of this action. 48 U.S.C.A. § 1694a(b) and Section 402(b) of the Covenant provide that "the district court shall have original jurisdiction in all causes in the Northern Mariana Islands... jurisdiction over which is not vested... in a court or courts of the Northern Mariana Islands." Legislation creating the Commonwealth Trial Court gave to it jurisdiction over civil actions in which the amount in controversy does not exceed $5000. The present action is civil in nature and the amounts prayed for by plaintiffs and disputed by defendants is in excess of $5000 thereby putting this action into that category of cases in which the amount in controversy exceeds $5000. This action, therefore,■falls within the jurisdiction of this Court.
+Defendants also argue that the Complaint be dismissed for nonjusticiability on the ground of "political question" doctrine.
+There are no "clear cut" circumstances in which the Court can dismiss on the ground of presence.of political question. However, there are specific guidelines set out by the Supreme Court that can be applied to a particular suit such as the present case.
+A jurisdictional principle closely related to the "case or controversy" requirement is the rule that the federal court will not decide "political questions". The principle of non-justiciability of a case because of a "political question" was recognized in Baker v. Carr, (1962) 82 S.Ct. 691.
+The Court clarified the murky area of "political question" doctrine by reciting six formulations with which federal courts may rely on in determining whether a particular case should be dismissed for nonjusticiability on the ground of a political question's presence. The Court in Baker v. Carr said:
+Prominent on the surface of any case held to involve a political question is found (1) a textually demonstrable constitutional commitment of the issue to a coordinate political department; (2) or a lack of judicially discoverable and managiable standards for resolving it; or (3) the impossibility of deciding without an initial policy determination of a kind clearly for nonjudicial discretion; or (A) the impossibility . of a court's undertaking independent resolution without expressing lack of the respect due coordinate branches of government; or (5) an unusual need for unquestioning adherence to a political decision already made, or (6) the potentiality of embarrassment from multifarious pronouncement by various departments on one question. Unless one of these formulations is inextricable from the case ***, there should be no dismissal for nonjusticiability on the ground of a political question's presence. (numbers and emphasis added)
+82 S.Ct. at 710.
+In other words, the court must presume, once the plaintiff has asserted subject matter jurisdiction under the statutory provision of 48 U.S.C.A. 1964a(b), that the case does not present a political question. However this presumption disappears once the court finds that the issue(s) raised in the case falls into one of six formulations stated above. If one (or more) of these formulations is incapable of. being disentagled from the case, then the court can dismiss the case for nonjusticiability on the ground of a political question's preseiice.
+Of the above formulations, nos. 1 and 4 appear to be applicable to the present case.
+Article II, Section 7(a) and Article II, Section 7(c) provide the basis for a finding herein that there exists the "textually demonstrable constitutional commitment of the issue (of funding) to a coordinate political department." The process of Executive veto has been exercised and there yet remains the legislative prerogative to reconsider or not to reconsider. (Incidentally, H.B. 128 was introduced on April 15, 1980 allocating funds for the Office of the Public Auditor.)
+A political question is present under the present factual posture of this case. At least, the political process must be given reasonable opportunity to function.
+It is also impossible for this Court to avoid "undertaking independent resolution by way of injunction and/or declaratory judgment without expressing lack of respect due coordinate branches of government," and again the Court stresses the present posture of this case. This formulation would be particularly, supportive of the axiom that political questions should be determined by the political departments of government or elec-toraté rather than the courts. This formulation would also be in support of defendants' contention that the effect of the Court's assuming jurisdiction would be to blend or infringe upon the powers reserved to the executive and legislative branches of government.
+Accordingly, the Court finds the existence of a political question'inextricable from the case.
+Since this hearing, as stated earlier,, i's limited to .the question for dismissal on jurisdictional and justiciability grounds, the Court does not rule oh the merits of the basic issue relating to the absolute or conditional .power of veto by the governor.
+The Motion to Dismiss is GRANTED; the Temporary Restraining Order heretofore issued is DISSOLVED and the Application for a Preliminary Injunction is DENIED.
+IT IS SO ORDERED.
+DATED: Saipan, Northern Mariana Islands this FIRST day of MAY, 1980.
+~IA~V. ALFRED URETA Judge o the above entitled Court
