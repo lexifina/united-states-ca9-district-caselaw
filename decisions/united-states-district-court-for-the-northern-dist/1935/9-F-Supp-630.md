@@ -1,0 +1,32 @@
+---
+court: "United States District Court for the Northern District of California"
+docket: "19292-S"
+decided: "1935-02-05"
+citations: ["9 F. Supp. 630"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MAGGIORINI v. NEW YORK LIFE INS. CO."]
+source_url: "https://static.case.law/f-supp/9/cases/0630-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4140612
+cites_cases: ["37 P.(2d) 115"]
+---
+
+# Maggiorini v. New York Life Ins.
+
+## Majority (ST. SURE, District Judge.)
+
+ST. SURE, District Judge.
+On July 27, 1927, defendant company is- • sued a 20-year endowment policy for $5,000 upon the life of Paolo Maggiorini. Default was made in the payment of the annual premium on January 6, 1932. Insured died on .March 21, 1932, and thereafter defendant received proof .of death. Plaintiff, the widow, as beneficiary sues claiming the full amount of the policy, favorably construing and invoking the provisions of section 450 of the California Civil Code. .
+The policy contains the following provisions for surrender values:
+“In event of default in payment of premium after two full years’ premiums have been paid, the insured, within three months after such default, but not later, may surrender this policy and all claims thereunder and receive its cash surrender value as at date of default less any indebtedness hereon. The cash surrender value shall be the reserve on the face amount of the policy at date of default, omitting fractions of a dollar per thousand .of insurance, and the reserve on any outstanding dividend additions and any outstanding dividend deposits, and less a surrender charge for the second to the ninth years, inclusive, of not more than one and one-half per cent of the face of the policy. The reserve shall be computed on the basis of the American Table of Mortality and interest at 3 per cent.
+“If the policy shall not have been, surrendered for its cash surrender value within three months after such default it will be continued automatically as participating paid-up insurance for the amount which the cash surrender value at date of default less any indebtedness hereon, will purchase as a net single premium at the attained rated-up age of the insured at the date, of default according to the American Table of Mortality and interest at 3 per cent. The insured may obtain a loan on such-paid-up insurance or surrender it within one month after any anniversary for its cash surrender value.”
+The net cash surrender value of the policy at the date of the default was $215.55. No request for payment of this am'ount having been made, the policy continued automatically as participating paid-up insurance for the amount which the net cash surrender value would purchase as a single net premium at the attained rated-up age of the insured at the date of default according to the American Table of Mortality, and interest at 3 per cent. The amount of this paid-up insurance in force at the time of the insured’s death was $313. To this amount there was added $2.66 as a post mortem dividend, and 18 cents interest on the amount payable at the death of insured, resulting in a total available at the death of insured of $315.84, which amount was tendered to the plaintiff, and, on her refusal to accept, was paid into court.
+Plaintiff admits the default in premium payment, that the cash surrender value of $21-5.55 was correctly determined, and that this sum was applied in all respects pursuant to and in compliance with the terms of the policy. Plaintiff’s contention is that the terms of the policy do not comply with section 450 of the Civil Code, and that the non-forfeiture provisions of that section entitle her to recover.
+The statute provides, in part: “Every contract or policy of life insurance * * * shall provide * * * that without any action on the part of the insured, the net value of such policy * * * shall be applied as a single premium to the purchase of one of the following stipulated forms of insurance.” Then follow three alternative forms of insurance.
+Counsel for plaintiff contends that the policy must contain all three of the forms, and that the insured is entitled to elect among them; citing in support of such contention Metcalf v. Metropolitan Life Insurance Co. (Cal. App.) 37 P.(2d) 115, 116.
+In the Metcalf Case the policy provided that after default in the payment of premiums the insured might elect as to one of three options contained in the policy, “provided there be no indebtedness hereon.” The time for the election had not expired •when the insured died.
+The District Court of Appeal held that the condition of nonindebtedness laid down for the exercise of one of the options was illegal, and therefore recourse must be had to section 450, reading into the policy the first provision of such section granting nonparticipating term 'insurance. The court further held that when the insured dies after default, and within the period allowed for making an election, the election survives to the beneficiary.
+In the present case the policy does not contain the objectionable nonindebtedness feature; nor is the option for cash surrender value involved. And neither the policy here nor the statute give the insured or the beneficiary any election whatever. The policy here provides, in case of default, for paid-up participating insurance, while the statutory alternatives are for nonparticipating insurance. The defendant is a mutual company, writing only participating insurance. The holders of participating insurance participate in the dividends of the company, while owners of nonparticipating insurance do not. The admitted net value of the policy here for participating or nonparticipating insurance is $215.55. Had the policy provided for nonparticipating insurance, the admitted net value of $215.55 would have bought extended insurance in the amount of $313. Under the participating policy, the net value of $215.55 was applied to the purchase of participating insurance in the amount of $313, and the beneficiary is entitled to $2.66 in addition for participating dividends. The evidence shows that there is no difference in the premium rate of participating or nonparticipating insurance, and that the net cash value of $215.55 would buy $313 worth of insurance, participating or nonparticipating.
+Under the circumstances, I think that the provisions of the policy here are "in conformity” with section 450 of the Civil Code.
