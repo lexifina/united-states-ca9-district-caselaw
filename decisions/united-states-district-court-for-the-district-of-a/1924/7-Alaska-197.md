@@ -1,0 +1,34 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "1187"
+decided: "1924-07-25"
+citations: ["7 Alaska 197"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GOZOVICH v. SULLIVAN, U. S. Marshal."]
+source_url: "https://static.case.law/alaska/7/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1268271
+cites_cases: ["151 U. S. 242", "218 U. S. 443", "282 F. 604", "31 S. Ct. 45", "4 Alaska, 37", "5 Alaska, 81", "54 L. Ed. 1101"]
+---
+
+# Gozovich v. Sullivan
+
+## Majority (RITCHIE, ’District Judge.)
+
+RITCHIE, ’District Judge.
+Authority can be found for any decision the court could give in this case, between one wholly for the petitioner or one wholly for the defendant. I think the great weight of authority is in favor of the power of a court of record to impose cumulative or successive sentences, when the statute is silent on the subject. 1 Bish. Crim. Law, § 953; 16 C. J. pp. 1306-1370, and cases cited. If there is a statute, it must be followed strictly. There is much conflict in the authorities, but I am satisfied that in the absence of • statute a court of record has the power stated.
+The question in this case 'is as to the power of a justice of the peace to impose such sentences, when it is not given to him expressly by statute. Counsel for petitioner contend, that the case is governed by the general rule that there is no presumption in favor of the jurisdiction of a justice of the peace, his court being the creation of statute, and therefore it has no power or jurisdiction not expressly given. There is no doubt about this being the general rule. In United States v. Bozaravitch, Judge Lyons, at Fairbanks, discussed the question exhaustively, with ample citation of authority, and held that the court of a justice of the peace in Alaska, is “a forum which is without jurisdiction, except as specifically delegated.” 4 Alaska, 37. Judge Tucker made a similar decision in O’Neill v. Jordan, at Nome, 5 Alaska, 81. I think the doctrine requires no argument, and I have uniformly held that such is the law whenever the matter has come before me.
+Section 2539 of the Compiled Laws of Alaska gives a form for the judgment of a justice in a criminal case. The language of it seems to imply that the judgment must be given immediately upon conviction. There is no suggestion anywhere in chapter 42, which governs criminal actions in justice court, that a justice can do other than render a judgment immediately, and, if the sentence is to imprisonment, the imprisonment must begin on the same day. The provisions of chapters 19 and 20 governing judgment and execution upon convictions in the district court are so clearly inapplicable that they cannot be imported into the justice court procedure. Whatever authority the justice has must be found in chapter 42. Nowhere in that chapter is there a suggestion that he can impose successive sentences. If this is an impediment to the administration of justice, the fault lies with Congress and the Alaska Legislature.
+It seems, therefore, clear to me that the two sentences of imprisonment imposed by the justice were obliged to run concurrently. Both of them have now expired, and, if it were not for the fine imposed in the case in question, the petitioner would be entitled to his discharge. His sentence of imprisonment expired June 19, 1924. It will be necessary, however, for him to serve 200 days in order to discharge the fine of $400. At the expiration of that time he will be entitled to his release. It is not necessary for me to make this decision now, since the view of the law that I take makes it necessary to refuse the prisoner his discharge, and to remand him to the custody of the United States marshal. However, there is nothing improper in my stating the law which will be applicable when he has served out his fine.
+It has been held repeatedly by the Supreme Court that an’ excessive sentence is void only as to the excess. This is not precisely an excessive sentence, but the principle involved is the same. There is no doubt of the jurisdiction of the justice to impose the sentence he did in the assault and battery case, both of imprisonment and fine. I am only holding that the justice had no right to defer the beginning of the sentence, and therefore it ran concurrently with the sentence in the othT er case; but this still leaves the fine undischarged.
+The contention of the petitioner that the sentence was wholly void, because of the successive term imposed, is answered in numerous federal cases. In Harlan v. McGourin, 218 U. S. 443, 31 S. Ct. 45, 54 L. Ed. 1101, 21 Ann. Cas. 849, the court said:
+“Where tlie sentence exceeds the authority of the court, at most only the excess will he void; the legal portion of the sentence cannot he attacked on that ground in habeas corpus proceedings.”
+In re Bonner, 151 U. S. 242, 14 S. Ct. 323, 38 L. Ed. 149, Mr. Justice Field elaborately argued the whole question of excessive sentences, and the right of the prisoner to be discharged on habeas corpus where an excessive sentence has been imposed upon him. He also discusses exhaustively the authority of courts, and a quotation from his argument might be useful here. He said:
+“The court must keep strictly within the limits of the law authorizing it to take jurisdiction and to try the case and to render judgment. It cannot pass beyond those limits in any essential requirement in either stage of these proceedings; and its authority in those particulars is not to be enlarged by any mere inferences from the law or doubtful construction of its terms. There has been a great deal said and written, in many cases with embarrassing looseness of expression, as to the jurisdiction of the courts in criminal cases. * * * When the court goes out of these limitations, its action, to the extent of such excess, is void. Proceeding within these limitations, its action may be erroneous, but not void.”
+The application for the discharge of the prisoner is denied, and he is remanded to the custody of the United States marshal, to be there held until he has served out his fine.
+The Circuit Court of Appeals for the Ninth Circuit held, in Millich v. United States, 282 F. 604, that “the appellate court, in affirming a conviction, may modify the punishment imposed by the trial court, * * * so far as it exceeds the limits prescribed by the statute,” citing 12 Cyc. 938.
+This rule does not strictly apply upon a habeas corpus proceeding, but I see no reason why the court should not apply the principle. Otherwise, the petitioner herein would have to make a second application after serving out his fine.
+<§^3See same topic & KEY-NUMBER in all Key-Nn/nbered Digests & Indexes
+<@zs>See same topic & KEY-NUMBER in all Key-Numbered Digests & Indexes
