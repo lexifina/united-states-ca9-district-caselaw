@@ -1,7 +1,7 @@
 ---
 court: "United States District Court for the Northern District of California"
 decided: "1940-01-13"
-citations: ["31 F. Supp. 86", "31 F. Supp. 673"]
+citations: ["31 F. Supp. 86"]
 reporter: "f-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
