@@ -1,0 +1,44 @@
+---
+court: "United States District Court for the District of Oregon"
+docket: "Civ. No. 5809"
+decided: "1951-03-16"
+citations: ["97 F. Supp. 77"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIRST NAT. BANK OF PORTLAND v. McGRATH, U. S. Atty. Gen."]
+source_url: "https://static.case.law/f-supp/97/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1405600
+cites_cases: ["11 F.2d 732", "40 Stat. 419", "45 A.L.R. 895", "91 F.Supp. 173"]
+---
+
+# First Nat. Bank of Portland v. McGrath
+
+## Majority (SOLOMON, District Judge.)
+
+SOLOMON, District Judge.
+This action was brought under Section 9(a) of the Trading With the Enemy Act, 40 Stat. 419, as amended, 50 U.S.C.A.Appendix, § 9(a), to recover certain personal property vested in the defendant as successor to the Alien Property Custodian and is now before the Court on the issue whether Section 33, 50 U.S.C.A.Appendix, § 33, the limitation provision of the Act, bars the prosecution of this action.
+The amended complaint alleges that, by the Will of Carl H. Thoren, the United States National Bank of Portland, on July 11, 1944, received certain assets to be held by it in trust for the benefit of the decedent’s widow, Emma A. Thoren, during her lifetime and, upon her death, the corpus of the trust (except for two local bequests) was to be distributed to a number of brothers, sisters, nephews, and nieces of the decedent, all of whom were citizens of Germany, residing therein.
+Emma Thoren died on June 14, 1946, and all of her estate was distributed to her sole surviving heir, Mabel Clara Payne.
+On March 13, 1947, pursuant to the provisions of the Trading With the Enemy Act, the Attorney General of the United States issued vesting order number 8561 vesting in the Alien Property Custodian the assets to be distributed to the German beneficiaries named in the trust of Carl H. Thoren. Such order became effective on April 10, 1947.
+On August 2, 1948, Mabel Clara Payne filed with the Alien Property Custodian a claim for the return of such assets in his hands on the ground that the German legatees could not take the bequests under Chapter 399, Oregon Laws 1937, 61-107, O.C.L.A., This claim is still pending and undetermined.
+Mabel Clara Payne died prior to the commencement of this action, and by her Will made plaintiff, Bessie Carpenter, her sole legatee, and plaintiff, First National Bank, was appointed the executor of her Will.
+Emma A. Thoren and Mabel Clara Payne were residents and citizens of the United States, and plaintiffs are citizens of the United States. None of them was ever an enemy or an ally of an enemy.
+Plaintiffs instituted this action on November 8, 1950.
+By appropriate pleadings, the following issue was presented, “Does the statute of limitation bar the prosecution of this action?” The determination of this issue depends upon the interpretation of Section 33 of the Act, which in pertinent part reads: “ * * * No suit pursuant to section 9 may be instituted after April 30, 1949, or after the expiration of two years from the date of * * * vesting in the Alien Property Custodiang * * * of the property or interest in respect of which relief is sought, whichever is later, but in computing such two years there shall be excluded any period during which there was pending a suit or claim for return pursuant to section 9 * * * hereof.”
+Plaintiffs contend that this section enables a claimant, who has timely filed his claim with the Attorney General, to file an action at any time during which such claim is pending and undetermined.
+The defendant contends that the timely filing of a claim merely augments the two year period by a further period equal to that portion of the two year period in which the claim was pending. Accordingly, defendant maintains that plaintiffs were required to bring this action on or before Dec. 18, 1949.
+Under defendant’s theory, if an applicant filed his claim on the date the vesting order became effective, he would have four years from that time within which to file an action. However, if he filed his claim two years after the vesting order became effective, he would be barred from filing an action unless he filed the claim and the action on the same day.
+I am unable to agree with defendant’s contention. The two year limitation provision was designed to prevent the filing of stale claims and to enable the Government to conclude within a reasonable time the administration of alien property.
+The Annual Report of the Office of Alien Property, Department of Justice, For the Fiscal Year ended June 30, 1949, indicates that there were approximately 50,000 claims on file with that office and that during such fiscal year disposition was made of less than 2,000 claims. Counsel for the Government frankly states that:
+“ * * * the rate at which they are being heard and determined is so slow, comparatively speaking, that it will take many years before they are finally disposed of. Taking the present case as an example, it is fair to assume that it will be years before the Claim No. 38031 will be reached in its regular course for disposition by the Office of Alien Property.”
+Section 9(a), which permits the filing of a claim with the Attorney General, obviously is intended to afford claimants a simple, inexpensive, and expeditious method of recovering property which they assert was unlawfully seized, without resorting to the costly, and usually slower, method .of recovery through court action.
+Thousands of claimants have filed timely claims, confident that, as long as such claims were pending and undetermined, the alternative method provided in Section 9(a) was available to them. If the Government’s contention is correct, however, these numerous claimants would be prevented from filing actions because of the inadequacy of the Government’s administrative machinery to decide their claims promptly. A claimant who, in good faith, filed, a timely claim and who, after years of waiting, has been unable to get an administrative determination thereof, should not be precluded from filing an action to obtain a determination of his rights.
+Section 33 provides in part, “ * * * but in computing ^uch two years there shall be excluded any period during which there was pending a suit or claim for return pursuant to section 9 * * * hereof.” While this provision might have been more precisely drawn, it would appear that Congress intended to follow the general pattern of statutes of limitation and provide for the tolling of the statute in those instances in which claims were timely filed. To hold otherwise would be, in the language of the Court in Stadtmuller v. Miller, 2 Cir., 11 F.2d 732, 739, 45 A.L.R. 895, “ * * * to impute to Congress an intention which the act does not, in our opinion, warrant, and which is so repugnant to our ideas of justice and equity that we cannot believe that Congress ever intended such a result.”
+The only case cited by defendant in support of its position is that of Kroll v. McGrath, D.C.D.C., 1950, 91 F.Supp. 173, 174. In that case the vesting order became effective September 17, 1942. In 1947, plaintiff filed his claim for return with the Alien Property Custodian and the action was filed on September 20, 1949. ■ The Court held that: “Since the instant action was not filed within two years after the 1942 order vesting the patent nor on or before April 30, 1949, it is barred under section 33 of the Trading With the Enemy Act and this Court is without jurisdiction to entertain the action.” There is no indication that the Court considered the exemption provision of Section 33, which this Court is now being asked to construe.
+For the above reasons, I find that this action was timely filed.
+. This statute provides that the right of an alien residing in a foreign country to take personal property by descent or inheritance is dependent,upon the .existence of a reciprocal right upon the part of United States’ citizens to receive by payment to them in the United States. money originating from estates of persons dying within such foreign country.
+. By Executive Order 9788, 50 U.S.C.A. Appendix, § 6 note, issued October 14, 1946, 11 F.R. 11981, the Attorney General became the successor in Office of the Alien Property Custodian.
+1. Effective date of Vesting Order No. 8561 ________________April 10, 1947. 2. Filing date of Claim No. 38031 _________________________August 2, 1948. S. Expiration date of two year period computed from date of vesting ___________________ ___ . ____________April 10, 1949. 4. Length of time (luring two year period in which Claim No. 38031 was on file____________________________8 months and 8 days. 5. Expiration date of two year period augmented by 8 months and 8 days_____________________________December 18, 1949.
+. The language was used in construing another portion of the Act.
