@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "331"
+decided: "1910-02-14"
+citations: ["4 Alaska 41"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES v. MATHESON."]
+source_url: "https://static.case.law/alaska/4/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1253980
+cites_cases: ["129 Fed. 87", "178 U. S. 304", "195 U. S. 243", "25 Stat. 655", "25 Stat. 656", "44 L. Ed. 1078", "63 C. C. A. 529"]
+---
+
+# United States v. Matheson
+
+## Majority (LYONS, District Judge)
+
+LYONS, District Judge
+(orally). Some weeks ago George Matheson was convicted in this court of the crime of murder in the first degree and sentenced to life imprisonment; the jury having qualified their verdict to that extent. Afterwards a motion was made by the defendant to be permitted to prosecute a writ of error to the Supreme Court of the United States in forma pauperis. The application was denied at the time; the court following the case of Bradford v. Southern Railway Co., 195 U. S. 243, 25 Sup. Ct. 55, 49 L. Ed. 178, and the case of Bristol v. United States, 129 Fed. 87, 63 C. C. A. 529, a case from the Seventh Circuit.
+Since that time counsel for the defendant has called the court’s attention to the case of United States v. Fitzpatrick, 178 U. S. 304, 20 Sup. Ct. 944, 44 L. Ed. 1078, a case that .was tried in this district before any division was made, there being only one division for the entire district, and a writ of error was prosecuted from the judgment and sentence in that case, which was the same as the judgment in this case, to the Supreme Court of the United States, and the trial judge permitted the defendant to prosecute the writ .in forma paitperis. The matter was not commented upon by the Supreme Court, the only question raised there being that of jurisdiction ; the contention by the Attorney General being that the case should have gone directly to the Circuit Court of Appeals for the Ninth Circuit under the law of 1897, which allowed only capital criminal cases to go direct to the Supreme Court of the United States. But the Supreme Court held in that case that the offense was nevertheless capital, even though the penalty was not death, the verdict being for murder in the first degree, and the jury qualifying the verdict to murder in the first degree “without capital punishment” did not affect the question of the crime being a capital one, and for that reason the Supreme Court of the United States had jurisdiction. Another case went up the following year from one of the Dakotas, in which the Supreme Court reaffirmed the rule of the Fitzpatrick Case. There was no comment made in the Fitzpatrick Case as to whether or not it'should have been or could be prosecuted in forma pauperis., When I ruled on the matter before, I followed as closely as I could the statute of
+February 6, 1889, under which the petitioner applied to prosecute the writ in forma pauperis. The statute is as follows:
+“That hereafter in. all cases of conviction of crime, the punishment of which provided by law is death, tried before any court of the United States, the final judgment of such court against the respondent shall, upon the application of the respondent, be re-examined, reversed, or affirmed by the Supreme Court of the United States, upon a writ of error, under such rules and regulations as said court may prescribe. Every such writ of error shall be allowed as of right and without the requirement of any security for the prosecution of the same or for costs.” 25 Stat. 655.
+. In construing that statute before, I read the statute to only give the petitioner that right when the punishment was death from the crime charged, not what the punishment might have been under the law, but that the punishment inflicted should actually be death; and I am not entirely convinced but what that is the proper construction of the statute yet. But it seems this court has heretofore allowed the prosecution of a writ in forma pauperis to the Supreme Court in the case of Fitzpatrick v. United States, supra; and while it made no comment on that feature of the matter, and the Attorney General raised no question in reference thereto, I feel at this time disposed to reverse the order heretofore made by myself, and allow the prosecution of the writ in this case in forma pauperis. It may not enable counsel to get a ruling on the matter if I should grant the writ; yet I think, if the matter were called to the attention of the Attorney General and the Supreme Court also, that there might be some suggestion made as to the propriety of the practice and as to whether or not this court has placed the proper construction on the statute. And for that reason I think, particularly since this court has heretofore allowed such a writ to be prosecuted, and the appellate court did not criticise the ruling, and the Attorney General took no exception to it, it seems to me the court should follow the precedent.
+For that reason the order petition will be set aside, and the plaintiff in error allowed to prosecute his writ in forma pauperis.
