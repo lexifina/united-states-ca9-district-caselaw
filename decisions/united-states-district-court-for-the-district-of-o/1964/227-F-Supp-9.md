@@ -1,0 +1,54 @@
+---
+court: "United States District Court for the District of Oregon"
+docket: "Civ. No. 63-37"
+decided: "1964-01-09"
+citations: ["227 F. Supp. 9"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edgar H. HARMON, Plaintiff, v. The MARTIN BROS. CONTAINER & TIMBER PRODUCTS CORP., an Ohio corporation, Defendant."]
+source_url: "https://static.case.law/f-supp/227/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1503490
+cites_cases: ["111 F.2d 406", "154 Or. 369", "175 F.Supp. 857", "206 F.2d 111", "220 Or. 102", "260 F.2d 447", "29 U.S.C. § 160", "348 U.S. 437", "353 U.S. 448", "363 U.S. 574", "371 U.S. 195", "372 U.S. 517", "47 A.L.R.2d 1331", "59 P.2d 384", "99 L.Ed. 510"]
+---
+
+# Harmon v. Martin Bros. Container & Timber Products Corp.
+
+## Majority (KILKENNY, District Judge.)
+
+KILKENNY, District Judge.
+Presented for adjudication are the following questions:
+(1) The jurisdiction of the Court,
+(2) The rights, if any, of plaintiff, as assignee of the claims of certain union members for alleged breaches of a collective bargaining contract between defendant and their union, a labor organization within the meaning of the Labor Management Relations Act, 1947 (29 U. S.C. §§ 141-187).
+The first claim for relief charges that the usual work hours of one Tabor, an employee of defendant, were from 8:00 o’clock A.M. to 4:30 P.M. and that on April 25, 1962, defendant requested Tabor to report for work at 6:00 A.M., that he did so and worked until 2:30 P.M. He was paid his regular wages. Plaintiff charges that Tabor should have been paid time and one-half for two hours and that failure to do so was a violation of the collective bargaining agreement.
+The second claim charges that one Margaret May was discharged by the defendant in violation of the provisions of the said agreement.
+The third claim charges defendant with a violation of the collective bargaining agreement in assigning one Main to work other than his regular employment as an “equalizer operator” and wrongfully paying less than the required rate of pay.
+The fourth claim charges defendant with a violation of the collective bargaining agreement in not allowing travel pay to certain employees, from the defendant’s plant to the job situs after April 15, 1962.
+The claims total $10,085.60. No one claim reaches $10,000.00
+JURISDICTION
+A casual reading of the statute, would indicate that Congress never intended that the rights of individual laborers would fall within the ambit of the legislation. On the first presentation of the problem the Supreme Court so held. Association of Westinghouse Salaried Employees v. Westinghouse Electric Corporation, 348 U.S. 437, 75 S.Ct. 489, 99 L.Ed. 510 (1955). The Westinghouse decision survived, although not without criticism by such cases as Textile Workers Union of America v. Lincoln Mills of Alabama, 353 U.S. 448, 77 S.Ct. 912, 1 L.Ed.2d 972 (1957); United Steelworkers of America v. Warrior & Gulf Navigation Co., 363 U.S. 574, 80 S.Ct. 1347, 4 L.Ed.2d 1409, and others, until the comparatively recent case of Smith v. Evening News Ass’n, 371 U.S. 195, 83 S.Ct. 267, 9 L.Ed.2d 246 (1962), in which the Court undermined, if it did not completely destroy, the effect of Westinghouse by the use of the following language:
+“However, subsequent decisions here have removed the underpinnings of Westinghouse and its holding is no longer authoritative as a precedent. * * *
+“The concept that all suits to vindicate individual employee rights arising from a collective bargaining contract should be excluded from the coverage of § 301 has thus not survived. The right of individual employees concerning rates of pay and conditions of employment are a major focus of the negotiation and administration of collective bargaining contracts. * * * ”
+Although defendant attempts to distinguish between the contractual status of the employees in Smith, and the nature of the claims from the status of the employees and the nature of the claims here in question, I can find no room for such a distinction. The right of individual employees under a collective bargaining contract were involved in Smith and are here in question. Strictly limited to the facts of this case, I hold that the Court has jurisdiction. This, of course, does not mean that jurisdiction is to be exercised over every type of claim which an employee may have against an employer. Rights and liabilities of parties under collective bargaining agreements are here in question. Aside from such agreements, is the individual contract of employment of each employee. A breach of the latter might not give rise to jurisdiction in the Federal Courts. The decision in Smith insulates plaintiff from the jurisdictional challenge. The conclusions reached in General Drivers, Warehousemen and Helpers, Local Union No. 89 v. Riss & Co., 372 U.S. 517, 83 S.Ct. 789, 9 L.Ed.2d 918 (1963), do not, in my opinion, detract from or weaken the effect of the decision in Smith.
+MERITS
+1. The evidence in the case, including the written contract and the practical interpretation as placed thereon by the parties, convinces me that there was no restriction on the defendant’s right to change the hours of labor or days of the week of all employees, including maintenance employees such as Tabor. Although Tabor went to work two hours earlier than usual on the particular shift, he worked only a total of eight hours. For these reasons, plaintiff’s first cause must fail.
+2. The second claim is in connection with the alleged wrongful discharge of the employee, May. Her employment was terminated by defendant on August 22, 1961, without first consulting the union. The ground of discharge was failure to adequately perform her work. The merits of this cause of action depend upon a proper construction of Article VIII. After a view of all of the evidence in the case, and in particular, a proper interpretation of Section (14) of Article VIII, I find that May did not produce a minimum amount of work, and that defendant had a right, without consulting the union, to discharge May.
+3. The workman, Frank Main, after he was no longer required to maintain the saws, found that his rate of pay had been reduced. The maintenance of the saws had been one of his duties prior to the time the duties of “equalizer operator” were eliminated. Instead of reducing his rate of pay as an “equalizer operator”, the defendant, as it had the right to do under Article XI of the agreement, eliminated that position and designated the new position as that of “saw-feeder”. There was, under the evidence, a clear cut distinction between the duties of a “saw-feeder” and those of an “equalizer operator”. Article XI provided, among other things, “ * * * Company may, with the employee’s consent, instead of laying him off, (in ease the employee’s service is no longer required in his class of employment) transfer him to any other position vacant and at the wage scale fixed for that position.” I find that defendant acted in accordance with the terms and conditions of the contract, when it transferred Main to work other than that of “equalizer operator”, and that this cause must fail.
+4. In my opinion, plaintiff’s fourth and last claim is sound. This count involves the travel pay of seven employees after April 15, 1962. The evidence is undisputed that prior to that date, for a period of some five and one-half years, the defendant had allowed travel pay to its employees and this custom and practice had been in effect for a number of years before the collective bargaining contract was signed by the parties on May 31, 1961. From all of the evidence in the case, including, but not limited to, the practical interpretation originally placed on the contract by the parties, I find that plaintiff is entitled to recover travel pay on the claims of the employees as set forth in the fourth claim for relief, in the sum of $1,479.52.
+OTHER ISSUES
+The six months limitation in which to commence an action as provided for in 29 U.S.C. § 160(b) has no application to the facts in this case. Reliford v. Eastern Coal Corporation, 260 F.2d 447 (6 Cir. 1958). The applicable Oregon statutes would not bar these claims.
+Defendant’s contention that plaintiff is not the real party in interest and that the claims were not assignable, is not supported by the authorities, Hibernia Security Co. v. United Manufacturing Co., 154 Or. 369, 59 P.2d 384 (1936); Springer v. Powder Power Tool Corporation, 220 Or. 102, 348 P.2d 1112 (1960). A proper construction of F.R. Civ.P. 17(a) permits an assignment and prosecution of the claims in question. Rosenblum v. Dingfelder, 111 F.2d 406 (2 Cir. 1940); Kentucky River Mills v. Jackson, 206 F.2d 111, 47 A.L.R.2d 1331 (6 Cir. 1953); California League of Independent Producers v. Aetna Casualty & Surety Co., 175 F.Supp. 857 (D.C.N.D. Cal.1959).
+This Opinion shall stand as my findings and conclusions. Judgment shall be entered accordingly.
+. Lumber and Sawmill Workers Local Union No. 2418.
+. 29 U.S.O. § 185, in pertinent part, reads as follows:
+“(a) Suits for violation of contracts between an employer and a labor organization representing employees in an industry affecting commerce as defined in this chapter, or between any such labor organizations, may be brought in any district court of the United States having jurisdiction of the parties, without respect to the amount in controversy or without regard to the citizenship of the parties.”
+. Article VIII (Pertinent Provisions).
+“(6) ‘Capability’ is to be judged by the production standard and quality of work. The Union and the company jointly will be the judge of capability.
+“ (7) Method of advancement.
+“(a) When a permanent vacancy occurs in one of the higher job brackets the opening shall be posted for a period of three (3) days in order that the employees may bid for the job. The employee with the most seniority and capability will be selected for a trial period not to exceed fifteen (15) work days.
+“(c) If the foregoing procedure is followed, then any employee may not be bumped by another employee by reason of greater seniority.
+•■(9) * * the Company agrees * * * that these temporary vacancies will be filled wherever possible from within the same department with due consideration to seniority and capability.
+“(12) * * * The Company reserves the right to discharge any employee for insubordination, creating disturbance in the plan, absenteeism or any other just cause.
+“(14) After the learning period, failure of any employee to produce a sufficient minimum amount of work to enable other employees to produce the established standards of production shall be deemed sufficient cause for dismissal.” (Emphasis supplied).
+. ORS 12.080 and 12.110.
