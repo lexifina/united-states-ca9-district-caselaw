@@ -1,0 +1,29 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "994-Cr"
+decided: "1929-02-02"
+citations: ["8 Alaska 83"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES v. BEAVER."]
+source_url: "https://static.case.law/alaska/8/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1266777
+---
+
+# United States v. Beaver
+
+## Majority (CLEGG, District Judge.)
+
+CLEGG, District Judge.
+It is the contention of the defendant that under the provisions of our criminal statute, section 2195, and under the provisions of section 2259 of the Code of Criminal Procedure (Comp.Laws 1913), the motion should be sustained. Section 2259 reads as follows: “That in all criminal actions where the husband is the party accused the wife shall be a competent witness, and when the wife is the party accused the husband shall be a competent witness; but neither husband nor wife, in such cases, shall be compelled or allowed to testify in such case unless by consent of both of them: Provided, That in all cases of personal violence upon either by the other, the injured party, husband or wife, shall be allowed to testify against the other.”
+Section 1867 under the Code of Civil Procedure (Comp. Laws 1913) reads as follows: “A husband shall not be examined for or against his wife, without her consent, nor a wife for or against her husband, without his consent; nor can either, during the marriage or afterwards be, without the consent of the other, examined as to any communications made by one to the other during marriage, but the exception does not apply to a civil action or proceeding by one against the other, nor to a criminal action or proceeding for a crime committed by one against the other.”
+The court is of the opinion that the only section that needs to be considered in connection with this matter is section 2259, for the reason that Congress has adopted a Code of Criminal Procedure which was passed on March 3, 1899, and the Code of Civil Procedure was not passed until June 6, 1900, and the Supreme Court of the United States has held that the Code of Criminal Procedure is complete and circumstantial in itself without reference, as I take it, to any provision of the Code of Civil Procedure.
+Now the section relied upon says that “in all criminal actions where the husband is the party accused the wife shall be a competent witness,” and so forth, and so, consequently, the court must determine whether or not, under the laws of Alaska, a proceeding before the grand jury which results in the finding of an indictment is a “criminal action,” and, in order to decide that matter, I will merely refer to other provisions in the Code of Criminal Procedure.
+Section 2113 of that Code (Comp.Laws 1913) is as follows: “That the proceeding by which a person is tried and punished for the commission of a crime is known in this act as a criminal action.”
+So that it is clear that, under the definition of a criminal action which I have just read from the Code, a proceeding and investigation before a grand jury resulting in the finding of an indictment does not come under the definition of a criminal action as given in our Code.
+To support this definition and that conclusion, I call attention to the fact that section 2259, relied upon, is found in chapter 15 of the Code of Criminal Procedure, which is entitled as follows: “Of the conduct of the trial and miscellaneous provisions relating thereto” — showing clearly that this section 2259 is only applicable in cases where there is a trial of a criminal action, but in a grand jury proceeding it cannot be said that there is any trial. It is merely an inquiry under the law for the purpose of determining whether or not there is probable cause to believe the defendant guilty of the offense charged and whether or not a trial jury would have evidence sufficient to convict him in their opinion.
+The other objection to the motion urged by the district attorney, that the motion is not based upon any provision of our Code of Criminal Procedure, is also a very cogent reason for denying this motion. The section of the Code that he referred to, section 2191 (Comp.Laws 1913), sets forth two grounds for setting aside the indictment, and how can the court enlarge the sections of the statute, which specifically provide for setting aside indictments, by adding another one, as the court would have to do in order to sustain this motion, and say that it ought to be set aside wheré it is shown clearly that the grand jury has received and considered testimony given by a wife when the party accused is her husband? Finding no authority in the Code for setting aside the indictment on this ground, the court is bound to deny it.
+Now, I do not really understand just what is meant here by the statement in the motion that “her said testimony so compelled and allowed was' on material matters and things prejudicial to the defendant’s substantial rights.” I do not know how that statement could be made or how any person making it could say what the effect of the testimony was before the grand jury unless somebody in the grand jury room told them, and, further, in the affidavit of the defendant it says, “I am informed and believe said testimony so given was as to material matters and things prejudicial to my substantial rights.” Now who informed the defendant that caused him to believe that this testimony was as to material matters ? If the defendant was any other than an untutored native of the Kuskokwim, the court would be bound to make him disclose where he received this alleged information on this subject, but, as that is his status, the court will overlook it.
+The motion will be denied.
