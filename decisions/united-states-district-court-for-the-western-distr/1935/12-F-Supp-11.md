@@ -2,7 +2,7 @@
 court: "United States District Court for the Western District of Washington"
 docket: "33183"
 decided: "1935-04-22"
-citations: ["12 F. Supp. 11", "12 F. Supp. 8"]
+citations: ["12 F. Supp. 11"]
 reporter: "f-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In re CARLISLE PACKING CO."]
 source_url: "https://static.case.law/f-supp/12/cases/0011-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4146470
-cites_cases: ["151 P. 789", "19 Wash. 238", "230 F. 399", "232 U. S. 375", "266 U. S. 131", "274 F. 177", "36 A. L. R. 416", "43 L. R. A. 717", "48 Stat. 757", "51 F.(2d) 984", "51 F.(2d) 988", "52 P. 1056", "87 Wash. 375"]
+cites_cases: ["151 P. 789", "19 Wash. 238", "230 F. 399", "232 U. S. 375", "266 U. S. 131", "274 F. 177", "36 A. L. R. 416", "43 L. R. A. 717", "48 Stat. 757", "52 P. 1056", "87 Wash. 375"]
 ---
 
 # In re Carlisle Packing Co.
