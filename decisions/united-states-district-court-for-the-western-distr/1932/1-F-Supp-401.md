@@ -1,0 +1,27 @@
+---
+court: "United States District Court for the Western District of Washington"
+docket: "32098"
+decided: "1932-04-28"
+citations: ["1 F. Supp. 401"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re ARTHUR-DEVON, Inc."]
+source_url: "https://static.case.law/f-supp/1/cases/0401-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4137639
+---
+
+# In re Arthur-Devon, Inc.
+
+## Majority (NETERER, District Judge.)
+
+NETERER, District Judge.
+This is a petition to review the act of the referee in selecting a trustee in bankruptcy.
+The bankrupt made a common-law assignment for the benefit of creditors on October 13, 1931, and the assignees gave notice for the sale of the merchandise and business on October 16th, and on that date sold all assets, and within six days after the date of sale a 28 per cent, dividend was distributed to the creditors. All creditors accepted the dividends, except the petitioning creditors, who immediately returned the check to the assignee, and filed the involuntary petition herein. The claims of the petitioning creditors, in amount, are $4,054.90. At the time of the voluntary assignment, one of the principal creditors, having a claim of $4,331.97, was in Seattle, had knowledge of the assignment and sale, approved it, and co-operated to effect the same. After adjudication, at the first meeting of the creditors, twelve appeared. The petitioners (three ’creditors) being represented by one attorney, sought to vote for one person; the other creditors, represented by another attorney, sought to vote for another trustee. The creditors were in two groups. The petitioning creditors objected to the other voting, on the ground that, having “retained the dividend, were preferred creditors,” and not qualified; objection was made to the petitioning creditors voting, on the ground that they had no proven claims. The referee held neither qualified to vote. No request being made for continuance or postponement, there being no qualified creditors present to vote, and no objection appearing to have been made, the referee appointed a competent and suitable person to act as trustee. No error was made in holding petitioners not qualified to vote.
+Review is sought by each group of creditors.
+Whether the creditors who accepted the dividend are preferred creditors and not qualified to object is not material to this decision; nor is the fact that they may he required to return the dividend retained, to the trustee; nor is it necessary for the court now to say that before they can participate in the administration of the estate, they must return to the estate the dividend which has been received; nor is it vital that objection to the sufficiency of the proof of claim was made by a creditor who may not have been qualified to participate in the selection of a trustee, since it was the duty of the referee to judicially determine the qualification of the proof of claim and the establishment of the creditors’ right, irrespective of objection.
+The petitioning creditors made strenuous argument before the court of the alleged error committed by the referee. It is conceded that the trustee appointed by the referee is a man of honesty, integrity, business acumen, and experience, that he is not under the direction of either party, hut petitioners assert that it is the right of the petitioning creditors to control the administration and to proceed in such a fashion as they may determine, and that they desire a trustee who will carry out these purposes. The petitioning creditors say that the trustee appointed is an entirely competent person, whose “integrity is beyond question but he and his counsel have no previous knowledge of this ease,” no acquaintance with the jewelry business.
+It is vital to the administration of a bankrupt estate, that the trustee be independent, vigorous, and efficient, to the end that jobberies, inefficiencies, and rascalities may not obtain; but it is not essential that he be a partisan of any group of creditors, and whose endeavors may be circumscribed more particularly with relation to a few creditors than to the interests of all of the creditors having relation to the estate. There can be no doubt from this record that the trustee appointed, and who the court knows has had experience in execution of like service and no doubt will extend a listening ear to all and every fact and trace every suspicion that may be challenged to his attention by the petitioning creditors or their attorney, or from any source, and will be moved by independent concept of right and will uncover unlawful acts and repossess the estate with any and all material benefits of which the estate has been unlawfully deprived.
+The referee did not err in selecting a trustee, upon the disclosed circumstances, and no request for postponement being made, of the meeting, or continuance of the hearing until the claims could be proven. Whether there was wrongful conduct by the bankrupt, the atttorney for the bankrupt, the assignee, and the purchaser, is not now before the court. The policy of the Bankruptcy Law (11 USCA) is to administer a bankrupt estate as speedily and economically as it may be done by the creditors, under the supervision of the referee, subject to review by the court.
+The petition for review is denied, and the act of the referee in issue affirmed.
