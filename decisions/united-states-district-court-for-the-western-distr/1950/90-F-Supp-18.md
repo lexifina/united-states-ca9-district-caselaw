@@ -1,0 +1,28 @@
+---
+court: "United States District Court for the Western District of Washington"
+docket: "2444"
+decided: "1950-03-24"
+citations: ["90 F. Supp. 18"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SIIPOLA v. NESS et al."]
+source_url: "https://static.case.law/f-supp/90/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 296986
+cites_cases: ["173 P.2d 168", "195 P.2d 112", "203 P.2d 1083", "26 Wash.2d 156", "28 U.S.C.A. § 2281", "301 U.S. 397", "31 Wash.2d 52", "32 Wash.2d 780", "337 U.S. 241", "70 S.Ct. 457"]
+---
+
+# Siipola v. Ness
+
+## Majority (BOWEN, Chief Judge.)
+
+BOWEN, Chief Judge.
+This cause having on February 27, 1950 come on regularly for hearing in open court upon defendants’ motion to dismiss upon the ground that this Court lacks jurisdiction, in effect, because no- federal question is involved; and the matter on that date having been submitted and the Court having taken the same under advisement upon written briefs filed on behalf of both parties ; and
+The Court having considered all the allegations of plaintiff’s petition for injunctive relief, and .all the statements in defendants’ motion to dismiss,-and all the files and records herein; and it appearing to the Court that plaintiff makes no objection to the validity of the State Trial Court’s judgment and sentence and that his objections relate exclusively to the action of the State Board of Prison Terms and Paroles in fixing plaintiff’s minimum sentence at exactly the judicially authorized maximum term instead of a shorter term which the trial judge and prosecuting attorney recommended and which the Board in its discretion might have fixed; and it appearing from plaintiff’s petition that he was called and did appear before the Board and answered questions from the Board, although in his petition he -complained of the brevity of the Board’s interrogation of him; that “the right to a discharge from confinement by a prisoner serving a maximum sentence under this act, Rem.Rev.Stat. Supp. § 10249 — 2, is not a matter of right but is a matter of discretion with the board of prison terms and paroles” In re Grieve v. Smith, 26 Wash.2d 156, at 159, 173 P.2d 168;
+And “ * * * that this court does not have jurisdiction to grant the relief sought under 28 U.S.C.A. § 2281, Revised Judicial Code, the constitutionality of the statutes of the State of Washington relative to the State Board of Prison Terms and Paroles having been inferentially upheld by the Supreme Court of the United States in Lindsey v. State of Washington, 301 U.S. 397, 57 S.Ct. 797, 81 L.Ed. 1182” (see order of Judge Leavy dismissing petition for injunction dated November 29, 1949, in Wyback v. Ness, et al., Cause No. 1278, U.S.Dist.Ct., W.D.Wash., S.D.) ; that under Washington State law, the Board does not confine inmates in the penitentiary but that the warden of the penitentiary does that by authority of the court’s judgment, sentence and commitment, Wyback v. Board of Prison Terms and Paroles, 32 Wash.2d 780, 203 P.2d 1083; that in this case “the Board of Prison Terms and Paroles, having fully considered the Prosecuting Attorney’s and Judge’s statement of the facts surrounding said convicted person’s crime and other information relative to such convicted person, and having interviewed said convicted person” (see copy of sentence fixed by Board attached to plaintiff’s petition), fixed the duration of plaintiff’s confinement at 10 years as in the Board’s discretion it might lawfully do;
+And it further appearing that, as stated in Solesbee v. Balkcom, see below, with reference to required standards of due process, there are “ * * * necessary and inherent differences between trial procedures and post-conviction procedures such as sentencing” Williams v. People of State of New York, 337 U.S. 241, 69 S.Ct. 1079, such also as insanity proceedings, Solesbee v. Balkcom, 70 S.Ct. 457, 459, and such as procedures before or by prison term and parole boards to fix minimum sentences or to grant or revoke paroles, In re Pierce v. Smith, 31 Wash.2d 52, 195 P.2d 112; In re Wyback, 32 Wash.2d 780, 203 P.2d 1083; that where the accused has been, as plaintiff was in his case, accorded due process at his court trial held to determine his guilt or innocence and has been convicted as charged, such person so convicted cannot, as to every post-conviction hearing thereafter, have applied all over again the very same standards of due process which were, as required by the 14th Amendment, applied at his court trial;
+But that the record herein affirmatively discloses that plaintiff was accorded a hearing before the Board and the Board did the acts and considered the things required of the Board by State law, Rem.Rev.Stat.Supp. § 10249 — 2, in connection with the Board’s fixing the duration of plaintiff’s confinement, it being the law that the Board has supervision over plaintiff and may, as and for his minimum sentence, cause him to be detained in the penitentiary until the expiration of his maximum sentence, In re Pierce v. Smith, 31 Wash.2d 52, at 57, 195 P.2d 112.
+And it further appearing in this case, as was stated by Judge Leavy with reference to the Wyback case, supra, which was before him, that “plaintiff has been deprived of nothing to which he is entitled as a matter of right by action of the Washington State Board of Prison Terms and Paroles”, and that there is in fact no question in this case for determination under the Constitution of the United States; now, therefore, it is hereby
+Ordered that plaintiff’s petition for injunctive relief and this action be and they hereby are dismissed.
+. No opinion for publication.
