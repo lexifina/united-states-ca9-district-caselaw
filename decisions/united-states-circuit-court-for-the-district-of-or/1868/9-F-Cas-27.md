@@ -1,0 +1,25 @@
+---
+court: "United States Circuit Court for the District of Oregon"
+docket: "Case No. 4,775"
+decided: "1868-07-21"
+citations: ["9 F. Cas. 27"]
+reporter: "f-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIELDS v. LAMB et ux."]
+source_url: "https://static.case.law/f-cas/9/cases/0027-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11638012
+cites_cases: ["1 Stat. 79", "14 Stat. 558"]
+---
+
+# Fields v. Lamb
+
+## Majority (DEADY, District Judge.)
+
+DEADY, District Judge.
+This suit was commenced in the state court for the county of Multnomah, against the above named defendants and others; and afterwards, on March 17, 1868, upon the petition of such defendants, was, as to them removed into this court. The petition and order for removal was made under the act of July 27, 1866 (14 Stat 306). The complainant now moves this court to remand the cause to the state court, upon the ground that the order for the removal was made without authority of law.
+From the petition itappearsthat Lamb and wife are citizens of the state of Kentucky; and it .also appears from the complaint, that the suit is one in which there can be a final determination of the controversy, so far as it concerns these defendants, without the presence of those who are residents of the state of Oregon. This being so, the case is within the purview of the act of 1866, giving defendants the right of removal. Field v. Lownsdale [Case No. 4,769],
+But counsel for the motion to remand insist that the act of July 27, 1866, is repealed and superseded by the act amendatory thereof, of March 2, 1867 (14 Stat. 558). It is admitted that the latter act does not expressly repeal the former one, but, on the contrary, only purports to amend it. The two acts are upon the same subject and must be construed together; and unless the one, or some provision of it be manifestly repugnant to the other, they must both stand. Between these acts there is no repugnance. The latter is nothing more than what it purports to be, both in its title and body, an amendment of or supplement to the former, providing an additional cause of removal. The act of 1866 enables a defendant, who is an alien or non-resident, to remove a cause to this court, “so far as it concerns him,” although his co-defendants may not be entitled to such removal, “if the suit is one in which there can be a final determination of tbe controversy, * * * without the presence of the other defendants, as parties in the cause.” The reason of this enactment is obvious. Prior thereto, the removal of a cause on account of the citizenship of the parties, from the state to the national courts, was governed by section 12 of the judiciary act (1 Stat. 79). Upon the construction given to this section by the courts, an alien or non-resident defendant, if joined with a citizen of the state where the action was brought, was denied the right of removal, because his co-defendant was not entitled to it. Smith v. Rines [Case No. 13,100]; New Jersey v. Babcock [Id. 10,163]; Ward v. Arredondo [Id. 17,148] Wilson v. Blodgett [Id. 17,792]; Wormley v. Wormley, 8 Wheat. [21 U. S.] 451.
+This technical construction of the act excluded many persons from the benefit of it, whose cases were fully within the reason of it. The term — “the defendant” — although used in the singular number, was construed in a collective sense, so as to include all the persons sued, be- they many -or few. If any of these persons were not aliens or non-residents, then this technical defendant, constituted of all the individual defendants, was held not to be an alien or non-resident, and therefore not entitled to a removal. To remedy this evil, so far as practicable, the act of 1866 was passed. The act of 1867 provides, that a citizen of another state, whether he be plaintiff or defendant, may remove a cause to the national court upon making an affidavit to the effect that he believes, that from prejudice or local influence, he will not be able to obtain justice in such state court. Between this provision and the act of 1866 there is neither conflict nor repugnance. Another cause of removal is simply added to those already provided. The latter act is supplemental to the earlier one. Neither was it necessary to make the affidavit in this case, required by the act of 1867. This removal was made under the act of 1866, on account of the citizenship of the parties solely, and not for the cause specified in the act of 1867 — that the defendant believes he cannot obtain justice in the state court on account of “prejudice or local influence.”
+In conclusion, it is sufficient to say, that the act of 1867 does not repeal that of 1866, but amends it, not by changing it, but by adding thereto another cause of removal. They are both upon the same subject matter and can stand together without a shadow of repugnance or conflict in any particular. The removal was authorized, and the motion to remand is denied with costs.
