@@ -1,0 +1,31 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "6102-A"
+decided: "1950-03-21"
+citations: ["12 Alaska 647", "91 F. Supp. 907"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANDERSON et al. v. MULLANEY."]
+source_url: "https://static.case.law/alaska/12/cases/0647-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1270857
+cites_cases: ["109 A.L.R. 1327", "118 A.L.R. 1142", "12 Alaska 455", "12 Alaska 594", "125 A.L.R. 1383", "180 F.2d 805", "253 U.S. 412", "255 U.S. 44", "263 U.S. 510", "277 U.S. 32", "301 U.S. 495", "303 U.S. 573", "303 U.S., 573", "305 U.S. 134", "309 U.S. 83", "312 U.S. 383", "334 U.S. 385", "37 Stat. 512", "41 S.Ct. 219", "48 U.S.C.A. § 78", "65 L.Ed 489", "65 L.Ed. 489", "71 F.2d 493", "8 U.S.C.A. § 41", "85 F.Supp. 76", "92 L.Ed. 1460"]
+---
+
+# Anderson v. Mullaney
+
+## Majority (FOLTA, District Judge.)
+
+FOLTA, District Judge.
+By Chapter 66, S.L.A.1949, the Territorial Legislature increased the license taxes on resident fishermen from $1 to $5 and on nonresident fishermen from $25 to $50. The $25 tax, imposed in 1933, Laws 1933, c. 30, when the pur- • chasing power of a dollar was more than double what it now is, was sustained in Anderson v. Smith, 9 Cir., 71 F.2d 493.
+Plaintiffs seek to restrain the enforcement of this act, so far as it applies to nonresident fishermen, on the grounds that:
+(1) It contravenes the 14th amendment in that it discriminates against nonresidents;
+(2) That it conflicts with the provision of Section 9 of the Organic Act, 37 Stat. 512, 514, 48 U.S.C.A. § 78, requiring uniformity of taxation on' the same class of subjects;
+(3) That it encroaches on the admiralty jurisdiction, thereby substantially affecting its uniformity, and .
+(4) Burdens interstate commerce in violation of Article 1, Section 8, of the Constitution.
+Since the third contention is disposed of adversely to plaintiff by Alaska Steamship Company v. Mullaney, 9 Cir., 180 F.2d 805, 12 Alaska 594, and Just v. Chambers, 312 U.S. 383, 392, 61 S.Ct. 687, 85 L.Ed. 903, and.it is well settled that a tax of this kind is not a burden on interstate commerce because the taxable event — the taking of the fish — occurs before the fish have entered the flow' of commerce, Toomer v. Witsell, 334 U.S. 385, 394, 68 S.Ct. 1156, 92 L.Ed. 1460, and that the uniformity provision of the Organic Act does not apply to license taxes, Alaska Fish Saltery & By-Products Co. v. Smith, 255 U.S. 44, 41 S.Ct. 219, 65 L.Ed. 489, these contentions will not be discussed.
+So far as the remaining contention that the tax violates the Fourteenth amendment is concerned, the questiom differs in form only from that presented in Martinsen v. Mullaney, D.C., 85 F.Supp. 76, 12 Alaska 455. In that case this Court held that in the absence of evidence of the existence of a rational basis for classification, the tax of $50 on nonresident fishermen was invalid under the Civil Rights Act, 8 U.S.C.A. § 41. In the instant case the defendant has introduced evidence showing the earnings of nonresident fishermen and the difficulty and expense of collecting the tax from them, detecting evasions and apprehending violators. Briefly, the evidence shows that thousands of nonresidents come to Alaska each year and engage in fishing for salmon during the fishing season, which varies from 20 days in Bristol Bay to 2 months elsewhere, during which time they enjoy the protection of the local government; that among them are hundreds of trailers who come to the Territory in their power boats, roaming far and wide along the 26,000 miles of coastline; and that since they own no property and are not required by the shipping laws to enter or clear upon arrival in or departure from the Territory and, moreover, warn each other by radiophone of the proximity or presence of the tax collector, the difficulties of detection, apprehension and collection during the short fishing season are well nigh insuperable. Moreover, the evidence shows that evasion does not end with apprehension, for often there is a claim of local residence, the verification of which can not be undertaken until the pursuit of evaders ends with the close of the fishing season, when, upon discovery of the falsity of the claim, the violator is invariably out of the jurisdiction of the Territory. It is not surpris- • ing, therefore, that the testimony shows that 90% of the cost of collecting the taxes under Chapter 66 is incurred in collecting or attempting to collect the nonresident tax.
+The evidence further shows that the net annual earnings of trailers for a season of 4 to 5 months average approximately $3500; of gill netters in Bristol Bay approximately $2500 for a season of 20 days, while the average earnings of those employed on cannery tenders and traps are approximately $1500 and $2000, respectively.
+I am of the opinion, therefore, that the classification of fishermen into residents and nonresidents rests on substantial differences bearing a fair and reasonable relation to the object of the legislation, within the doctrine of Royster Guano Co. v. Com. of Virginia, 253 U.S. 412, 415, 40 S.Ct. 560, 64 L.Ed. 989; Louisville Gas & Electric Co. v. Coleman, 277 U.S. 32, 37, 48 S.Ct. 423, 72 L.Ed. 770. Indeed, administrative inconvenience and expense in the collection of a tax may themselves afford sufficient basis for such a classification. Carmichael v. Southern Coal Co., 301 U.S. 495, 512, 57 S.Ct. 868, 81 L.Ed. 1245, 109 A.L.R. 1327; Madden v. Com. of Kentucky, 309 U.S. 83, 89, 90, 60 S.Ct. 406, 84 L.Ed. 590, 125 A.L.R. 1383. . Likewise the encouragement of settlement and preferment of local enterprise would appear to be sufficient under Haavik v. Alaska Packers’ Ass’n, 263 U.S. 510, 515, 44 S.Ct. 177, 68 L.Ed. 414; Welch v. Henry, 305 U.S. 134, 146, 59 S.Ct. 121, 83 L.Ed. 87, 118 A.L.R. 1142; New York Rapid Transit v. City of New York, 303 U.S. 573, 580, 58 S.Ct. 721, 82 L.Ed. 1024. And the Court will take judicial notice of the national policy implicit in many recent legislative and administrative measures designed to accomplish these ends.
+Accordingly, I conclude that the tax is valid and that the complaint should be dismissed.
