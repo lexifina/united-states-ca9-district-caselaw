@@ -1,0 +1,37 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "1349-A"
+decided: "1915-11-30"
+citations: ["5 Alaska 414"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GOLDSTEIN et al. v. NELSON et al."]
+source_url: "https://static.case.law/alaska/5/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1258173
+cites_cases: ["19 N. W. 521", "60 Wis. 480"]
+---
+
+# Goldstein v. Nelson
+
+## Majority (JENNINGS, District Judge.)
+
+JENNINGS, District Judge.
+The statutory provisions for examining the adverse party before trial have been said to be a substitute for the discovery of the ancient bill of equity, and it has been urged that the limitations confining the discovery to the eliciting of facts necessary or proper to sustain the case of the party making the examination marks the boundary of the privilege under the statute. It seems to me, however, that whether this is so or not depends entirely upon the wording of the statute. I have yet to find an authority determining that the operation of a statute which is as broad in its language as ours is confined to the province of the old equitable right of discovery. Our statute on the subject of witnesses and their examination, either oral or by deposition, is very broad. No person is disqualified from being a witness by virtue of his interest, if any, in the subject-matter of the suit. The plaintiff may subpoena the defendant, the defendant may subpoena the plaintiff, as a witness on the trial; and, when so appearing as a witness, the party subpoenaing him may ask him any question that he might ask any other witness. It would be no objection that what he asks him would help or hurt his cause, or his adversary’s cause, provided it were competent and relevant to the inquiry.
+A case on this subject, under a statute similar in all material respects to ours, is the case of Kelly v. C. & N. W. Ry. Co., 60 Wis. 480, 19 N. W. 521, where, among other things, the court, after distinguishing the old remedy of discovery from these statutory enactments, says:
+“The statute nowhere requires the party seeking the examination to make any affidavit, nor any application to the court or judge for any order allowing him to so examine the adverse party; but, on the contrary, ‘the attendance of the party to be examined may be compelled upon subpoena, and the payment or tender of his fees as a witness and such examination shall be subject to the same rules as that of any other witness; but he shall not be compelled to disclose anything not relevant to the controversy.’ Were this standing alone, we should find no difficulty, upon a well-established rule of construction, in holding that such adverse party, when so examined, must, if required, disclose anything he may know which is relevant to the controversy. But the statute contains this further provision: ‘On motion, and one day’s notice, the court or presiding judge thereof in which the action or proceeding is pending, may, before the examination is begun, by order limit the subjects to which such examination shall extend.’ When such examination is had after the commencement of the action or proceeding, but before the pleadings have been served, and hence before the case is at issue, there would seem to be great propriety in having the court or presiding judge thereof, in which the action or proceeding is pending, limit, by order, the subjects to which such examination might extend. But where the pleadings are all in, and the issues definitely settled, has such court or judge any authority, by such order of limitation, to narrow the issues made by the pleadings, so as to prevent a disclosure of things which are relevant to the controversy? It seems to us that the object of our statute, as it now stands, is to elicit a full and complete disclosure of whatever may be relevant to the controversy, to be ascertained, in case the pleadings are in, by the issues thereby made, and, in case the issues have not been joined, then by such order limiting the subjects to which such examination may extend.”
+Now, our statute does not even state that the presiding judge may limit the subjects to which such examination shall extend. It is therefore broader even than the Wisconsin statute. Our statute provides (section 1476) that the testimony of a witness in the district may be taken by deposition in an action at any time after the service of the summons, when the witness is a party to the action or proceeding, by the adverse party.
+This would seem to contemplate the taking of the testimony of a party just the same as taking the testimony of any other witness. Whether the party thus taking the testimony of his adversary is to be bound by that testimony so taken, and, if so, how far, is a question that need not be now considered. The only question now before the court is this: Should the witness be compelled to answer the questions which have been put to him? The conclusion the court has arrived at is that he should be so compelled, if those questions are relevant and material to the inquiry.
+In this case the issues were clearly outlined by the pleadings. The complaint, filed herein on August 26, 1915, alleges that the plaintiffs are the sole owners, in possession and entitled to the possession, of a certain group of lode claims; that the defendants claim an interest adverse thereto; and the prayer is substantially that the plaintiffs’ title be cleared, and for injunction, etc.
+The answer, filed September 24th, denies these material allegations, and alleges in substance that defendants are the owners and in possession of mining claims which embrace the land now claimed by plaintiffs, and that they are such owners by virtue of valid discoveries of mineral and valid locations thereof. The issue to be determined, therefore is: Who has the better right. ' '
+In the preparation for -trial plaintiffs gave the defendant Lott the statutory notice -for the taking of his deposition. On the appearance before the notary he was asked, and refused to answer, the following line of questions concerning the claims which the defendants allege that they own:
+“Where did you make your discovery (that is, on the various lode claims)? What kind of boundary markings did you make, if any? Did you post any location notice? Did you survey the lines, or did you measure the lines? Did you do any work on or for the benefit of these claims in 1912, 1913, or 1914; or do you know of any one who did?”
+All these questions are relevant and material, because they bear upon the question of the validity of defendants’ locations, and the question as to whether or not they conflict with plaintiffs’ locations. These questions should be answered, and the court will order accordingly.
+Not so, however, the following questions:
+“Do you know whether or not during this summer you have ever seen markings on the Mountain Top lode established by -the surveyor?”
+I cannot see how that is relevant or material; nor this:
+“Who was with you at that time?” (on page 16)
+—because that is manifestly a cross-examination of the witness, and is not evidence as to the fact in dispute, but is simply an endeavor to find out what witnesses the defendant has to substantiate his own testimony. And so, also, the question:
+“Was there anybody with you at the time you made these locations?”
+These last three questions need not be answered.
