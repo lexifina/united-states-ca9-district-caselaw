@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Alaska"
 docket: "S-440"
 decided: "1937-08-12"
-citations: ["9 Alaska 205", "9 Alaska 225"]
+citations: ["9 Alaska 205"]
 reporter: "alaska"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
