@@ -1,0 +1,38 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "1288-B, 1292-B, 1297-B, 1299-B, and 1301-B"
+decided: "1919-01-04"
+citations: ["6 Alaska 130"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re COSTS ON VIOLATION OF ALASKA FISHERY LAWS."]
+source_url: "https://static.case.law/alaska/6/cases/0130-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1285319
+cites_cases: ["10 Sup. Ct. 817", "135 U. S. 285", "240 Fed. 757", "245 Fed. 204", "249 Fed. 755", "34 L. Ed. 112", "34 Stat. 263", "37 Stat. 512"]
+---
+
+# In re Costs on Violation of Alaska Fishery Laws
+
+## Majority (JENNINGS, District Judge.)
+
+JENNINGS, District Judge.
+Among the questions presented are two which are common to all the cases, to wit:
+Defendant contends that, as the punishment prescribed by law for the offense is “a fine not exceeding $1,000 or imprisonment at hard labor for a term of not more than 90 days, or by both such fine and imprisonment at the discretion of the court,” the payment of costs as a part of the punishment is not authorized, and therefore cannot be lawfully included in the judgment. This question is raised in all the cases by a motion to reform the judgment.
+The government relies upon section 974, R. S. U. S. (U. S. Comp. St. § 1615), which provides as follows:
+“When judgment is rendered against the defendant in a prosecution for any fine or forfeiture incurred under a statute of the United States, he shall be subject to- the payment of costs; and on every conviction for any other offense not capital, the court may, in its discretion, award that the defendant shall pay the costs of the prosecution.”
+Defendant denies the applicability of that section, contending that this is not “a court of the United States,” but is a “territorial court,” and he cites well-known authorities, such as the Coquitlan Case and others, which so hold.
+It seems to the court, however, that the true question.in issue is, not whether this is a United States court, but whether or not the law for the protection of the fisheries of Alaska is a “statute of the United States,” as distinguished from a merely local statute; that is to say, whether or not Congress, in passing the said law for the protection of the fisheries in Alaska, was legislating generally, or was legislating “as the Legislature of Alaska.” If that -law be a “statute of the United States,” there can be no doubt of the applicability of said section 974, regardless of the character of this court, as being a United States court’or a territorial court; but, if it be a mere local statute,- there would be ground for the contention that it is not a “statute of the United States,” and so would be inapplicable.
+The offense committed was malum prohibitum, not malum in se, and Congress,.in enacting the law in question, did not have in view the protection of the people of Alaska by the regulation of their internal affairs, such as a local Legislature would have jurisdiction to do, but it had in view the protection and preservation of a national asset. The United States owns the fisheries of Alaska as proprietor. These fisheries are the property of all the people of the United States (not simply of the people of Alaska), and until the United States divests itself of some attribute of sovereignty its ownership is full and complete. This statute, then, is a statute passed by the United States for the conservation and protection of the property of the United States, and the mere fact that the property to be protected lies in Alaska does not make the law protecting it an Alaska law. Congress has provided that violations of this law may be prosecuted “in any district court of Alaska, or any District Court of the United States in the states of California, Oregon, or Washington” (U. S. Comp. St. § 3643); and as further showing the light in which Congress looks upon the fisheries of Alaska, it is provided in the act giving Alaska a territorial Legislature “that the authority herein granted to the Legislature to alter, amend, mod- . ify, and repeal laws in force in Alaska shall not extend' * * * t0 qie gamej fish, and fur seal laws and laws relating to fur-bearing animals of the United States applicable to Alaska.” (Section 410, C; L,. A. 1913, being section 3, Act Aug. 24, 1912, 37 Stat. 512 (U. S. Comp. St. § 3530); and so, too, by the act approved June 14, 1906 (34 Stat. 263 [U. S. Comp. St. §§ 3623-3627]), Congress provided that no alien should catch or kill, or attempt to catch or kill, except with rod, spear or gaff, any fish of any kind or species whatsoever in any of the waters of Alaska under the jurisdiction of the United States, under pain of a fine of not'less than $100 nor more than $500; and it further provided that any violation’ of said act might be prosecuted in any United States District Court of Alaska, California, Oregon, or Washington.
+Believing, then, that this is “a statute of the United States,” I think section 974, R. S. U. S., undoubtedly applies.
+The next question that deserves attention is this: The clerk has taxed as costs the actual expenses of certain employees who were witnesses for the government, and the defendant objects thereto on the ground that, such witnesses being employees of the United States, their witness fees are covered by the sum paid them as salaries or wages, and that they are not entitled to any sum for witness fees.
+In the case of U. S. v. Sanborn, 135 U. S. 285, 10 Sup. Ct. 817, 34 L. Ed. 112, the Supreme Court of the United States has passed upon this question adversely to defendant’s contention. The court says:
+“In other words, when the government is successful in a suit, the ‘necessary expenses’ of its witnesses, of the class described in section 850, take the place, in its bill of 'Costs, of the per diem and mileage which, but for that section, would have been taxed and allowed in its favor, just as a marshal may elect to take his actual traveling expenses instead of mileage where mileage is allowed to him.”
+The next question raised by the appeal is that the clerk had not the right to tax the attendance of witnesses and other costs at the preliminary examination and before the grand jury. There are four federal cases holding with the defendant on this proposition, and I have not been able to find any federal case which holds against him.
+Circuit Judge Ward, in United States v. Wilson (C. C.) 193 Led. 1007, says that the costs referred to,in said section 974, R. S., mean “taxable costs of the trial before the court-- and petit jury in which defendants have been convicted.”
+Judge Sanford, in U. S. v. Smith (D. C.) 240 Fed. 757, says that the term means merely “taxable costs of the court cause.” He leaves it open whether “costs of the cause” is the same as “costs of the prosecution”; but Judge Treiber, in U. S. v. Briebach (D. C.) 245 Fed. 204, held, not only that the term “costs” does not include costs before preliminary magistrates or before grand juries, but' also that “costs of the cause” and “costs of prosecution” are virtually the same. The costs of the preliminary examination are to be borne at the expense of the United States. And again Judge Reed (Iowa), in U. S. v. Schwartz (D. C.) 249 Fed. 755, holds to the same effect.
+It is the ruling of the court, therefore, that the defendant in each case is liable only for such costs as were incurred in the trial of that case respectively.
+Ret the costs be retaxed in accordance with above.
+<g=^>See same topic & KEY-NUMBER in all Key-Numbered Digests & Indexes
+<§=>See same topic & KEY-NUMBER in all Key-Numbered Digests & Indexes
