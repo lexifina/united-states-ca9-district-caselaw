@@ -1,0 +1,28 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "1,331"
+decided: "1905-11-04"
+citations: ["2 Alaska 564"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SELINER v. McKAY."]
+source_url: "https://static.case.law/alaska/2/cases/0564-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4865362
+cites_cases: ["11 How. 437", "16 Wall. 258", "25 Pac. 1096", "3 Dall. 297", "3 Pet. 433"]
+---
+
+# Seliner v. McKay
+
+## Majority (MOORE, District Judge.)
+
+MOORE, District Judge.
+The foregoing case is an action in the nature of an equitable action to quiet the title to two' mining claims — No. 5 above discovery on Penelope creek, a tributary of Casadepoga river, and No. 3 below discovery on Cannon creek, a tributary of the Casadepoga river, both in the Council City mining precinct, Alaska. The case having been put on the trial calendar of equity cases for trial at the special term beginning November 13, 1905, the attorney for the defendant moved the court to assign the case to the calendar of jury cases for trial at the special term to begin December 4, 1905.
+The ground of the motion is that, the case, under the complaint, answer, and reply, involves issues which fall under the title of an action under the Code in the nature of ejectment, and that the defendant is therefore entitled to a trial of the case by jury, under article 7 of the Constitution of the United States.
+Among the cases cited is a case decided in the Supreme Court of the state of California (Donahue v. Meister [Cal.] 25 Pac. 1096), wherein the right of a party defendant in an action to quiet title to realty alleged in his answer that plaintiff shortly before the commencement of the action ousted him from the rightful possession of the land in controversy, and wrongfully kept him out of the possession thereof. Upon the defendant demanding a jury on the issue raised by his averments of prior possession and ouster, the lower court denied the motion for a jury, and tried the case, with the result that judgment went against the defendant. This action of the lower court being alleged on appeal to the Supreme Court as error, the higher court reversed the lower court on the point raised, namely, that article 1, § 7, of the Constitution of California preserved the right of trial by a jury in such a case, even though section 738 of the Code of Civil Procedure of that state provided a new statutory action, in form equitable, for quieting titles to land. The precise question decided by the higher court was “that, where the answer shows that defendant was rightfully in possession and was ousted by plaintiff, and was wrongfully kept out of possession, upon the trial of those issues the defendant is entitled to a jury trial.”
+In this case similar issues are raised by the answer and reply. Section 1, art. 7, of the Constitution of the United States, though in terms not identical with the section of the Constitution of California reserving the right of trial by jury, is of similar import. The language of section 1, art. 7, of the Constitution of the United States is as follows:
+“In suits at common la,w where the value in controversy shall exceed twenty dollars .the right of trial by jury shall be preserved and no fact tried by a jury shall be otherwise re-examined in any court of the United States than according to the rules of the common law.”
+It is clear that the value in controversy in the case at bar exceeds $20, since the defendant claims damages in the sum of $5,000 for trespass to the land in controversy. The phrase “suits at common law,” it has been held, embraces all suits at common law, whatever may be their peculiar form, brought to settle legal rights. Parsons v. Bedford, 3 Pet. 433, 7 L. Ed. 732; Insurance Co. v. Comstock, 16 Wall. 258, 21 L. Ed. 493; Webster v. Reid, 11 How. 437, 13 L. Ed. 761; United States v. La Vengeance, 3 Dall. 297, 1 L. Ed. 610; Bains v. The James and Catherine, Baldw. 544, Fed. Cas. No. 756.
+So, also, is the language of the California Code creating the new action for quieting titles similar in import to section 475 of the Civil Code of Procedure of Alaska (chapter 46). Both statutes are. of an equitable nature, and provide a new remedy, reaching beyond the exclusive remedies of equity, and both put the remedy at the command of the person in possession of the land. The authority of Donahue v. Meister, therefore, is in the case under consideration most persuasive, if not absolutely controlling. The case is so nearly a counterpart of the present case in respect to the pleadings, the facts pleaded, and the terms of the constitutions and statutes brought into comparison, that I am convinced the motion should, in effect, be granted. I am not convinced, however, that the motion in its full extent should be granted.
+The final conclusion now reached is that the issues of title, ouster, and damages involved in the pleadings should be referred to a jury for trial, in accordance with the provisions of section 371, c, 39, of the Civil Code of Procedure for Alaska, relating to trials of issues in an action of an equitable nature, and the counsel of the defendant is hereby authorized to prepare a statement of such issues for submission to the court within six days from the date hereof, for the court’s approval as to the form and substance thereof, and he is directed to serve a copy of the statement upon the counsel for the plaintiff before the submission of the statement to the court, with a notice of the time proposed by him for bringing the statement before the court for its action thereon.
