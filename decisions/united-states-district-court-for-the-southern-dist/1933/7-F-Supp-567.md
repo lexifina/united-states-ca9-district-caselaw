@@ -1,0 +1,27 @@
+---
+court: "United States District Court for the Southern District of California"
+docket: "19767-M"
+decided: "1933-06-27"
+citations: ["7 F. Supp. 567"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re LOS ANGELES MFG. CO."]
+source_url: "https://static.case.law/f-supp/7/cases/0567-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7352310
+cites_cases: ["108 Mo. 298", "111 Cal. 126", "112 Cal. 219", "138 U. S. 414", "18 S. W. 1101", "189 Cal. 665", "243 F. 511", "269 P. 557", "36 F.(2d) 747", "43 N. W. 806", "43 P. 586", "44 P. 487", "53 Am. St. Rep. 207", "6 Dak. 357", "83 F. 964"]
+---
+
+# In re Los Angeles Mfg. Co.
+
+## Majority (MeCORMICK, District Judge.)
+
+MeCORMICK, District Judge.
+I cannot concur in that part of the order of the referee that disallows and detaches any lien upon personal property located in Los Angeles county that was acquired after the delivery and recording on December 31,1926', of the trust indenture and chattel mortgage.
+The stipulation of facts sent up by the referee concedes that the trust instrument expressly hypothecates and mortgages all after-acquired personal property of Los Angeles Manufacturing Company to secure the payment of the corporation bonds that were subject matters of the trust agreement. Section 2883 of the California Civil Code sanctions the validity of agreements that create and affix liens on after-acquired property and property that is not in existence at the time of the agreement, and this Code section also provides that the lien agreed for attaches to property acquired under the agreement from the time that the party agreeing to give the lien acquires an interest in such property.
+There does not appear to be any reason why this statute should be restricted in its application to real property. It refers to property in the generic sense. The expression that the agreement may be made to give the lien on property “not yet in existence” seems to pointedly relate to personal as distinguished from real property and undoubtedly refers to the products and instrumentalities of manufaeturies such as the Los Angeles Manufacturing Company was fabricating and possessing during) the time of its normal functions. It would have been a simple matter for the Legislature to have incorporated into the Code section verbiage that would have restricted its application to real property, and not having done, so, the statute should be construed according to the usual and ordinary meaning of the words employed therein. These words are inclusive of both kinds of property.
+The authoritative judicial decisions also sustain the contention that the lien attached to personal property although it wasi not in being at the time the chattel mortgage and trust agreement was recorded. See Phillips v. Byers, 189 Cal. 665, 269 P. 557, where the lien was apparently held to have attached to products manufactured after the delivery of the mortgage. In California Title Company v. Pauly, 111 Cal. 126, 43 P. 586, 588, the California Supreme Court said, “It is not questioned that a mortgage may be given on property to be acquired by the mortgagor after the execution of the mortgage,” and in support of this statement the court cited Omaha Railway Co. v. Wabash Railway Co., 108 Mo. 298, 18 S. W. 1101, 1102, where the following language is found: “That mortgage contains an after-acquired property clause; and it must be now taken as well-settled law that such a clause is valid as to sub^ sequently acquired property, real or personal.” In Shoobert v. De Motta, 112 Cal. 219, 44 P. 487, 53 Am. St. Rep. 207, there is language that clearly manifests an intention of the California Supreme Court to approve liens on personal property acquired or brought into being after the making of a chattel mortgage where the description of such after-acquired property is given in the mortgage.
+In states where similar statutes to section 2883 of the California Civil Code are found, the courts of last resort have held that the lien authorized by section 2883 attaches to personal as well as to real property. A particularly illuminating decision on this question is found in Grand Forks National Bank v. Minn. Elev. Co., 6 Dak. 357, 43 N. W. 806. See, also, Alferitz v. Ingalls (C. C.) 83 F. 964; Stockyards Loan Co. v. Nichols (C. C. A. 8) 243 F. 511; Guaranty Trust Co. v. Minneapolis R. Co. (C. C. A. 8) 36 F.(2d) 747; Central Trust Co. v. Kneeland, 138 U. S. 414, 11 S. Ct. 357, 34 L. Ed. 1014.
+The suggestion that no lien can attach to the after-acquired personal property because it is “not capable of manual delivery,” as required by-section 2955 of the Civil Code of California, loses its force as applied to the facts of this review when the historical development of the quoted phrase of the Code section is considered. The section relates only to the kind of property which may be mortgaged, and in no sense is it to be construed as imposing a restriction to the effect that the mortgagor must own the property or be able to physically and actually deliver it when the mortgage is executed.
+In conclusion, I am of the opinion that the lien of the chattel mortgage arose and was imposed upon the personal property described and included in the trust instrument when such personal property was acquired by the Los Angeles Manufacturing Company.
