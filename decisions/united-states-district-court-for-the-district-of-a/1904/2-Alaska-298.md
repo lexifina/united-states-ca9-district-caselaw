@@ -1,0 +1,25 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "91"
+decided: "1904-11-21"
+citations: ["2 Alaska 298"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WINDMULLER v. CLARKSON et al."]
+source_url: "https://static.case.law/alaska/2/cases/0298-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4864045
+cites_cases: ["165 U. S. 342", "2 Wash. C. C. 397", "3 Sumn. 435", "5 L. Ed. 511"]
+---
+
+# Windmuller v. Clarkson
+
+## Majority (WICKERSHAM, District Judge.)
+
+WICKERSHAM, District Judge.
+When a miner has made a discovery of gold on his claim, has marked its boundaries; so that they can be readily traced, and recorded the notice of location, all prior to the attaching of intervening rights, he has acquired a fixed property right and a title thereto good and complete against all the world, though the paramount title and fee thereof is in his trustee, the United States. His title can only be defeated by a failure on his part to comply with the mining laws, regulations, and rules. His title may be sold, conveyed, mortgaged, and will descend to his heirs by will or the law o'f descent in the same way as if it were patented. Copper River Min. Co. v. McClellan, supra, p. 134.
+The defendants in this case located the mining claims in dispute by a joint location notice. Four or more — not exceeding eight — persons may combine, and take each a full placer mining claim by a joint location notice; they did so in this case. The plaintiff alleges that, prior to the location by the defendants, he became a partner with them in the location of claims in that vicinity, and that by reason of their oral contract and the acts of the parties he became, and now is, in equity th.e owner of a one-fifth interest in the claims so located by them.
+The defendants deny that they entered into any contract with the plaintiff whereby he "was to have any interest in their claims. Their' evidence shows, and the court finds, that after all parties reached the Sushitna river, where all had gone-on a stampede, they agreed among themselves and with plaintiff that whenever any of the party should locate a creek, that each member of the party should be staked in on the locations by the discoverers. It appears that the plaintiff, accompanied by Barney and McLaren, went down stream on a prospecting trip. They took the names of those who went up stream. The defendants went up stream, taking the names of plaintiff and his companions. Each party agreed that if a creek was located the other party should be staked on the creek. The defendants, going up stream, located Valdez creek, discovered gold thereon, and staked the joint location' for themselves, and also staked another claim for plaintiff. Defendants’ claims proved to be of value; that staked for the plaintiff worthless. There was also some testimony that the plaintiff remained at the party’s cache to watch it while the defendants washed up a quantity of gold, and that they divided this gold with plaintiff, giving him an equal portion with each of them. This is all the evidence of a contract relied upon by plaintiff.
+It is not sufficient. Before the court would be justified in entering a decree for plaintiff, he must establish his contract by clear, convincing, and satisfactory evidence, and that he does' not do. A court of equity will not adjudge the locator of a placer mining claim, who is in peaceable possession thereof under a clear record title, to be a trustee of'that title and property for another, upon an alleged prior oral contract to. locate it for the other, or to give him an interest therein, unless the case is established by full, clear, and satisfactory evidence. Hopkins v. Grimshaw, 165 U. S. 342, 17 Sup. Ct. 401, 41 L. Ed. 739, citing with approval Prevost v. Gratz, 19 U. S. (6 Wheat.) 481, 5 L. Ed. 511; Slocum v. Marshall, 2 Wash. C. C. 397; Fed. Cas. No. 12,953; Smith v. Burnham, 3 Sumn. 435, Fed. Cas. No. 13,019.
+It is true that plaintiff and defendants were mining prospectors on the same stampede from Valdez to the ASushitna; they sledded their grub together; they camped and cooked at the same fire; they were “pardners” in the sense of being companions. But such acts do not constitute a contract of partnership in the eye of the law, nor do they constitute a contract which would justify the court in decreeing them all to be interested in the titles to placer mining claims located in their individual names. Conceding that defendants jointly located four claims in their joint names and interest by one and the same location notice, it cannot help the plaintiff. . He was not included in that notice, and he cannot be held tó be an equitable owner therein, in the absence of a specific contract made by the defendants prior to their location to give him an interest in consideration for his aid or assistance. No such agreement is shown, and judgment must go for defendants.
