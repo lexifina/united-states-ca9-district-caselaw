@@ -1,0 +1,27 @@
+---
+court: "United States District Court for the District of Alaska"
+decided: "1905-01-14"
+citations: ["2 Alaska 360"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MURRAY v. FARRELL."]
+source_url: "https://static.case.law/alaska/2/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4865793
+cites_cases: ["10 L. Ed. 177", "106 U. S. 99", "11 L. Ed. 353", "24 Or. 420", "33 Pac. 869", "7 Or. 236", "8 L. Ed. 974"]
+---
+
+# Murray v. Farrell
+
+## Majority (MOORE, District Judge.)
+
+MOORE, District Judge.
+The demurrer of the defendant to the complaint in this action raises two questions: (1) Does the complaint state facts sufficient to constitute a cause of action ? (2) Does it appear upon the face of the complaint that this action has not been commenced within the time limited by the Code of Alaska ?
+The action is one upon a contract resting in parol. Section 6 of chapter 2 of the Code of Civil Procedure (Carter’s Annotated Codes, p. 146) raises a bar to an action upon contracts of the parol class after the lapse of six years from the time the action accrued. The complaint states that at the time the action accrued, to wit, December 1, 1896, the parties to the action were residents of the state of Montana. Paragraph 5 of the complaint contains this additional allegation:
+“That before said cause of action became barred by the statute of limitations of said state of Montana and the laws thereof respecting the time within which civil actions must be commenced therein, the said defendant, Thomas Farrell, left the said state of Montana, and has never returned thereto, and that the cause of action is not now barred by the statute of limitations of the state of Montana.”
+This paragraph contains a violation of one of the cardinal rules of Code pleading. Its vice lies in the conclusion of law couched in the proposition “that this cause of action is not now barred by the statute of limitations of the state of Montana.”
+Inasmuch as the demurrer does not admit a conclusion of law, all of the paragraph which states other than facts may be properly treated as apart from the pleading and unwritten therein. With the reference of the pleading to the statute of limitations of Montana eliminated (and it must be if we adhere to the rules of pleading), we must seek an answer to the inquiry, is there any provision of our statute of limitations which will suspend the operation of the plain provision of section 5 of the chapter which has been herein quoted, and save the present action from the bar of the limitation therein? Section 15 of the chapter does provide that the statutory term of limitation may be extended when the cause of action lies against a person “out of the district or concealed therein at the time when it accrues.” That section, however, applies only to a state of facts or a condition wherein a cause of action matures against a person or persons whose status is that of a resident or residents of Alaska.
+In this case when the cause of action accrued the defendant was a resident of Montana, hence a nonresident of Alaska. That this is the true construction of the section has been decided by the Supreme Court of Oregon in McCormick v. Blanchard, 7 Or. 236, and reaffirmed and followed in Crane v. Jones, 24 Or. 420, 33 Pac. 869, in construing the same section in terms in the Oregon Code in connection with our section 24 (section 26, B. & C. Comp.). This construction fully coincides with my own conception of the meaning of the section.
+Section 24 expressly relates to nonresidents of the District of Alaska only, and declares, in substance, that if an action is barred in the state, territory, or country where the cause of action arose, an action upon the same subject-matter or cause of action will be barred under our laws. And it will not be contended that the section can be taken to include the converse of this statement, namely, that if not barred by the statute of the foreign jurisdiction, the action will not be barred by the local statute for Alaska. But the complaint in this case is construed upon the theory that the statute of limitations of Montana must control the statute of Alaska. Hence said section 24 does not cover the facts of the case under consideration. Reverting, then, to the only provision of our statute governing the facts of this case which .are properly pleaded —namely, section 6, already quoted — the conclusion is the certain and necessary one, that at the end of six years from December 1, 1896, the plaintiff lost his rights to the remedy of this action.
+This ruling is in full accord with the generally accepted law that, unless the law of the forum recognizes the statute of limitations of the foreign state wherein the cause of action accrues, the law of the forum or the local law must determine whether an action is or is not preserved to the party having the cause of action. This upon the principle that all statutes of limitations affect the remedy, and hence that the law of the forum must govern in deciding whether or not the remedy or the action may be had. Bank of U. S. v. Donnally, 8 Pet. (U. S.) 372, 8 L. Ed. 974; McElmoyle v. Cohen, 13 Pet. (U. S.) 327, 10 L. Ed. 177; Bacon v. Rives, 106 U. S. 99, 1 Sup. Ct. 3, 27 L. Ed. 69; Railway Co. v. Letson, 2 How. (U. S.) 497, 11 L. Ed. 353. The demurrer is, for the reasons herein stated, sustained.
