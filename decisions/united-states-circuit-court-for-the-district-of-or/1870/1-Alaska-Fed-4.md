@@ -1,0 +1,26 @@
+---
+court: "United States Circuit Court for the District of Oregon"
+decided: "1870-05-06"
+citations: ["1 Alaska Fed. 4", "Fed.Cas.No.4,755"]
+reporter: "alaska-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE FIDELITER."]
+source_url: "https://static.case.law/alaska-fed/1/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1250711
+cites_cases: ["1 Pet. 258", "1 Stat. 77", "10 Wheat. 199", "10 Wheat. 312", "2 Cranch, 126", "3 Wheat. 318", "4 Dall. 8", "5 Cranch, 185", "5 Cranch, 303", "5 Cranch, 305", "6 Wheat. 450", "8 Pet. 112", "8 Pet. 148", "9 Cranch 291", "9 Cranch, 289"]
+---
+
+# The Fideliter
+
+## Majority (SAWYER, Circuit Judge.)
+
+SAWYER, Circuit Judge.
+The first point made by appellant, and which, if tenable, is fatal, is, that the district court had no jurisdiction over the vessel, and that this court has now no jurisdiction.
+The ground of the objection is, that the jurisdiction of the district courts of causes of “seizure under the laws of impost, navigation, and trade of the United States,” under the provisions of section 9 of the judiciary act of 1789 (1 Stat. 77), does not attach unless the property judicially proceeded against is seized prior to such proceeding, either in the district where the proceeding is had, or on the high seas, and brought into such district. It is insisted that an open, visible seizure by an officer of the government or other person authorized by law to seize, must precede the commencement of the judicial proceedings, and that such seizure prior to the filing of the libel must be alleged therein, and proved on the trial. Upon an examination of the authorities, I find this to be the law as settled by the decisions of the federal courts, including the supreme court of the United States. I shall only cite the authorities, without a restatement of the reasoning upon which the decisions rest: The Ann, 9 Cranch, 289; The Silver Spring, Fed.Cas.No.12,858; The Octavia, Fed.Cas.No.10,422; The Josefa Segunda, 10 Wheat. 312; Keene v. U. S., 5 Cranch, 305; Conk. Pr. 254; Ben. Adm. 301; Betts, Adm. 68, 69; Gelston v. Hoyt, 3 Wheat. 318; Rule 22, Adm.Rules Sup.Ct.U.S.
+That the objection may be taken in this court for the first time is clear, from the same authorities. In the language of Sprague, J., in The Silver Spring [supra] : “This is a question of the existence of those facts, which will warrant the court in proceeding to decree a forfeiture. In requiring a seizure by the collector, prior to the filing of the libel on the part of the government, the legislature has made that fact a prerequisite to a condemnation, and the plea in this case is like the plea of not guilty to an indictment, and puts in issue all material allegations of the information, and if upon the trial, it does not appear that there was a seizure previously to the filing of the libel, the information is not sustained, and a forfeiture will not be decreed.”
+Upon a suggestion that the allegation of seizure is immaterial and might be omitted, the learned judge said: “But the information would be defective if this allegation were omitted.” And this is manifestly so under the decision in The Ann, 9 Cranch, 289. The seizure is a material jurisdictional fact. In the latter case the court say: “It follows from this consideration (that the place of seizure should decide as to the proper tribunal) — that before judicial cognizance can attach upon a forfeiture in rem, under the statutes, there must be a seizure; for until a seizure it is impossible to ascertain what is the competent forum. And if so, it must be a good subsisting seizure at the time when the libel or information is filed and allowed. If a-seizure be completely and explicitly abandoned, and the property restored by the voluntary act of the party who made the seizure, all rights are gone. Although judicial jurisdiction once attached, it is divested by the subsequent proceedings, and it can be revived only by a new seizure.” 9 Cranch 291.
+The 22nd rule in admiralty, prescribed by the supreme court, requiring the libel to state the place of seizure, is framed in strict accordance with the law, as thus settled by the courts^ In this case the libel does not allege a seizure. It nowhere appears that there was a seizure, and the libel is therefore substantially and not merely technically defective, in failing to state a material jurisdictional fact, without which the court cannot proceed to decree a forfeiture. See, also, as bearing upon this point, Kempis v. Kennedy, 5 Cranch, 185; Turner v. President, etc., 4 Dall. 8; McCormick v. Sullivan, 10 Wheat. 199; Hodgson v. Bowerbank, 5 Cranch, 303; Capron v. Von Noorden, 2 Cranch, 126; Sullivan v. Fulton Steamboat Co., 6 Wheat. 450; Koing v. Bayard, 1 Pet. 258; Brown v. Keene, 8 Pet. 112; Jackson v. Ashton, 8 Pet. 148. It is conceded also, that there was, in fact, no seizure, so that an amendment would be of no avail. It follows, therefore, that the decree of the district court must be reversed and the libel dismissed.
+Decree accordingly.
+NOTE. Subsequently the vessel was seized, and a libel for forfeiture filed in the district court of the district of California. Decree of forfeiture entered. Fed.Cas.No.15,088, post, p. 44.
