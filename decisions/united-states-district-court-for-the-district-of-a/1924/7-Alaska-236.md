@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "2323-A"
+decided: "1924-08-22"
+citations: ["7 Alaska 236"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES v. ONE STUDEBAKER CAR."]
+source_url: "https://static.case.law/alaska/7/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1268238
+---
+
+# United States v. One Studebaker Car
+
+## Majority (REED, District Judge.)
+
+REED, District Judge.
+The pleadings were settled early in May, 1924, and on the 19th of that month the case came on for trial before a jury. At the conclusion of the evidence, the jury were instructed by the court to bring in a verdict for the libelant, condemning the car in question. The evidence in the case clearly showed that the liquor was moonshine whisky, and one of the containers was a five-gallon keg filled with moonshine whisky; that no tax stamp was on the container, as required by law, and there was no issue ma,de, by any claimant of the whisky, that the same was manufactured in accordance with the provisions of the revenue law. Under section 3333 of the Revised Statutes (26 USCA § 327 [U. S. Comp. St. § 6130]), the burden was on the claimant of the whisky to show that the provisions of the law, in relation to distilled spirits, had been fully complied with, and, there being a default of any testimony on that behalf, a condemnation naturally followed.
+The question before the court, at the conclusion of the trial, was whether the Studebaker automobile was to be condemned for being a vehicle in which the liquor aforesaid had been deposited, concealed, or removed with intent to evade payment of the tax. The court at that time was under the impression that, as the whisky had been condemned and forfeited to the United States for violation of section 3450, R. S., through the default of any claimant, the car in which the liquor had been deposited was to be presumed to be also forfeited, as being a vehicle in which said liquor was deposited, removed, or concealed with intent to evade payment of the tax.
+I am convinced now that it was error to so instruct the jury when an issue had been made by the pleadings in the case. The fact that there was condemnation of the liquor under section 3450, R. S., through the default of the owner or claimant of the liquor, is not presumptive evidence as to other parties appearing on their own behalf, denying that the liquor was deposited, concealed, or removed in the car, with intent to evade payment of the tax. The Marshall & Newman Company, claiming the touring car, presented, by their answer, a direct issue on all the allegations of the information, and, as to the thing itself, the touring car, the issues were: First, was the tax due on the whisky? Second, was the whisky removed, concealed, or deposited with intent to evade payment of the tax? And, third, was the touring car used as a means to deposit, conceal, or remove the whisky with such intent? The testimony showed conclusively that the tax was due and unpaid, and that the whisky was forfeited for that reason; but the further questions, as to whether the whisky was removed, concealed, or deposited with intent to evade payment- of the tax, and whether the vehicle mentioned was used as a means of so doing, with intent to evade payment of the tax, were questions of fact, to be determined from the evidence.
+The question, then, before the court, was: Could intent be presumed from the fact that the uncontradicted testimony showed that the whisky was placed in the car by Peterson, the presumable owner of the whisky? A careful consideration of the matter leads' me to the conclusion that in this class of cases no presumption of intent can be presumed. The mere possession of spirituous liquor, whether tax-paid or not, in this jurisdiction, is a violation of the prohibition law. In fact, in this case, the defendant Holmes was convicted for a violation of the National Prohibition Law by having transported the liquor forfeited herein. Whether, then, although the tax had not been paid on the liquor, such liquor was removed, concealed, or deposited with intent to evade payment of the tax, or to evade the provisions of the Prohibition Act, was a question of fact for the jury, and no presumption should have been indulged in as to the intent of the owner of the liquor. It is a question to be determined by the jury from all the facts and circumstances in the case.
+There was no direct testimony as to the intent of the owner of the liquor, Peterson. He simply made default, and the liquor was condemned under section 3333, R. S. The difficulty running through all this class of cases has been the application of the revenue statute, taxing liquor, in the face of the prohibition against the manufacture and possession thereof, and to indulge in the presumption of intent to evade the tax, in the fact of the prohibition law denying the right .of possession of liquor, through default of the owner of the liquor as against a third party, is not in accordance with the law.
+It seems to me, therefore, that the motion for a new trial should be granted;' and it will be so ordered.
+<@=s>See same topic & KEY-NUMBER in all Key-Numbered Digests & Indexes
