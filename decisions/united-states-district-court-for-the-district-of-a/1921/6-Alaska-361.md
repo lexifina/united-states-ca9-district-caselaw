@@ -1,0 +1,27 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "1855-A"
+decided: "1921-05-14"
+citations: ["6 Alaska 361"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DONOHOE et al. v. TJOSEVIG et al."]
+source_url: "https://static.case.law/alaska/6/cases/0361-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1285321
+cites_cases: ["131 N. W. 200", "21 R. I. 467", "44 Atl. 592", "49 L. R. A. 351", "79 Am. St. Rep. 816", "89 Neb. 260"]
+---
+
+# Donohoe v. Tjosevig
+
+## Majority (JENNINGS, District Judge.)
+
+JENNINGS, District Judge.
+The above-entitled cause was a suit brought by Donohoe and others against Christian Tjosevig and others for the purpose, of having the court declare that a certain fund which had been received by the defendants was a trust fund of which the defendants were a beneficiary. The court ordered the fund deposited in the registry of the court. This was done. The suit resulted in a decree in favor of plaintiffs, and an order by the court that the clerk pay out of the funds in the registry of the court such sum as equaled plaintiffs’ due proportion of said fund. This was done by the clerk, having a surplus in his hands of $288.09.
+John R. Winn, who was the plaintiff in a suit entitled John R. Winn v. Christian Tjosevig, Ely Tjosevig, and Andrew Halvorsen, and J. W. Bell, Clerk, and who had recovered judgment in that case for $218.23 and costs, had the marshal serve upon the clerk a writ of garnishment for that sum, and he now makes application to this court for an order on the clerk to pay to him the said sum of $288.09 mut of the said funds remaining in the registry of the court. I do not see how this can be done, at least without giving the defendant Tjosevig his day in court on the application.
+I am cited by the applicant to several authorities which he contends sustain the application, and among them section 130 of Freeman on Executions, p. 231 (2d Ed:). The authorities cited are on the point only that money in the hands of a sheriff or constable belonging to a defendant may be levied upon by a writ of garnishment; but this is not an attempt to reach money in the hands of a sheriff or constable, nor in the hands of the clerk in any other capacity than as the agent of the court. On the contrary, it is an attempt to reach money in the hands of the court. The clerk only holds the money as custodian for the court. rThe court compelled Tjosevig to place the money in its possession; he did not place the money there voluntarily, but was compelled to do so by the order of the court. For the court now to take the money which he has deposited in compliance with that order and turn it over to a stranger without giving Tjosevig an opportunity to appear and protest the matter would, it seems to me, be an unwarrantable proceeding. The difference- between money-in the hands of a sheriff and money in the registry of the court is pointed out in the case of Allen v. Gerard, 21 R. I. 467, 44 Atl. 592, 49 L. R. A. 351, 79 Am. St. Rep. 816, decided November 6, 1899, by the Supreme Court of Rhode Island. In that case the following language is used:
+•‘But plaintiff’s counsel argues that, although an officer of the court, having funds in his hands as such officer, is not liable to garnishment, such funds being then in custodia legis, yet, after the object for which such funds are held has been satisfied, such officer holds the balance thereof, not as an officer, but as trustee for the person entitled thereto, and hence, in a suit against such person, such trustee may be garnished. In support of this contention he cites, * * * which holds that surplus money held on execution in the hands of an officer belonging to the defendant may be garnished in his hands. * * * Conceding that these cases state the law correctly, we do not think they control the decision in the case at bar. Here the money sought to be reached is in the registry of the court, and hence undoubtedly in. the custody of the law. It was placed there in pursuance of the statute. The clerk of the court, as such, has no control over it, nor is he any way liable for it, except as the custodian of the court. He holds the money in his official capacity only, * * * and can only pay it out as ordered by the court. * * * Money in the registry of the court is whol-, ly under the control of that court unless there is some supervisory! (■jurisdiction over the same, and cannot be paid out until an order, is duly made for that purpose. And, this being so, no argument is necessary to show that it is not liable to attachment by trustee process.” ,
+Counsel also cites the case of Ætna Indemnity Co. v. Malone, 89 Neb. 260, 131 N. W. 200, in which the court ordered some money that had been taken from the possession of two thieves to be turned over to the rightful owner. It is true that the court did this, but it will be seen that the two thieves were made parties to the proceedings and had their day in court on the application. They duly appeared and contested the matter.
+I do not mean to intimate that the court would have no power whatsoever to order this money turned over to Judge Winn on his execution. This opinion goes only to this extent, that such action will not be taken without due notice to Tjosevig, thus affording him an opportunity to contest the validity or justice of such an order.
+c@3^See same topic & KEY-NUMBER in all Key-Numbered Digests & Indexes
