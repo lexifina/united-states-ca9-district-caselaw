@@ -1,0 +1,37 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "3633"
+decided: "1933-03-27"
+citations: ["8 Alaska 393"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re ADAMS."]
+source_url: "https://static.case.law/alaska/8/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1266760
+cites_cases: ["115 Md. 614", "12 Mont. 197", "120 S.W. 666", "140 Mo. 545", "141 Tenn. 64", "206 S.W. 333", "29 P. 424", "34 N.E. 606", "48 U.S.C.A. § 47", "7 Ind. 368", "74 Or. 586", "81 A. 25", "9 S.W. 193"]
+---
+
+# In re Adams
+
+## Majority (HILL, District Judge.)
+
+HILL, District Judge.
+The above-entitled matter came on for hearing upon the motion of the United States to dismiss the appeal of George L. Adams from a judgment rendered in the commissioner’s court of Fairbanks precinct on the 7th day of March, 1933, declaring said George L. Adams to be a person of unsound mind, and committing him to an insane asylum. This judgment was regular in form, and, so far as appears, no fault ■is found with any procedural matter connected with it. George L. Adams filed with the United States commissioner exceptions to the judgment, gave notice of appeal, and the commissioner allowed his exceptions, and the transcript was filed in this court. In plain language, the sole ground for the exceptions is that the evidence was not sufficient to show that Adams was insane.
+The motion to dismiss the appeal is based upon alleged faults in procedure and upon the further ground that this court has no jurisdiction to hear such an appeal. No authorities were cited by counsel in argument.
+The appellant relies upon the provisions of section 1772, Compiled Laws of Alaska, as amended by chapter 18 of the Session Laws of 1931, sections 1773 and 1774 of the Compiled Laws of Alaska, and rule 34 of this court.
+The remedy by appeal was introduced into common-law proceedings by statute. There is no absolute right to an appeal either in law or at equity, but it is a remedy that may be given or withheld by statute. Where there is no right to appeal at all, the appellate court has no jurisdiction and will dismiss the appeal on its own motion. Studabaker v. Markley, 7 Ind. 368, 34 N.E. 606.
+It is contended by the appellant that commissioners conducting insanity hearings under the provisions of section 831, Compiled Laws of Alaska (48 U.S.C.A. § 47), are acting as probate judges, and, while there is no provision in the chapter of the Compiled Laws of Alaska treating with the care and custody of the insane, nor elsewhere in the laws of Alaska, which specifically provides for an appeal from a judgment of insanity, such an appeal should be allowed under section 1772, Compiled Laws of Alaska, as amended, which is as follows: “There shall be an appeal to the District Court of the District of Alaska from all orders of the commissioners exercising the jurisdiction of a Court of Probate.”
+Whether such a blanket provision is applicable to probate proceedings in those jurisdictions where such blanket provision is found in one part of the Code and the provisions for insanity inquisitions are in a chapter by themselves, apparently complete in itself, is a question which has been discussed in a number of cases and upon which there is a diversity of opinion. Construing such a section, the St. Louis Court of Appeals in an extended and elaborate opinion held that such a general statute was not “applicable to appeals in cases arising under * * * proceedings directly connected with the adjudication of soundness or unsoundness of mind.” In re Crouse, 140 Mo. 545, 120 S.W. 666, 670. Whereas in Tennessee, Harmon v. Harmon, 141 Tenn. 64, 206 S.W. 333, in Maryland, In re Bristor’s Estate, 115 Md. 614, 81 A. 25, and in Oregon, In re Sneddon, 74 Or. 586, 144 P. 676, appeals have been allowed under such a general statute. There are also a number of states in which there is specific provision for appeals and appellate procedure in insanity matters.
+A comparison of section 1772, supra, with the statutes held applicable in Tennessee, Maryland, and Oregon shows what is to me a vital difference. In the Alaska statute, an appeal is given from “all orders of the commissioners,” whereas, in Tennessee, the statute reads: “Any person dissatisfied with the sentence, judgment, or decree of. the county court, may pray an appeal to the circuit court of the county, unless it is otherwise expressly provided by this Code.” Thomp.Shan.Code, § 4879.
+The Maryland statute is: “An appeal shall be allowed from any final decree, or order in the nature of a final decree, passed by a court of equity by any one or more of the persons parties to the suit.” Code Pub.Gen.Laws 1924, drt. 5, § 30.
+The Oregon statute reads: “The provisions of chapter V, title VII, relating to appeals are intended to apply to judgments and decrees of the county court in all cases.” Code 1930, § 28-1012.
+Similar instances might be multiplied, but I have found no case where the general statute was held to apply to appeals from judgments when the wording of the statute mentioned only orders. Section 1323, Compiled Laws of Alaska, defines an order as follows: “Every .direction of a court or judge made or entered in writing, and not included in a judgment, is denominated an order.”
+Section 1066, Compiled Laws of Alaska, defines a judgment as follows: “A judgment is the final determination of the rights of the parties in the action.”
+I am not unmindful of the maxim, Qui haeret in litera, haeret in cortice, but it seems to be that the distinction noted above is substantial and indicative of the intention of the Legislature. Both section 1772 and section 831, supra, have been in force in Alaska for approximately thirty-three years, and during that time I know of no case, nor has any case been called to my attention, where an appeal has been successfully prosecuted from a judgment of insanity. It seems hardly possible that, if the distinction were not of the heart of the matter rather than the bark, it would not have received legislative consideration and correction heretofore. The provisions of the sections immediately following 1772 which establish procedure applicable to a review of orders upon exceptions but make no provision for any trial of a case de novo in this court upon appeal from a judgment and do not provide for making or transmitting to this court any record of evidence received below appear to indicate that no such appeal was intended.
+My conclusion is that I have no jurisdiction of this attempted appeal and must dismiss it.
+The district attorney urges upon the court that the defendant, having been found insane, cannot proceed with an appeal (if this court has appellate jurisdiction) in his own name, but must proceed by guardian.
+I do not agree with this contention. Upon collateral attack the judgment of insanity may be conclusive as to the fact of insanity, but, when attacked by appeal from the judgment itself, such a judgment is directly attacked, and no such conclusive effect is given to it.
+A finding of insanity does not per se render an alleged insane person incompetent to appeal. In re Kane’s Estate, 12 Mont. 197, 29 P. 424; Davis v. Norvell, 87 Term. 36, 9 S.W. 193.
+An order of dismissal may be drawn, basing the dismissal entirely and solely upon lack of jurisdiction.
