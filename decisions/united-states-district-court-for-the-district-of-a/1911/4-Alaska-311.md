@@ -1,0 +1,40 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "477"
+decided: "1911-01-31"
+citations: ["4 Alaska 311"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE TOKAI MARU."]
+source_url: "https://static.case.law/alaska/4/cases/0311-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1253812
+cites_cases: ["22 Pac. 146", "3 Pac. 673", "34 Stat. 263", "65 Cal. 154", "80 Cal. 201"]
+---
+
+# The Tokai Maru
+
+## Majority (CUSHMAN, District Judge.)
+
+CUSHMAN, District Judge.
+The claimant contends that section 3 of the act of June 14, 1906, conferred exclusive jurisdiction on United States District Courts in providing:
+“That the violation of any provision of this act or of any regulation made thereunder may be prosecuted in any United States District Court of Alaska, California, Oregon, or Washington.”
+That therefore the commissioner ex officio justice of the peace at Unalaska had no jurisdiction to impose a fine upon the officers and crew of the schooner, and any fine which he attempted to impose would not be a lien upon the vessel, even though it had been employed by such aliens in unlawful fishing.
+Section 410 of the Code of Criminal Procedure for Alaska provides:
+“Sec. 410. Criminal Jurisdiction of - a Justice’s Court. That a justice’s court has jurisdiction of the following crimes: * * * Of any misdemeanor punishable by imprisonment in the county jail, or by fine, or by both.”
+Section 2 of the act of June 14, 1906, provides that the persons convicted shall be fined not less than $100 nor more than $500. The offense is therefore a misdemeanor.
+The title and the body of the act both show that the law under which the suit was prosecuted is one of the laws of Alaska, to be enforced by the same courts and in the same manner as other laws applicable to Alaska, with the additional jurisdiction conferred upon the district courts of California, Oregon, and Washington of entertaining prosecutions for its violation.
+It is clear that the provisions of section 3 do not curtail the jurisdiction of the justice’s court; that the intention and effect of that section were to give the courts of other jurisdictions, into which offending vessels might flee, power to try parties accused of the violation of the law and not fio deprive the courts of Alaska of jurisdiction in the district in which the crime was committed, for such vessels might not only leave the territory of Alaska and be brought into the districts of California, Oregon, and Washington, but they might pass from the division in Alaska in which the offense had been committed into other divisions of the district of Alaska; therefore it is provided that any United States District Court of Alaska may entertain jurisdiction.
+Claimant further contends that the persons fined by the commissioner, though not paying their fines in money, have done so by operation of law, because of having been imprisoned in the government jail at Valdez for a sufficient length of time to have substantially satisfied the entire fines imposed if allowed a credit of $2 per day for each day of imprisonment. There is no evidence in the record of this case to show that the assumption of claimant in this is correct.
+Sections 190, 192, and 200 of the Code of Criminal Procedure for Alaska provide how fines shall be collected by imprisonment as follows:
+“Sec. 190. Judgment to Pay Fine; Duration of Imprisonment on. That a judgment that the defendant pay a fine must also direct that he be imprisoned in the county jail until the fine be satisfied, specifying the extent of the imprisonment, which cannot exceed one day for every two dollars of the fine; and in case the entry of judgment shall omit to direct the imprisonment and the extent thereof, the judgment to pay the fine shall operate to authorize and require the imprisonment of the defendant until the fine is satisfied at the rate above mentioned.”
+“See. 192. Judgment to Pay Fine to be .Docketed, and Effect Thereof. That a judgment that the defendant pay money either as a fine or as costs and disbursements of the action, or both, must be docketed as a judgment in a civil action and may be enforced by execution against the property of the defendant in like manner as judgments in civil cases are enforced: Provided, that where the judgment directs that the defendant shall be imprisoned until the fine or penalty imposed is paid, the issue of an execution on the judgment shall not operate to discharge the defendant from imprisonment until the amount of the judgment is collected or otherwise paid.”
+“Sec. 200. Judgment for Money in Criminal Action, How Enforced. That a judgment in a criminal action, so far as it requires the payment of money, whether the same be a fine or costs and disbursements of the action, or both, in addition to the means in this chapter provided, may be enforced as a judgment in a civil action.”
+The Penal Code of Alaska provides how a sentence in a jail shall be executed, as follows:
+“Sec. 201. Sentences to County Jail, How Executed. That the commencement and termination of a sentence of imprisonment in a county jail is to be ascertained by the rule prescribed in section one hundred and ninety-four of title 1, and the manner of such confinement and the treatment of the persons so sentenced shall be governed by whatever law may be in force prescribing the discipline of county jails: Provided, that the United States marshal for said district may, under such regulations as the Attorney General may prescribe, employ or cause to be employed upon public works any or all persons sentenced to imprisonment in the jails or the penitentiary within said district: And provided further, that for the purpose of satisfying any judgment which may be given against a prisoner for any fine, or for the costs and disbursements in the proceedings against him, such prisoner shall be credited with two dollars for every day’s labor performed by him in pursuance hereof.”
+It is clear from the foregoing that the prisoner can only pay a fine, other than in money, by labor performed by him upon public work, under the direction of the Attorney General and the United States marshal.
+The law providing for imprisonment where a fine is not paid is a means used to enforce payment in money, in adoption to the rights of the government under a general execution to satisfy the fine. 13 Am. & Eng. Ency. Law, 67; 19 Cyc. 566. The two cases cited by claimant (In re Fil Ki et al., 80 Cal. 201, 22 Pac. 146, and Ex parte Kelly, 65 Cal. 154, 3 Pac. 673) are not opposed to this general rule.
+Claimant further contends that it cannot be held that the respondent vessel was engaged in unlawful fishing; that the evidence shows that only a few fish were taken for food for the officers and crew; that it would be too severe a penalty to forfeit a vessel for this.
+In crimes against the person or property of individuals, the individual can be depended upon to greatly aid in the policing, of the country by vigorously and promptly complaining of violations of his right; but, where the fish and game laws and laws for the protection of the government’s revenue or other rights are concerned, this cannot be done. In Alaska the government has numerous fisheries along an extensive and dangerous coast line to protect from alien encroachment. The government is only able to maintain a few vessels at great expense for this purpose; therefore it does not seem unreasonable for the courts to supplement that protection afforded by the executive by the imposition of substantial penalties against aliens who, in disregard of our laws, insist on fishing in these troubled waters. The evidence of the libelant is sufficient to sustain the charge in the information on all material points.
+It is concluded that the fines imposed by the commissioner are a lien upon the vessel, her tackle, apparel, furniture, and cargo, and the vessel is itself fined $500 for having been used and employed in violation of the provisions of the act.
