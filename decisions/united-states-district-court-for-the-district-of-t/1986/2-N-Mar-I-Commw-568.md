@@ -2,7 +2,7 @@
 court: "United States District Court for the District of the Northern Mariana Islands"
 docket: "CIVIL ACTION NO. 85-0011"
 decided: "1986-05-22"
-citations: ["2 N. Mar. I. Commw. 568", "2 N. Mar. I. Commw. 581"]
+citations: ["2 N. Mar. I. Commw. 568"]
 reporter: "n-mar-i-commw"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["JUAN T. LIZAMA, et al., Plaintiffs, vs. JOSE S. RIOS, individually an
 source_url: "https://static.case.law/n-mar-i-commw/2/cases/0568-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 7341884
-cites_cases: ["001 D 27", "102 Wis. 1", "249 F.2d 73", "262 U.S. 447", "368 U.S. 464", "370 F.Supp. 247", "418 U.S. 166", "42 U.S.C. §1983", "42 U.S.C. §1988", "463 U.S. 206", "677 F.2d 1289", "7 L.Ed.2d 580", "78 N.W. 402"]
+cites_cases: ["001 D 27", "102 Wis. 1", "249 F.2d 73", "262 U.S. 447", "368 U.S. 464", "370 F.Supp. 247", "418 U.S. 166", "42 U.S.C. §1983", "463 U.S. 206", "677 F.2d 1289", "7 L.Ed.2d 580", "78 N.W. 402"]
 ---
 
 # Lizama v. Rios
