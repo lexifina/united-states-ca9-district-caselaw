@@ -1,0 +1,40 @@
+---
+court: "United States District Court for the District of Montana"
+docket: "Civ. No. 1801"
+decided: "1971-05-09"
+citations: ["326 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tyler BOGGS, an individual, Plaintiff, v. The INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, and Local No. 768 of the International Brotherhood of Electrical Workers, Kalispell, Montana, Defendants."]
+source_url: "https://static.case.law/f-supp/326/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3249533
+cites_cases: ["29 U.S.C. § 411"]
+---
+
+# Boggs v. International Brotherhood of Electrical Workers
+
+## Majority (RUSSELL E. SMITH, Chief Judge.)
+
+OPINION
+RUSSELL E. SMITH, Chief Judge.
+Plaintiff (Boggs), a member of the International Brotherhood of Electrical Workers (International), was employed by Hahn Electric Company, an employer who was a party to a collective bargaining agreement with Local No. 768 of the International (Local 768). Hahn maintained a shop in Libby, Montana, providing electricians’ services for the community of Libby and at the same time had a subcontract for the performance of electrical work on the Libby Dam, a large construction project. Boggs was initially employed in the shop at Libby. His employer ordered him to report to the Libby Dam for work failing which he would be fired. Boggs complied with his employer’s order and was told by the Business Manager that he could not work at Libby Dam. When Boggs refused to quit he was charged with a violation of Local 768’s by-laws. The charge was filed June 27, 1968, the notice of hearing mailed July 8 in Kalispell, addressed to Boggs in Libby and received by him a day or two later.
+The charge was as follows:
+“I James Mehr, Business Manager, L. U. 768 Kalispell, Montana, do hereby file charges against Tylor Boggs X90184, for the alleged violation of Article XIV, Section 5 of L. U. 768’s By-Laws.
+The violation took place on June 27, 1968 when the above named reported to the Libby Dam Shop for Hahn Electric, without being cleared by this Local.”
+On July 9 Boggs was found guilty by the Executive Board of Local 768 and suspended from working in the jurisdiction of Local 768 for one year. He appealed to the International Union which held a hearing on July 26, 1968 and dismissed the case.
+Boggs now claims that his rights under the Labor Management Reporting and Disclosure Act (29 U.S.C. § 411(a) (5)) were violated. That act provides that members may not be disciplined, with exceptions not important here “unless such member has been (A) served with written specific charges; (B) given a reasonable time to prepare his defense; (C) afforded a full and fair hearing.”
+The International found that the charges against Boggs were not properly presented under the Constitution of the International and the Court finds that the Local violated the rights granted to Boggs by the Labor Management Reporting and Disclosure Act. Specific charges were not filed. Boggs was charged and found guilty of violating Article XIV, Sec. 5 of the By-Laws of Local 768. That section relates to parliamentary rules governing meetings of the union. (The International Constitution requires that the section violated be specified. Art. XXVII, Sec. 4, p. 84) More serious than the misdescription of the section violated is the fact that the sections themselves are too ambiguous, at least as they apply to the dispute between Boggs and the union, to define an offense. Section 8(a) of Article XIV to which the Executive Board referred in its decision seems to be completely inapplicable. It refers to unemployed members, whereas Boggs was employed. It refers to rules or plans established but there is no charge that any such were established, or, if established, that Boggs knew of them. The violation, if any, had to be found under Article XIV, Section 8(b). The violation alleged and found was shifting from one shop to another without notifying the Business Manager and receiving his permission. The word “shop” is not defined, and if Hahn did in fact have a shop in the town of Libby and another shop at the Libby Dam within the meaning of the word “shop” as used in the by-laws the rule does not expressly cover an employee who is shifted by the employer as distinguished from one who shifts on his own accord. A charge is not specific if it specifies the violation of a rule which itself is not sufficiently specific.
+A union should not discipline its members for the violation of a rule unless the rule establishes a clear line between what is permitted and not permitted.
+Following the decision of the local Executive Board Boggs left his job and now claims damages for the time lost until he returned to work following his appeal. He claims that he was compelled, under the rule of the International, to obey the order of the Executive Board in order to preserve his right to appeal. The International Constitution cannot be so read. Nevertheless I think Boggs is entitled to damages for the time lost.
+It is questionable whether the Local had power to deprive Boggs of his right to work in the jurisdiction of Local 768 and it is not clear just how the Local would have enforced its order had Boggs continued to work. The Local did however assert the power and in view of the control which the Local exercised over electricians’ jobs in Northwestern Montana, in view of the ruthless exercise of an asserted power with respect to Boggs, he cannot be faulted for having bowed to an apparently superior power. Certainly the Local ought not now be permitted to defend on the ground that its order was ineffective, that Boggs should not have obeyed it, that Boggs should have procured a stay of it. The fact is that because of the order Boggs lost about 4 y2 weeks wages.
+Since the order was a discipline unlawfully imposed under 29 U.S.C. 411 (a) (5), I find the defendant Local 768 liable for the damage suffered by Boggs and I compute the damage in the sum of $1,026.00 by computing the average weekly wage (without an allowance for subsistence) over the last five weeks pri- or to the week beginning July 9 and multiplying by the time lost.
+Boggs filed a complaint with the National Labor Relations Board seeking the relief sought here. The Board refused to issue a complaint. Local 768 now urges that the action of the Board is in effect res judicata. Whatever the effect of a Board order following the issuance of notice and a hearing the act of an employee of the board in refusing to issue a complaint is not a bar to an action under 29 U.S.C. 412.
+I find that the defendant International Brotherhood of Electrical Workers did nothing wrongful with respect to Boggs.
+IT IS THEREFORE ORDERED that Boggs recover judgment from the defendant Local 768 in the amount of $1,-026.00.
+IT IS ORDERED that as to the defendant International Brotherhood of Electrical Workers Boggs be denied all relief.
+This opinion constitutes the Court’s findings of fact and conclusions of law.
+. It reads: “The handling of jobs for unemployed members shall be under the full supervision and direction of the Business Manager. He shall devise such means as he considers practical and fair in distributing available jobs to such members if they are qualified to do the work. Any member violating any rule or plan established shall be penalized as decided by the Executive Board.”
+. It reads: “No member shall solicit employment at any shop or job or shift from one shop or employer to another without notifying and getting the permission of the Business Manager.”
+. It is noted that the International Union would not express an opinion on the right of management under the Collective Bargaining Agreement to shift employees, that a joint labor management committee deadlocked 3-3 on the issue, management being on one side and labor on the other, and that a labor-management appeals committee refused to decide the question.
