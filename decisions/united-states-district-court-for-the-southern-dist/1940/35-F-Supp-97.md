@@ -2,7 +2,7 @@
 court: "United States District Court for the Southern District of California"
 docket: "3899"
 decided: "1940-10-14"
-citations: ["35 F. Supp. 97", "35 F. Supp. 100"]
+citations: ["35 F. Supp. 97"]
 reporter: "f-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In re CAMPBELL."]
 source_url: "https://static.case.law/f-supp/35/cases/0097-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4186068
-cites_cases: ["10 Cal.App. 113", "101 P. 24", "105 F.2d 197", "106 F.2d 163", "109 F.2d 520", "11 U.S.C.A. § 203", "112 P. 450", "12 P. 410", "124 A.L.R. 1243", "134 F. 36", "158 Cal. 711", "169 F. 593", "192 U.S. 355", "193 U.S. 551", "21 F.Supp. 645", "245 F. 732", "270 F. 188", "308 U.S. 593", "35 F.Supp. 97", "60 S.Ct. 123", "71 Cal. 407", "73 F. 974", "84 L.Ed. 496", "96 F.2d 401"]
+cites_cases: ["105 F.2d 197", "106 F.2d 163", "109 F.2d 520", "11 U.S.C.A. § 203", "12 P. 410", "124 A.L.R. 1243", "134 F. 36", "192 U.S. 355", "270 F. 188", "308 U.S. 593", "60 S.Ct. 123", "71 Cal. 407", "84 L.Ed. 496", "96 F.2d 401"]
 ---
 
 # In re Campbell
