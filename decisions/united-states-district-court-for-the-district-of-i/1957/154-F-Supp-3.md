@@ -1,0 +1,48 @@
+---
+court: "United States District Court for the District of Idaho"
+docket: "3318"
+decided: "1957-09-06"
+citations: ["154 F. Supp. 3"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Afton WELCH, Plaintiff, v. AMALGAMATED SUGAR COMPANY, a corporation, Defendant."]
+source_url: "https://static.case.law/f-supp/154/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4284494
+cites_cases: ["129 P.2d 790", "15 Wash.2d 119", "208 Okl. 21", "252 P.2d 1022"]
+---
+
+# Welch v. Amalgamated Sugar Co.
+
+## Majority (FRED M. TAYLOR, District Judge.)
+
+FRED M. TAYLOR, District Judge.
+This cause is presently before the Court on defendant’s motion for summary judgment. The motion is made and based upon the complaint of plaintiff, admissions, affidavits, interrogatories, and depositions in the record.
+The record discloses that the defendant owns and operates, in connection with its business, several beet dumps. One of these dumps is located a short distance west of Notus, Idaho, on Highway 20. Highway 20, at this point, runs generally in an easterly and westerly direction between Notus and Parma, Idaho, and is an improved oil-surfaced highway. The premises in question abuts upon Highway 20 and has an entrance from the highway and an exit to the highway. Beets were delivered to the premises by the farmers who had raised the beets under contract with the defendant. The trucks delivering the beets were not owned by or under the direction or control of the defendant.
+Early on the morning of November 13, 1956, the plaintiff was injured in an automobile accident which occurred on Highway 20, in the area of the' defendant’s beet dump. The month of November had been quite rainy, and prior to the day of the accident a cover of dirt or mud had accumulated on the surface of the highway adjacent to the exit from the beet dump. The cover of mud, plaintiff alleges, was, in the main, composed of mud which, had been picked up on the defendant’s property at the beet dump by the wheels and undercarriages of the beet trucks; then dropped on the highway by the trucks as they turned onto and drove down the highway upon leaving defendant’s property.
+■ The property at the beet dump, traversed by the trucks while unloading, was 'unsurfaced. The rain, along with the continuous truck traffic, did on occasions cause a muddy situation. It had rained the night prior to the accident and was raining the day of the accident.
+Just prior to the accident the plaintiff had been proceeding down the highway at a speed variously estimated at from 50 to 60 miles an hour. The speed limit on this section of highway is 60 miles an hour. Upon striking the mud deposit in front of the defendant’s dump the plaintiff’s car went out of control, crossed to the opposite side of the highway and collided with a gasoline truck.
+Plaintiff is apparently proceeding on two theories. The first of these is that the defendant is liable because it failed to keep its premises in such a condition as to prevent the hazardous accumulation of mud on the highway by trucks leaving its dump. The second theory is that the defendant is liable for creating a nuisance on a public way.
+Defendant has moved for summary judgment in conformity with rule 56 of the Federal Rules of Civil Procedure, 28 U.S.C.A. In his motion the defendant moves for summary judgment on seven enumerated grounds.
+The first, second, third, and fifth grounds of defendant’s motion, all, in effect, raise the question of whether the defendant had the duty to maintain the surface of the property at its beet dump in such a condition as to avoid creating a hazard to traffic on the abutting highway. If the defendant had no such duty to travelers on the highway, then the plaintiff has failed to state a claim upon which relief can be granted and the defendant's motion must be granted.
+■ There does not appear to be any authoritative Idaho decision to guide us on the question here involved.
+The duty of the abutting owner to travelers on the highway has been characterized in Yol. 2, Shearman & Redfield, Negligence, § 346, as follows:
+“The owner, much less a mere occupant, of land fronting on a highway owes no duty, as such, to repair any part of the highway, or otherwise make it safe for travel. * * *
+“The extent of his (abutter’s) obligation, with reference to adjacent highways, is to use and keep his own premises so as not to render such highways unsafe for ordinary travel, culpably failing in which he is liable to travelers thereon.”
+The alleged facts here, if true, would constitute a use of the defendant’s premises by the defendant so as to render the abutting highway unsafe to travelers thereon.
+The defendant has a duty to maintain the driveway at its beet dump in such condition that when such driveway was put to its normal business use it did not result in the creation of an unreasonable hazard to travelers upon the abutting highway.
+The fact that the mud was carried from defendant’s property onto the highway by trucks not under its direction or control did not relieve defendant of its duty to maintain its premises so as not to create a foreseeable hazard to ordinary travel on the highway. Although the act of a responsible third party may have been necessary to the creation of the hazard, such fact does not relieve the defendant of liability for such hazard if the act of such third party was reasonably foreseeable. 38 Am.Jur., Neg., § 70.
+The view that there is a duty to protect travelers from hazards created in the course of business has been approved in the cases of Safeway Stores v. Duvall, 1953, 208 Okl. 21, 252 P.2d 1022; and James v. Burchett, 1942, 15 Wash.2d 119, 129 P.2d 790.
+In the Safeway Stores.case the court stated, 252 P.2d on page 1025: ,
+“It is the general rule in this state that it is the duty of the municipali- ' ty to keep them (sidewalks) in a ’ safe condition. * * ' * The excep- ' tion to this general rule is that the '■ occupant of the premises abutting on '■ the sidewalk owes the duty to the public to keep the sidewalk clear of injurious objects or debris which might be placed there by its agents,; or be there as a result of the use of • the walk or the premises by the abut- f ting occupant, or which might be upon the walk by reason of [the] , customers coming upon the premises or use of the sidewalk by reason of the business done by the occupant.” (Emphasis added.)
+In James v. Burchett the plaintiff was injured when she slipped on some loose gravel on the sidewalk at a point where the defendants used it as an exit to the highway from their used car lot. The court in this case said, 129 P.2d at page 793:
+“In this case appellants had ex-elusive control of the premises abutting upon the sidewalk upon which respondent was injured. It used the sidewalk for its private convenience and, in so doing, allowed gravel from its lot to be carried upon the walk where pedestrians were compelled to travel. The gravel was not deposited from natural causes, but as the result of the business carried on by appellants” (Emphasis added.)
+The fourth ground upon which the defendant’s motion is based is that it conclusively appears that the alleged dangerous condition of the highway did not exist or was not known to the defendant prior to the time of the alleged ac.cident. Such facts do not conclusively appear in the record. It is sufficient to • enable the plaintiff to maintain his action that the defendant knew or should have known of the alleged condition of the road prior to the accident.
+The sixth ground of the defendant’s motion is that the plaintiff was guilty of contributory negligence in that he was driving at a speed that was unsafe under the prevailing road conditions. It does not appear from the record that defendant was guilty of contributory negligence as a matter of law. However, contributory negligence of the plaintiff, if any, is a defense to plaintiff’s claim.
+The seventh ground of the motion is that the dangerous condition of the highway was due to natural causes over which the plaintiff had no control. In 38 Am. Jur. (1941), Neg., § 75, page 734, it is stated:
+“Those who are negligent are held in law to know the usual effect of ordinary natural conditions and forces on the negligent act or omission, and to have contemplated the appearance and the effect of such conditions and forces on their negligence or on its proximate results, and to be liable in damages for the natural and probable results of the negligence.”
+If, in this cause, there were ordinary natural conditions and forces the defendant would be held to contemplate the usual effect which such conditions and forces might have on its negligent acts or omissions, if any, and the probable results thereof.
+The plaintiff relies somewhat on the alleged creation of a nuisance on the highway by defendant. Although the defendant may have created a nuisance on the highway, the nuisance, if any, was a result of defendant’s alleged negligence. The substance of plaintiff’s claim is founded on negligence. The plaintiff must sustain his action on the principles that govern negligence actions.
+On consideration of the record at this time, it is the considered opinion of this Court that there was a duty on the part of defendant to maintain its premises so as not to create a hazard to travelers on the highway. Whether such duty was breached and the defendant liable in damage must be determined on the trial of the issues.
+In accordance with the foregoing it is Ordered that defendant’s motion for a summary judgment be, and the same hereby is, denied.
