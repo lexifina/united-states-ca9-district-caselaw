@@ -1,0 +1,35 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "623"
+decided: "1908-11-12"
+citations: ["3 Alaska 595"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES v. JOHN J. SESNON CO."]
+source_url: "https://static.case.law/alaska/3/cases/0595-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4855664
+cites_cases: ["1 Alaska, 180", "1 Alaska, 183", "1 Fed. 784", "1 Sawy. 701", "114 U. S. 417", "3 Dill. 275", "4 Sawy. 211", "43 Fed. 570"]
+---
+
+# United States v. John J. Sesnon Co.
+
+## Majority (MOORE, District Judge.)
+
+MOORE, District Judge.
+The first ground upon which the motion is based assumes that an affidavit in support of an information is essential to the validity of the information filed as the initial step in the action. The authority for the filing of an information in the district court, in preference to filing an ordinary complaint sworn to by the complaining witness before a United States commissioner, or instead of filing an indictment found by a grand jury, is giveii by section 474, pt. 2, Criminal Code for Alaska, enacted March 3, 1899. That' section provides in these words:
+J “That prosecutions for violations of the provisions of this act shall fié oh information filed in the district court or any subdivision thereof, or before a United States commissioner, by the United States (marshal or any deputy marshal, or by the district attorney or by .any of his assistants.”
+’■Inasmuch as no mention of an affidavit in support of an information is made in the section, or in any other part of the statute, the exception aimed at the affidavit falls to the ground. This conclusion is strengthened by the language of the rest of the section, which further provides as follows:
+“Or such prosecution may be by and through indictment, by grand jury, and it shall be the duty of said officers, on the representation of two or more reputable citizens, tó file such information, or to present the facts alleged to constitute violations of the law to the grand jury.”
+The first part of the section confers on the district attorney and his assistants the right to file an information for violations of the license laws; whilst the second part defines the conditions under which he must, as matter of duty, institute a proceeding to punish breaches of the law, either by information as at ancient common law, or by presenting the facts to a grand jury with a view to obtaining an indictment based thereon.
+The vice in the reasoning of the defendant’s counsel is the assumption that the information or complaint defined in section 270 of the Code (Carter’s Code, p. 91) is the only kind of information authorized in criminal procedure in Alaska. That section prescribes the usual mode of instituting criminal actions, the party injured usually making oath to the truth of the information made by the marshal and district attorney and their assistants acting as officers of the law. The procedure following the filing of the information is analogous to that which is pursued after an indictment found by a grand jury, returned into court by the grand jury, and by order of court filed therein.
+The several sections of the Code which impose upon persons pursuing various lines of business the obligation to pay license fees for the right to carry them on also define the qualifications of licensees and provide for the punishment of any who fail or refuse to pay the license fee upon their special occupation, business or trade. These sections, embracing sections from 460 to 478, inclusive, and set apart, as they are, from the sections which define crimes and mark out the appropriate procedure for the investigation and punishment of crimes in general, form a single law pertaining to the one subject — business and liquor licenses. Offenses against the provisions of the law are put in a class by themselves, and an appropriate special method for instituting prosecutions of violations of this special law is .provided.
+By section 461 it is declared that any violation of the provisions of section 460 shall be a misdemeanor. The Code, in section 3 thereof, directs:
+“That no person can be tried for the commission of a felony but upon the indictment of a grand jury.”
+As was said by Wickersham, District Judge, in. United States v. Powers and Robertson, 1 Alaska, 183, 184, misdemeanors only may be prosecuted by information. Hence, were the offense charged in the present information a felony, it must be conceded, on the authority of U. S. v. Powers, supra, the proceeding by indictment would be the appropriate proceeding in this case. If the proceedings thus far taken merely led to the finding of an indictment, there might be solid merit in the defendant’s motion. But, the statute having pointed out the filing of an official information as the only other mode of originating a prosecution for the other class of crimes, misdemeanors, the district attorney was held to that course of procedure.
+The prosecution of misdemeanors by information filed in the United States courts has' been held by federal courts to be constitutional and valid. U. S. v. Waller, 1 Sawy. 701; Fed. Cas. No. 16,634; U. S. v. Maxwell, 3 Dill. 275, Fed. Cas. No. 15,760; U. S. v. Block, 4 Sawy. 211, Fed. Cas. No. 14,609; U. S. v. Baugh (C. C.) 1 Fed. 784; U. S. v. Ebert, Fed. Cas. No. 15,019; U. S. v. Shepard, Fed. Cas. No. 16,273; In re Wilson, 114 U. S. 417, 5 Sup. Ct. 935, 29 L. Ed. 89; U. S. v. Cobb (D. C.) 43 Fed. 570.
+So far as my observation has reached, section 474 above-cited is the only provision of the Criminal Code for Alaska which authorizes an official criminal information, and it does not require the information to be made upon the officer’s affidavit, and the affidavit which, in the case in hand, was made by the district attorney from an abundance of caútion, was not an essential part of the information. On this point my conclusion is the same which is announced in United States v. Powers, supra, 1 Alaska, at pages 187, 188, wherein the court says:
+“The Code of Procedure does not specially require a criminal information [of the nature of a common-law information] to be verified by the oath of the marshal or prosecuting attorney.”
+It follows, from the views above set forth, that ground No. 1 of defendant’s motion is of no merit. The other objections to the affidavit, also, constituting grounds Nos. 2, 3, and 4 of defendant’s motion, are, for the reasons herein given, destitute of force. The remaining eight grounds, each alleging a deviation by the district attorney from the usual and ordinary criminal procedure prescribed by the Code, are of no validity, because they point to flaws in a form of procedure not required by the law to be followed in prosecuting offenses in the class of violations of the license laws of Alaska.
+The motion to quash the information will be overruled. So, also, will the motions filed in the other similar cases against the above defendant, designated as 624, 625, 626, 627, 628, and 629 Criminal.
