@@ -1,0 +1,23 @@
+---
+court: "United States District Court for the Western District of Washington"
+docket: "520"
+decided: "1926-03-05"
+citations: ["3 F. Supp. 132"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JELL-O CO., Inc., v. BROWN, Mayor, et al."]
+source_url: "https://static.case.law/f-supp/3/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5762254
+cites_cases: ["1 F.(2d) 934", "10 Ala. App. 605", "120 U. S. 489", "133 N. E. 205", "164 P. 1164", "187 U. S. 419", "187 U. S. 622", "190 U. S. 160", "196 U. S. 375", "203 U. S. 507", "22 A. L. R. 1481", "22 A. L. R. 1484", "227 U. S. 389", "227 U. S. 401", "232 U. S. 665", "27 S. Ct. 159", "300 Ill. 214", "35 App. D. C. 307", "6 L. Ed. 678", "63 Colo. 197"]
+---
+
+# Jell-O Co. v. Brown
+
+## Majority (NETERER, District Judge)
+
+NETERER, District Judge
+(after stating the facts as above).
+The test of the constitutionality of the ordinance is whether the ordinance is a bona fide exercise of police power or an arbitrary and unreasonable interference with personal rights under the guise of police regulation. The plain purpose appears to be to prohibit the distribution of handbills, etc., in public places without sanction. The requirement is general; it has no discriminatory restrictions ; it is not apparent that the license fee is a charge for the privilege of engaging in business, but rather for the enforcement of governmental supervision. Western Union Telegraph Co. v. New Hope, 187 U. S. 419, 23 S. Ct. 204, 47 L. Ed. 240. The city is not required to supervise the distribution at its own expense, but may assess a reasonable fee for such supervision. Atl. & Pac. Tel. Co. v. Philadelphia, 190 U. S. 160, 23 S. Ct. 817, 47 L. Ed. 995. The charge that the license fee is exorbitant and not a reasonable supervisory fee is not sustained by the record. The plaintiff, from its petition, transacts a large business. It has employed, and contemplates employing, a large number of persons to make distribution in Seattle. Seattle has a population of approximately 400,000; the distribution would require approximately two months, and it may not be said that $10 a month for two months for supervising “a large number of men” in distributing samples and literature — a year’s supply- — from house to house for 400,000 people, is unreasonable.
+The eity is within its police power when it requires that persons going from house to house distributing literature and packages be required to register and show fitness for the privilege and be capable of identification to the supervising authorities, so that communities of the eity in which distribution is made may be protected against distribution of improper and harmful articles ; and that persons may not act under the guise of legitimate enterprise and thereby come in contact with homes, inspired by improper motives and for illegal purposes. The provisions of the ordinance have relation to local welfare and safeguarding of the public against fraud and deception, and the fee is not a tax for the privilege of doing business, but appears to be reasonable for supervision and control. Real Silk Hosiery Mills v. City of Bellingham (D. C.) 1 F.(2d) 934. The Interstate Commerce Clause of the Constitution (article 1, § 8, cl. 3) does not carry with it the right to create a nuisance, and an absence of reasonable regulation of such distribution could well develop into a nuisance in the various communities of the city. See International Text-Book Co. v. Dist. of Col., 35 App. D. C. 307; also note in 22 A. L. R. 1484. These eases cited by the plaintiff are not persuasive. Brown v. Maryland, 12 Wheat. (25 U. S.) 419, 6 L. Ed. 678; Robbins v. Taxing Dist., 120 U. S. 489, 7 S. Ct. 592, 30 L. Ed. 694; Swift & Co. v. U. S., 196 U. S. 375, 25 S. Ct. 276, 49 L. Ed. 518; Caldwell v. North Carolina, 187 U. S. 622, 23 S. Ct. 229, 47 L. Ed. 336; Rearick v. Pennsylvania, 203 U. S. 507, 27 S. Ct. 159, 51 L. Ed. 295; Stewart v. Michigan, 232 U. S. 665, 34 S. Ct. 476, 58 L. Ed. 786; Crenshaw v. Arkansas, 227 U. S. 389, 33 S. Ct. 294, 57 L. Ed. 565; Rogers v. Arkansas, 227 U. S. 401, 33 S. Ct. 298, 57 L. Ed. 569; Ineichen v. City of Anniston, 10 Ala. App. 605, 65 So. 710; City of Elgin v. Winchester, 300 Ill. 214, 133 N. E. 205, 22 A. L. R. 1481. City of Pueblo v. Lukins, 63 Colo. 197, 164 P. 1164, L. R. A. 1917E, 699, supports plaintiff’s contention, but fails to sense the local welfare, is not in harmony with the inherent police power essential for local government; it extends the commerce clause beyond the sustaining point. The show cause order is discharged.
