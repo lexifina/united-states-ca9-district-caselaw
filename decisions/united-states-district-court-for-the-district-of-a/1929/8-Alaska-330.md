@@ -1,0 +1,29 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "1195-KA"
+decided: "1929-11-09"
+citations: ["8 Alaska 330"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re COOKE et al."]
+source_url: "https://static.case.law/alaska/8/cases/0330-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1266824
+cites_cases: ["237 U.S. 303", "25 Or. 297", "5 Or. 406"]
+---
+
+# In re Cooke
+
+## Majority (HILL, District Judge.)
+
+HILL, District Judge.
+Gilbert Cooke and Roy Williams petition for a writ of review to review the judgment rendered against them by the United States commissioner and ex officio justice of the peace for Craig precinct. The petition was granted, a writ issued, and a return and further return made. The plaintiffs on review complained of eight errors alleged to have been committed in the rendition of the judgment against them. They first claim that the justice of the peace had no jurisdiction because the action is against a boat and is maritime in character and cognizable only in admiralty. The record shows, that the complaint in the justice court was entitled, “C. W. Sillence manager for-C. E. Hibbs & Co., versus Gilbert Cooke and Roy Williams gasboat Age of Reason and owners of the same”; the summons was entitled, “C. W. Sillence manager for Hibbs & Co., plaintiff, vs. Gilbert Cooke and Roy Williams of the gas boat Age of reason, defendants”; the judgment was entitled, “C. W. Sillence manager for Hibbs & Co., plaintiff, vs. Gilbert Cooke and Roy Williams owners of the gas boat Age of Reason, defendants”.
+The words, “manager for Hibbs & Co.,” following “Sillence” in the title, and the words, “owners of the gas boat Age of Reason,” following'“Williams,” are descriptive only. The complaint alleges that “The plaintiff has sold on credit to the defendants for the gas boat Age of Reason groceries and supplies”.
+The action is plainly in personam, and an attachment was issued and levied upon a boat as the property of the defendants. The mere fact that the attached property is a boat does not invoke admiralty jurisdiction. Rounds v. Cloverport Foundry, 237 U.S. 303, 35 S.Ct. 596, 59 L.Ed. 966.
+It is urged that the attachment in this action was issued without a bond, and there is no record in the commissioner’s docket that any bond on attachment was filed, but there is a statement on the first page of the commissioner’s return to the writ of review as follows: “A certified check for $650 was accepted in this case in lieu of bonds. Said check has been returned. H. S. Bagley.”
+No commissioner should accept, in lieu of the bond provided for in section 969, C.L.A., either money or a certified check.
+The defendants whose property is to be attached have a right to a bond complying with the provisions of the statute in order that they know exactly the terms upon which they may proceed against the bondsmen and in order that it may not happen, as happened in this case, that, when the commissioner concludes that the case is finished, he shall hand back the check or the cash and leave them without recourse except against him. Such an attachment should never have been issued, and, if the defendants in the commissioner’s court had moved against it, their motion should have been granted as Of course. However, the record shows that the defendants appeared and did not move against the attachment. They had a right to waive irregularities in the attachment proceedings, and, by appearing and not moving against them in the court in which the attachment was issued, they waived that right and waived irregularities in the issuance of the attachment.
+It is claimed in the petition for writ or review that the defendants did not appear and confess judgment as shown by the commissioner’s record, and it is claimed that the plaintiff in the action falsified the account upon which suit was brought by adding to the original account the names of the defendants. No evidence was introduced to support these allegations, and 'it is doubtful whether any evidence could have been introduced to support the allegations of falsification. Our statute was taken from that of Oregon, and in Smith et al. v. City of Portland et al., 25 Or. 297, 35 P. 665, 666, the Supreme Court of the state of Oregon, after quoting a ruling of Judge Shattuck in Douglas County Road Co. v. Douglas County, 5 Or. 406, say, with approval: “This doctrine was adhered to by the same learned judge, who, in speaking of the rule there adopted, said: ‘We adhere to that ruling, and repeat the decision that, upon a writ of review, under our statute, the superior court will not examine the evidence which was before the inferior court, nor try a new question of fact, but will review the decision of the court below only upon the ultimate facts appearing in the record.’ * * * Courts will not examine the evidence, in such cases, when in the record, to determine whether questions of fact have been properly decided. It is only when there is an entire absence of proof, on some material fact found, that the finding becomes erroneous as a matter of law. * * * If courts will not examine the evidence, when in the record, they certainly will not examine it when, as in this case, it is no part thereof.”
+Reviewing the record only, I see no substantial reason for setting aside the judgment rendered by the commissioner, and it is affirmed.
+An execution was issued on this judgment and the gas boat Age of Reason sold under that execution. It is urged that a half interest in the boat was the property of one J. Cooke, now deceased, who was never a party to this action. If the boat was not the property of the judgment debtors, its owners have an adequate remedy, and, if it was not the property of the plaintiffs on review, they are in no position to complain.
