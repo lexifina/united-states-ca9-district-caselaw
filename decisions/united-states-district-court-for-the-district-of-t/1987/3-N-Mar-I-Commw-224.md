@@ -1,0 +1,78 @@
+---
+court: "United States District Court for the District of the Northern Mariana Islands"
+docket: "CIVIL ACTION NO. 81-0006"
+decided: "1987-11-13"
+citations: ["3 N. Mar. I. Commw. 224"]
+reporter: "n-mar-i-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDWARD TEMENGIL, et al., Plaintiffs, vs. TRUST TERRITORY OF THE PACIFIC ISLANDS, et al., Defendants"]
+source_url: "https://static.case.law/n-mar-i-commw/3/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7340722
+cites_cases: ["103 S.Ct. 1933", "104 S.Ct. 1541", "106 S.Ct. 3088", "42 U.S.C. §1988", "488 F.2d 714", "526 F.2d 67", "743 F.2d 1378", "815 F.2d 1258", "96 S.Ct. 1726"]
+---
+
+# Temengil v. Trust Territory of the Pacific Islands
+
+## Majority
+
+ORDER
+THIS MATTER came before the Court on October 23, 1987, for consideration of plaintiffs' attorneys' requests for fees and^ costs, to which they are entitled pursuant to 42 U.S.C. §1988,
+The prevailing standards required to be considered prior to an award of attorney fees and costs have been addressed by the U.S. Supreme Court and recently reaffirmed a d refined in the Ninth Circuit. In determining an award of fees "the most useful starting point... is the number of hours reasonably expended on the litigation multiplied by a reasonable hourly rate." Hensley v. Eckerhart, 103 S.Ct. 1933, 1939 (1983). The product of this calculation may then be adjusted on the basis of "other considerations," Id. , at 1940, but there is a strong presumption that this lodestar figure represents a 'reasonable' fee. Pennsylvania v. Delaware Valley Citizens' Council for Clean Air, 106 S.Ct. 3088, 3098 (1986). An upward adjustment based upon the "other considerations" is proper only in "rare" and "exceptional" cases, and when supported by specific evidence on the record and detailed findings by the trial court. Blum v. Stenson, 104 S.Ct. 1541, 1548-49 (1984).
+Jordan v. Multnomah County, 815 F.2d 1258 (9th Cir. 1987), reiterates that a critical enquiry in determining a reasonable attorney's fee under §1988 is the reasonable hourly rate, and that the prevailing market rate in the community is indicative of a reasonable hourly rate. Id., at 1262. The burden is upon the fee applicant to produce satisfactory evidence, in addition to affidavits of its counsel, that the hourly fees sought conform to those prevailing in the community for similar services of lawyers of reasonably competent skill and reputation. Id. , at 1263. If the burden is met, the resulting product is presumed to be the reasonable fee contemplated by §1988. Id. The time records submitted by counsel must be sufficiently detailed that a neutral judge could make a fair evaluation of the time expended, the nature of and need for the service, and the reasonable fees to be allowed. Id. , quoting Hensley, 103 S.Ct. at 1943 (Burger, C.J., concurring). Counsel cannot baldly assert that all time claimed was usefully spent, nor may the court uncritically accept counsel's representations in this regard. Jordan, 815 F.2d at 1263 n.8, citing Sealey, Inc. v. Easy Living, Inc., 743 F.2d 1378, 1385 (9th Cir. 1984).
+Adjustments, if any, to the lodestar figure are to be made using the twelve-factor test first enunciated in Johnson v. Georgia Highway Express, Inc., 488 F.2d 714 (5th Cir. 1974), and adopted in this circuit in Kerr v. Screen Extras Guild, Inc., 526 F.2d 67 (9th Cir. 1975), cert. denied, 96 S.Ct. 1726 (1976). As stated before by this Court, these are:
+1. The time and labor required;
+2. The novelty and difficulty of the question involved;
+3. The skill requisite to perform the legal service properly;
+4. The preclusion of other employment by the attorney due to acceptance of the case;
+5. The customary fee;
+6. Whether the fee is fixed or contingent;
+7. Time limitations imposed by the client or the circumstances;
+8. The amount involved and the results obtained;
+9. The experience, reputation, and ability of the attorneys;
+10. The "undesirability" of the case;
+11. The nature and length of the professional relationship with the client; and,
+12. Awards in similar cases.
+Litigants seeking an upward adjustment have the burden of justifying their request. Blum, 104 S.Ct. at 1548. Such an adjustment is appropriate only where it is necessary to provide fair and reasonable compensation. Id., at 1550.
+The Court will consider in turn the fee requests submitted by plaintiffs' attorneys.
+DOUGLAS F. CUSHNIE
+Mr. Cushnie claims 461.2 hours of time devoted to this lawsuit to date. The hours claimed are supported by many pages of detailed time records, beginning in December 1980 and continuing to the present. He has also submitted an affidavit indicating that since the inception of the case his hourly fee has increased from $110 to $125. Since there is no indication when the higher fee took effect, therefore, the Court will calculate all hours at an average of $117.50 per hour.
+The Court has reviewed all time records submitted and has determined that, with one exception, all time appears to have been reasonably expended on the litigation. The Court finds that the time records are sufficiently detailed so that even a judge unfamiliar with the case could make a fair evaluation of the time expended and the nature of and need for the services. Jordan, 815 F.2d at 1263.
+The Court will disallow the time requested for activities dealing solely with the appearance before the United Nations. This time, totalling approximately 9.1 hours, does not appear to have been reasonably necessary for ttte prosecution of the legal aspects of this case.
+The Court of its own knowledge and from having reviewed the affidavits on file herein finds that the hourly- rates requested by Mr. Cushnie conform to those prevailing in the community for similar services of lawyers of reasonably competent skill and reputation.
+Based on the foregoing analysis, the Court calculates the lodestar figure thusly:
+452.1 hours reasonably devoted to this litigation x average hourly fee of $117.50
+for a total of $53,121.75.
+The court new turns to the question of whether or not an upward adjustment' of this figure is justified. For reasons explained more fully below, the Court is of the unalterable opinion that a significant upward adjust is necessary to provide fair and reasonable compensation. Blum, 104 S.Ct. at 1550.
+The factors required to be considered by Kerr are:
+Time and Labor Involved in This Lawsuit. As revealed by the time records of counsel, a significant number of hours were spent preparing this case. In addition, the labor required increased significantly as the lawsuit progressed and the number of plaintiffs rose dramatically. Both the time and labor militate toward an upward adjustment.
+Novelty and Difficulty of the Questions. Counsel should be "appropriately compensated" for accepting the challenge of a case of first impression. Johnson, 488 F.2d at 718. This lawsuit presented plaintiffs' counsel with novel and difficult questions, including the jurisdiction of this Court to try this case, whether or not the Trust Territory was subject to the jurisdiction of this Court, the sovereign immunity of the Trust Territory, the constitutional protections to be afforded Micronesian employees of the Trust Territory, and the issue of class certification. The case resulted in a landmark decision.
+Skill Required. Considered here are the attorney's work product, preparation, and general ability before the Court, as gauged by the trial judge based upon his or her past experience and observations of lawyers at work. Johnson, 488 F.2d at 718. An attorney of average skill would have been hard-pressed to visualize, let alone undertake and achieve, a legal campaign to rectify the inequities visited upon Micronesian employees of the Trust Territory. The skill required of, and exhibited by, Mr. Cushnie was of a notable degree.
+Preclusion of Other Employment. Here we have only counsel's representation that the sheer number of hours involved herein necessarily deprived him of other business. While the Court cannot disagree, it finds that a definitive determination here is impossible.
+Customary Fee. The customary fee for similar work in the community should be considered. Johnson, 488 F.2d at 718. This case was novel and of first impression, not only in this jurisdiction but in the history of American jurisprudence. A "customary fee" cannot be determined.
+Fixed or Contingent Fee. The fee quoted to the client or the percentage of the recovery agreed to is helpful in demonstrating the attorney's fee expectations when the case was accepted. Johnson, 488 F.2d at 718. Mr. Cushnie represente^^ that, when the case first began, he represented a handful of clients with whom he had a contingent fee agreement. There is no indication of what percentage he was to receive if the case was pursued to a successful conclusion. In any event, the class of plaintiffs now numbers approximately 900. The monetary award secured by plaintiffs, as of the date of judgment, is approximately $20 million. In this jurisdiction, settlement or victory prior to trial typically results in a contingent fee of 25 percent. Here, that would be $5 million. An award of five percent of the judgment would be $1 million. One percent of the award would equal $200,000.
+Time Limitations Imposed by Client or Circumstances. Counsel points out that with the long-planned phase-out of tli Trust Territory a concern of the plaintiffs throughout was that a decision be obtained before the possibility existed that the entity (Trust Territory) from which they sought to collect a Judgment ceased to exist. The Court is not terribly persuaded by this argument, but recognizes that the uncertainty o\ >r the Trust Territory's future undoubtedly spurred plaintiffs onward. However, there is no indication that this factor was significant.
+Amount Involved and Result Obtained. The Court should consider the amount of damages and if the decision corrects across-the-board discrimination affecting a large class, the fee award should reflect the relief granted. Johnson, 488 F.2d at 718. Probably none of the litigants could have foreseen the size to which this case has grown or anticipated the sums which ultimately would be involved. It is hard to over-estimate the impact this case has had on hundreds of Micronesians scattered throughout Micronesia. It has resulted in correcting across-the-board discrimination with significant money damages, usually with individual awards in five or six figures.
+Experience, Reputation, and Ability of the Attorney. Mr. Cushnie has practiced law since 1964 and is licensed to practice in several jurisdictions. He states that he has been practicing law in Micronesia longer than any other active attorney. He was the first attorney in Guam and Micronesia to have a petition for certiorari granted by the U.S. Supreme Court and has argued many times before the U.S. Court of Appeals for the Ninth Circuit. It is not unreasonable to assert that he is one of a very small number of attorneys with the knowledge of and experience in Micronesia to handle this lawsuit. Plaintiffs class members are found in all corners of Micronesia, an area of the Pacific larger in size than the continental United States, but with a total land mass about half the size of Rhode Island and only sightly larger than the City of Los Angeles.
+Undesirability of the Case. It has been represented without quarrel to the Court that the case in its early stages was refused by other attorneys. The Court believes that it was indeed considered undesirable because it involved the representation of Micronesians against the might and authority of the United States of America.
+Nature and Length of the Professional Relationship with| the Client. There is no indication of a professional (as opposed to a personal) relationship with the clients prior to the beginning of the case. Since its inception, however, the attorney-client relationship has endured for more than seven years. There is nothing before the Court to indicate any adjustment based upon this factor is relevant.
+Awards in Similar Cases. There have been no cases similar to this case; it was unique in its most important aspects.
+Based upon the foregoing, the Court strongly believes a multiplier of five is fair and results in Mr. Cushnie receiving a reasonable attorney's fee for his efforts in this case.
+Mr. Cushnie is awarded attorney fees in the amount of $265,608.75.
+In late 1983, almost two years after this lawsuit was filed, intervention was sought and obtained by other plaintiffs, who were represented by the attorneys listed below.
+BORJA and SALAS
+The law firm of Borja and Salas was appointed by the Court to act_ as lead counsel for intervenors and absent class members. The firm has submitted time records in support of its request for attorney fees in the amount of $10,625.00 and costs in the amount of $898.10. They request fees for 125 hours at $85 per hour, which hourly rate the Court finds to be most reasonable. The costs requested also are reasonable and appear to have been incurred in this lawsuit.
+The time records adequately document the effort expended by the firm on behalf of its clients. Furthermore, the Court' finds that Mr. Borja's activities as lead counsel for intervenors and absent class members placed upon him an added responsibility, which he faithfully met, and that his firm is entitled to a multiplier of one and one half. The Court believes that the skill required and exhibited in this role warrants an upward adjustment. His efforts contributed significantly to the obtainment of the large judgment. The firm deserves recognition for its extraordinarily successful efforts on behalf of it's clients. Therefore, the firm is awarded attorney fees of $15,937.50 and costs of $898.10,
+RANDALL T. FENNELL
+Mr. Fennell has requested attorney fees based upon 206.A hours of his time at his hourly rate of $125 and 19 hours of paralegal time at $35.00 per hour, for a total of $26,A65. He also requests $1A1.80 for costs. The Court has in the past found reasonable and approved Mr. Fennell's hourly rate of $125 and does so again here.
+The Court has reviewed the time records and is of the opinion that they are reasonable and that the time documented was reasonably related to the prosecution of this lawsuit. The costs meet the same test.
+However, there is nothing to overcome the strong presumption that the lodestar figure alone represents reasonable remuneration. At the time of Mr. Fennell's involvement those Kerr factors which would justify an upward adjustment had been for the most part already resolved. The Court has reviewed the Kerr factors and finds they have no applicability here.
+WHITE, NOVO-GRADAC and THOMPSON
+The law firm of White, Novo-Gradac, and Thompson has submitted, through the firm of Borja and Salas, a request for attorney fees in the amount of $294.00 and costs of $100.00. The fees are calculated at 2.8 hours at $105,00 per hour and the costs at $100 for 500 photocopies. Both the time spent and the hourly fee requested are reasonable and appear to have been incurred in this lawsuit. However, there is nothing to overcome the strong presumption that the lodestar figure alone represents a reasonable fee,
+IT IS THE ORDER of this Court that the following fees and costs be awarded:
+Douglas F. Cushnie $ 265,608,75 Fees.
+Fees. Costs. Borja and Salas »-* Ln OO vO VO U> OO —I I — ' Ui o o <J>
+Fees. Costs. Randall T. Fennell ro ON V — « £> -O On OO O o o <J>
+White, Novo-Gradac & Thompson <f> 294,00 Fees. 100.00 Costs.
+IT IS SO ORDERED.
