@@ -1,0 +1,33 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "A83-166 CIV"
+decided: "1983-10-14"
+citations: ["577 F. Supp. 2"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Glenn SKAW, Plaintiff, v. LADY PACIFIC, INC., a Washington and Canadian Corporation; and Comeau International, Ltd., a Nova Scotia Corporation, Defendants."]
+source_url: "https://static.case.law/f-supp/577/cases/0002-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3630258
+cites_cases: ["274 U.S. 316", "278 U.S. 130", "28 U.S.C. § 1333", "28 U.S.C. § 1441", "299 F. 52", "341 U.S. 6", "459 F.2d 631", "46 U.S.C. § 688", "510 F.Supp. 39", "95 L.Ed. 702"]
+---
+
+# Skaw v. Lady Pacific, Inc.
+
+## Majority (VON DER HEYDT, Chief Judge.)
+
+MEMORANDUM AND ORDER OF REMAND
+VON DER HEYDT, Chief Judge.
+THIS CAUSE comes before the court on plaintiff’s petition for remand. Plaintiff Glenn Skaw is a seaman within the meaning of the Jones Act, 46 U.S.C. § 688, and he brought this action for negligence under the Jones Act, unseaworthiness, and maintenance and cure for injuries received during employment. He specifically elected to bring this action in state court pursuant to the “savings to suitors” clause, 28 U.S.C. § 1333(1). See Complaint at 2.
+Defendants removed this case under the aegis of 28 U.S.C. § 1441(c), which allows removal of separate and independent causes of action, which would be removable if sued on alone, when those claims are joined with non-removable claims. In such a situation, the entire action is removed to the federal district court. Jones Act claims traditionally have been non-removable because of the “saving to suitors” clause. Defendants claim here, however, that plaintiffs cause of action for maintenance and cure is separate and independent from the Jones Act claim and therefore the entire action is removable.
+The Supreme Court set forth guidelines to determine whether there is a “separate and independent” cause of action in American Fire & Casualty Co. v. Finn, 341 U.S. 6, 71 S.Ct. 534, 95 L.Ed. 702 (1951). In Finn, the Court held “that where there is a single wrong to plaintiff, for which relief is sought, arising from an interlocking series of transactions, there is no separate and independent claim or cause of action under § 1441(c).” Id. at 14, 71 S.Ct. at 540. To determine if there is a single wrong, the court must examine whether or not there was “wrongful invasion of a single primary right of the plaintiff,” not how many different legal causes of action are alleged. Id. at 13, 71 S.Ct. at 540, quoting Baltimore Steamship Co. v. Phillips, 274 U.S. 316, 321, 47 S.Ct. 600, 602, 71 L.Ed. 1069 (1927). If all damages come “from a single incident” or all claims involve “substantially the same facts” invasion of a single, primary right is indicated. Id. 341 U.S. at 16, 71 S.Ct. at 541.
+The court believes that when a seaman brings an action for maintenance and cure, Jones Act negligence, and unseaworthiness, he is seeking relief for a single wrong. The seaman has only received one physical injury, and the only relief he seeks is compensation for damages resulting from that injury. The single, primary right of the plaintiff invaded is the right to receive compensation for physical injury on the job. Furthermore, plaintiff’s injuries arose “from a single incident” and all claims involve “substantially the same facts.”
+It is true that Jones Act negligence and maintenance and cure are based on different legal theories, and the types of damages recoverable under each action are different. Nevertheless, traditionally seamen have alleged all three causes of action as a “unity” when seeking recovery for injury on the job. See, e.g., G. Gilmore & C. Black, The Law of Admiralty § 6-25, at 349 (2d ed. 1975). This historical unity of the three causes of action evidences the lack of independence between them.
+When Congress enacted § 1441(c) in 1948, it abandoned the “separable controversy” language of § 1441’s predecessor statute and required that the removable cause of action be both “separate” and “independent.” See Finn, 341 U.S. at 9-12, 71 S.Ct. at 537-539. The addition of the word “independent” requires fairly complete disassociation between the claims before removal is allowed. Id. at 12, 71 S.Ct. at 539. There is no such disassociation between claims in this case, but rather quite a close association. Cf. Baltimore Steamship Co. v. Phillips, 274 U.S. 316, 322, 47 S.Ct. 600, 603, 71 L.Ed. 1069 (1927) (maintenance and cure claim is “purely dependent and contingent” on negligence action).
+Defendants point out that maintenance and cure and Jones Act negligence have been held independent causes of action for other purposes. See, e.g., Pacific Steamship Co. v. Peterson, 278 U.S. 130, 49 S.Ct. 75, 73 L.Ed. 220 (1928); Crooks v. United States, 459 F.2d 631 (9th Cir.1972); The Rolph, 299 F. 52 (9th Cir.1924). Because the removal statute involves different policies than were involved in these other cases, this court finds they are not persuasive precedent for the present case. Thus, the court must disagree with the opinion in Sawyer v. Federal Barge Lines, 510 F.Supp. 39 (S.D.Ill.1981), which relied on them.
+Congress intended to give seamen the choice of forum in Jones Act actions. See 28 U.S.C. §§ 1333(1), 1445(a); G. Gilmore & C. Black, The Law of Admiralty § 6-28, at 357 (2d ed. 1975). If maintenance and cure actions are held to be “separate and independent,” then the seaman’s right to choose a forum is effectively destroyed, at least where the injury is extensive. To avoid removal in such a situation the injured seaman would be forced to bring maintenance and cure as a separate action or forego maintenance and cure damages above $10,000.
+Further, a strong policy exists to encourage “voluntary and contemporary payment of maintenance [and cure].” Crooks v. United States, 459 F.2d 631, 635 (9th Cir. 1972). This policy exists so that payments will be made to the seaman at the time he will be most in need of them. Id. at 634-35. If maintenance and cure is considered a separate and independent cause of action, then shipowners will be discouraged from promptly paying maintenance and cure claims. This will result because, by disputing those claims, shipowners would preserve removability. This result could cause considerable harm to injured seamen.
+For the foregoing reasons, this court finds that plaintiff’s motion for remand should be granted.
+Accordingly, IT IS ORDERED:
+THAT plaintiff’s claims are remanded to the Third Judicial District of the State of Alaska, at Kodiak.
