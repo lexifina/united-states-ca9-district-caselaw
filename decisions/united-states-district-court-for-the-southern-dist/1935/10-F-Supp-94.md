@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the Southern District of California"
+docket: "5254, 5255"
+decided: "1935-01-28"
+citations: ["10 F. Supp. 94"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CRAVENS v. WELCH (two cases)."]
+source_url: "https://static.case.law/f-supp/10/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4141945
+cites_cases: ["292 U. S. 290"]
+---
+
+# Cravens v. Welch
+
+## Majority (JAMES, District Judge.)
+
+JAMES, District Judge.
+Plaintiffs in the actions above entitled have sued to recover for overpayment of federal income tax for the year 1928. They allege that in the returns originally made by them they failed to take credit for loss sustained on an investment in the corporate stock of Chino Land & Water Company.
+The single issue has been submitted to the court as to what was the value of that stock in the basic year 1913?
+The corporation in question, prior to the year 1913, was engaged in the holding and selling of several thousand acres of land, located about forty-five miles more or less from the city of Los Angeles. Some of it they subdivided, and some was already subdivided, and there was left unsubdivided, until after the year 1913, a large acreage. Five persons held all of the corporate stock, John S. Cravens being one. He was allotted one-fifth of the total issue of 900,000 shares. Mildred Cravens was his wife and he transferred to her 98,750 shares, retaining 81,250 shares. Ranch operations were begun by the five owners in 1905. By 1913 they had disposed of a considerable portion of the property and had made return to the stockholders at least twice the amount of their investment. The claim is that the value of the stock greatly depreciated between 1913 and the tax year of 1928, with ensuing loss on the investment.
+There was opinion evidence as to the value of the assets as of March, 1913, on both sides. Under evidence produced by the government the stock value as of 1913 would not exceed $1.21 per share. The value experts offered by the plaintiffs would give to the stock a value of at least $2.25 per share. One of the latter witnesses had been the president of the corporation, and one of the original five owners. As such president heo had, in the years 1916 and 1917, reported a less value for the corporate stock than that admitted to be fair by the defendant. These reports were made to the Revenue Department of the United States on corporate tax account. The books of the company showed a much less value assigned to the property than that now claimed by the plaintiffs. While the statements referred as having been made by the president were, not for the year 1913, and some property had been sold in the interim, allowing consideration to all elements proper to he tised as deductions, the net value cannot, in my opinion, he made to approach that claimed as for the year 1913. It is my view that the great lessening in the value of the assets had occurred before March 1, 1913, by reason of the large sales made by the company of its real estate. And in this view, no consideration is given to the very apparent fact that minority stock interests in a “closed” corporation are usually worth much less than the proportionate share of the assets to which they attach. The defendant produced^ witness experienced in stock handling who verified this view. Value of assets capable of being liquidated is not the sole measure to be applied. And even though the opinion of expert witnesses be relied upon by the parties, such opinions are not conclusive on the court. There are usually great variations in the testimony of such witnesses, as here. As the Supreme Court of the United States said, in the case of Dayton Power & Light Company v. Public Utilities Commission of Ohio, 292 U. S. 290, 54 S. Ct. 647, 652, 78 L. Ed. 1267 (decided April 30, 1934), when commenting on the weight to be given the testimony of valuation experts: “Rut plainly opinions thus offered, even if entitled to some weight, have no such conclusive force that there is error of law in refusing to follow them. This is true of opinion evidence generally, whether addressed to a jury, * * * or to a judge, * * * or to a statutory board. * * * To these perturbing tendencies, all operating to w*eaken the persuasive force of their opinions, there must be added still another, that of interest or bias, conscious or unconscious.”
+The burden in these cases is upon the plaintiffs to establish the value claimed. Confronted with the exceedingly difficult task of endeavoring to arrive at the fair market value of the stock shares held by the plaintiffs, I am unable to satisfactorily conclude tha't the value of March 1, 1913, was any greater than defendant’s counsel accepts, to wit, the value of $1.21 per share. There would seem to be no reason to conclude that the value should be fixed at any different amount as between the two plaintiffs. All objections interposed at the trial as to which ruling was reserved, are overruled, and an exception is noted in favor of the objecting party.
+Counsel shall prepare- such findings and judgment as are required, considering the manner of the submission of the issues in the respective cases, and exception will be noted thereto.
