@@ -1,0 +1,35 @@
+---
+court: "United States District Court for the Southern District of California"
+docket: "9014-Y"
+decided: "1949-11-25"
+citations: ["87 F. Supp. 40"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STRICH et ux. v. WESTOVER, Collector of Internal Revenue."]
+source_url: "https://static.case.law/f-supp/87/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 691560
+cites_cases: ["10 T.C. 1007", "107 F.2d 812", "132 F.2d 345", "135 F.2d 125", "26 U.S.C.A. § 51", "311 U.S. 195", "33 F.Supp. 183", "70 F.2d 985", "8 F.2d 666", "80 F.2d 618", "84 F.Supp. 65"]
+---
+
+# Strich v. Westover
+
+## Majority (YANKWICH, District Judge.)
+
+YANKWICH, District Judge.
+The above-entitled cause heretofore tried, argued and submitted, is now decided as follows:
+Judgment will be for the plaintiffs that they do have and recover of and from the defendant the amount prayed for, respectively, in the Complaint, the correct amounts to be computed under Local Rule 7(h).
+Comment
+The sole question before the court is whether the return filed by the plaintiffs on a single Treasury Department Form 1040 is the separate return of each of the plaintiffs, — as husband and wife.
+I declined on June 23, 1949, to determine the matter on motions for summary judgment filed by both sides, feeling that the question should not be determined solely on the basis of the return, but on the basis of all documentary and oral evidence which bore on the circumstances and the intention in filing the return.
+Such facts are now supplied by the stipulation of facts and the additional documentary evidence introduced at the brief trial. We also have the uncontradicted testimony of one of the parties, — the husband, A. J. Strich, as to the circumstances which led to the filing of the return.
+A consideration of the matter in the light of this testimony leads to the conclusion that the Collector was in error in holding that the return was “a single return made by them jointly,” and in computing the tax “on the aggregate income”. I.R.C. § 51(b), 26 U.S.C.A. § 51(b).
+In seeking to defend the Collector’s action, the Government lays undue emphasis upon the principle that when an election is made by a tax-payer, he should not be permitted to avoid its tax consequence. But cases on which the Government relies in support of this contention, such as Taft v. Helvering, 1940, 311 U.S. 195, 61 S.Ct. 244, 85 L.Ed. 122; Binder v. Welch, 9 Cir., 1939, 107 F.2d 812; Burke & Herbert Bank & Trust Co. v. Commissioner, 1948, 10 T.C. 1007, and others, do not fit the facts in the present case. In each, of these cases, the Court found a distinct indication of an election to use a special form of return.
+The return in this case, in its computation, indicates an intention to make separate returns on a single form. In the light of the testimony in the record, this cannot be brushed aside, as the Collector did, by considering it a mere “error” of computation. For the evidence shows that the plaintiff, a physician, resident up to 1945, of the State of Illinois, did, after his. marriage in California, and on familiarizing himself with the law of community property, so alien to the common law of the State of Illinois, so arrange his affairs as to receive the tax benefits which would come from dividing the income for the year 1946 between himself and his wife by filing separate returns for that year.
+As his wife, who is a trained nurse, assisted him in his professional work as a physician and surgeon, specializing in eye, ear, nose and throat, he went so far as to put her on his payroll, paying her a salary of three hundred dollars a month and securing for her a social security card. He abandoned the practice when informed that, under the law of California, the earnings of both spouses are community property and that the wife, salary or no salary, would be entitled to one-half of the proceeds of their joint professional efforts. The doctor had no assistance in the preparation of the form, but made telephonic inquiry of the Office of the Collector or Revenue Agent, and was informed that separate returns could be included under one form. His treatment of his income after marriage is typical of the pattern observed in the average American professional home. He drew no line of distinction, in computing income, between what had been his when he married and what he acquired afterwards. He did not differentiate between the money which went to purchase the practice from another physician and that which went to purchase the equipment, including optical supplies, which were the source of later income, through fitting patients with glasses. He treated his income from real property (a duplex, half of which the plaintiffs occupied, and a frame building) acquired after marriage, with funds derived partly, at least, from his separate property, and the total income from his medical practice as community property, and listed them as such.
+The law of California encourages contracts between husband and wife relating to property. It requires no particular formal agreement for transmuting the separate property of the husband into community property. California Civil Code, Secs. 158-161a; see my opinions in Bank of America v. Rogan, D.C.Cal.1940, 33 F.Supp. 183; In re Cummings, D.C.Cal.1949, 84 F.Supp. 65. These principles have been given full recognition in tax cases. See, 3 Mertens, Law of Federal Income Taxation, 1942, Secs. 19.20, 19.22; Helvering v. Hickman, 9 Cir., 1934, 70 F.2d 985; Johnson v. United States, 9 Cir., 1943, 135 F.2d 125.
+This evidence was admitted upon the theory that in any matter involving inferences of choice from action, especially when there is' ambiguity in an instrument, cf. McCarthy Co. v. Commissioner, 9 Cir., 1935, 80 F.2d 618; Shambaugh v. Scofield, 5 Cir., 1943, 132 F.2d 345, evidence relating to the intent with which the act was done is materia! And the uncontradicted oral testimony is that there was, at all times, a clear intention to make this return the separate return of the two spouses, and to compute the tax on such basis. The computation on the return, and the commingling on it of funds from private and community sources lend support to the facts so testified to.
+In sum, we are not dealing here with the deliberate choice of action by one wise to ways of tax liability and the consequences which flow from one action rather than another, cf. United States v. Pettigrew, 9 Cir., 1936, 8 F.2d 666, but with the inexpert effort of a lay person, whose mental pattern as to the property of the marital community was set in a state which did not recognize community property, and who sought, as best he could, to secure the benefit of the community property law of California in filing a particular return. These facts and the reasonable inferences from them, compel a ruling which would give him the full benefit of that effort.
+Hence the ruling above made.
+Findings and judgment to be prepared by counsel for the plaintiffs under Local Rule 7.
