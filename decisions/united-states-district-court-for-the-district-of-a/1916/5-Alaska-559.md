@@ -1,0 +1,30 @@
+---
+court: "United States District Court for the District of Alaska"
+docket: "2038"
+decided: "1916-09-30"
+citations: ["5 Alaska 559"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIRST NAT. BANK OF FAIRBANKS v. NOYES."]
+source_url: "https://static.case.law/alaska/5/cases/0559-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1258141
+cites_cases: ["140 Fed. 682", "206 U. S. 158", "224 U. S. 73", "232 Fed. 740", "240 U. S. 541"]
+---
+
+# First Nat. Bank v. Noyes
+
+## Majority (BUNNELL, District Judge.)
+
+BUNNELL, District Judge.
+The greater part of the argument in urging the motion to strike the amended complaint, and in resisting the same, centers around the proper interpretation of 'the principles laid down in Yates v. Jones National Bank, 206 U. S. 158, 27 Sup. Ct. 638, 51 L. Ed. 1002, The mas V. Taylor, 224 U. S. 73, 32 Sup. Ct. 403, 56 L. Ed. 673, and Jones National Bank v. Yates, 240 U. S. 541, 36 Sup. Ct. 429, 60 L. Ed. 788.
+In the matter now before the court, plaintiffs contention is simply this: Eeave has been granted to file an amended complaint and attached thereto exhibits of accounts and accounting in lieu of a bill of particulars to be furnished upon sustaining a motion to make the complaint more definite and certain; that the court therefore says the original complaint states five separate causes' of action; that, since leave to amend has been granted, it is plaintiff’s right to amend each and every cause of action therein contained by setting forth as a matter of inducement and by way of amplification the details connected with each and every transaction involving the right to recover either by reason of an existing common-law liability or by reason of an existing statutory liability; that each of the several alleged causes of action of the amended complaint contains only one separate cause of action; and that what defendant designates as amounting to more than one cause of action is nothing more than an amplification of the matters set forth in the original complaint.
+In so far as the case of Jones National Bank v. Yates, 240 U. S. 541, 36 Sup. Ct. 429, 60 E. Ed. 788, is applicable and in point, it must be accepted as the law. It will be noted that this case was decided April 3, 1916.
+The syllabus states that:
+“Although, plaintiff’s petition does not refer in terms to a federal statute which determines defendant’s liability, if it appears that the case made is essentially one governed by that statute, the action inherently involves the federal question of liability under the statute.’'
+There is nothing in the decision that indicates anything else. Plaintiff’s complaint does not need to refer in terms to the federal statute. If it does, and is otherwise sufficient, the requirements for a good pleading are met; or if it appears that the pleading states a cause of action under the common law, and requires the application of the federal statute in defining and measuring the extent of liability with respect to the acts alleged, it inherently involves the federal question of liability under the statute. Certainly the Supreme Court did not intend to say that the plaintiff can in one cause of action allege facts under a federal statute sufficient to constitute a cause of action, and in the same cause of action allege facts of a similar character sufficient to constitute a cause of action under the common law.
+In Williams v. Brady (D. C.) 232 Fed. 740, decided April 7, 1916, the court certainly does not intend to be understood as saying that facts alleged sufficient to charge a violation of a statutory duty, together with facts sufficient to charge a violation of a common-law duty, may stand together and constitute but one cause of action. If I understand the court correctly, in the event the only liability that can be imposed is based on the violation of a statute, then it is necessary to determine whether or not the allegations of the complaint are sufficient to charge such a liability. But if there is a liability other than that imposed by statute, then the court is to determine whether or not the averments of the bill do in fact set forth a cause of action. '
+The first cause of action in the original complaint set forth in no uncertain terms a cause of action charging the officers and directors of the First National Bank, by reason of certain excessive loans and advances, with violation of the national banking iaws of the United States, and the amount of damages sustained by reason of such violation. As amended, all that was theretofore therein contained was included, and the said officers and directors were alleged to have wrongfully, knowingly, and negligently misappropriated and diverted large sums, quantities, and amounts of the assets, deposits, and moneys of said First National Bank. “Misappropriated,” as applied to a banker or officer of a bank, means the fraudulent act in dealing with the moneys or securities intrusted to such banker or officer of a bank. There is a wide distinction between making excessive loans and advances in violation of the national banking laws of the United States and misappropriating the same. While it is true that a misappropriation could be effected by a so-called loan, such a construction is not consistent with either the original or amended complaint. I am of the opinion that the second and third alleged causes of action in the amended complaint are subject to similar criticism. Certainly the same evidence will not sustain the allegations in the two pleadings. . Kramer v. Gille et al. (C. C.) 140 Fed. 682, and cases therein cited.
+The motion to strike the amended complaint, and the motion to strike certain parts thereof, as heretofore indicated will be denied. But on motion of the court the plaintiff will be required to eliminate from the amended complaint such allegations in the first three alleged causes of action as in the opinion of the court herein expressed state each another cause of action.
+Eeave to thus amend within five days is granted.
