@@ -1,0 +1,27 @@
+---
+court: "United States District Court for the District of Alaska"
+decided: "1905-12-04"
+citations: ["2 Alaska 621"]
+reporter: "alaska"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PACIFIC COAST CO. v. BROWN."]
+source_url: "https://static.case.law/alaska/2/cases/0621-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4864169
+cites_cases: ["19 Or. 80", "23 Pac. 819"]
+---
+
+# Pacific Coast Co. v. Brown
+
+## Majority (GUNNISON, District Judge.)
+
+GUNNISON, District Judge.
+This is an action in ejectment, in which the plaintiff alleges a legal title to certain lots lying within the exterior boundaries of the town of Juneau, Alaska. Plaintiff further alleges that this defendant, while the plaintiff was in possession of such lots, entered without right or title into the possession of the lots, and ousted and ejected the plaintiff therefrom, and now unlawfully withholds possession thereof from the plaintiff. Defendant in his answer interposes a general denial to the allegations of the plaintiff, and for an affirmative answer, and by way of cross-complaint, sets up an equitable title to said lots, and alleges that the deed under which plaintiff claims was procured by fraud, misrepresentation, and deceit, and under and pursuant to a fraudulent purpose, scheme, and device on the part of the plaintiff and plaintiff’s grantors, and prays for the cancellation of plaintiff’s deed, that plaintiff be decreed to hold the legal title in trust for the use and benefit of the defendant, and that defendant be quieted in his title as against the plaintiff. Plaintiff interposes to cross-complaint a motion to strike all the matter set forth as affirmative defense and cross-complaint, for the reason that the same are allegations of matter not issuable in this action; it appearing that the said defense and cross-complaint alleged matters which can only be tried by direct action on the part of the defendant for the purpose of setting aside the deed of plaintiff from the town site trustee to the property in controversy. The plaintiff also interposes a demurrer to the affirmative answer and cross-complaint of the defendant, for the reason that it appears upon the face of the same that the same does not state facts sufficient to constitute a cause of defense in the matter set forth in the complaint of the plaintiff herein. There are a number of actions in this court based upon the same facts, in which the answer is similar to that in this action, and in which motions to strike and demurrers have been interposed by the plaintiff; and it was stipulated in open court by counsel, who wére the same in all actions, that the further proceedings should depend upon the determination of this action.
+Where the distinction between courts of law and courts of equity and between legal and equitable relief is sharply drawn, the motion to strike would be well taken; but the situation in the courts of Alaska is very different. The Alaska Code of Civil Procedure (section 1 of chapter 1) provides that:
+“The distinction between actions at law and suits in equity and the forms of all such actions and suits are abolished, and there shall be but one form of action for the enforcement or protection of private rights and the redress or the prevention of private wrongs which is denominated a civil action.”
+This statute follows only the general trend of legislation in the United States to-day. It was enacted in the interest of the effectual and expeditious adjustment of private matters between litigants, relieving the courts from what would otherwise be a multitude of actions, and permitting litigants to settle in one trial questions which otherwise must be settled, in two or more. The court is thus empowered to afford equitable relief, as well as to render a judgment on the law side, and this at the same time. The particular question in controversy here, however, seems to be covered by the proviso in section 361, c. 38, of the Alaska Code of Civil Procedure (page 223), which is:
+“Provided: This section shall not be construed so as to bar an equitable owner in possession of real property from defending his possession by means of his equitable title; and, in any occasion, for the recovery of any real property or the possession thereof, by any person, or persons, claiming or holding the legal title to the same under such patent (i. e. from the United States) against any person, or persons in possession of such real property under any equitable title, or having in equity the right to the possession thereof as against the plaintiff in such action, such equitable right of possession may be pleaded by answer in such action. * * * ”
+This, in my opinion, is decisive of the motion to strike. The court of Oregon, in the Matter of Spaur, appellant, v. J. T. MacBee, respondent, 19 Or. 80, 23 Pac. 819, says, in discussing this provision: “The defendant sued in ejectment might use his equitable title defensively in an action at law.” I am of the opinion that this section was added to meet exactly the condi-' tions which have arisen in this case, and therefore that the cross-complaint in this answer is a proper one and should stand.
+I am also of the opinion, after examination of the pleadings, that defendant’s cross-complaint is sufficient, and is not subject to the demurrer interposed by the plaintiff.
+Therefore, let an order be entered denying the motion to strike, and overruling the demurrer.
